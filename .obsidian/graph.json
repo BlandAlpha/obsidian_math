@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path: \"1. 函数的极限与连续\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2646004
+      }
+    },
+    {
+      "query": "path:\"0. 杂项\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0.4,
+  "nodeSizeMultiplier": 1.99677419354839,
+  "lineSizeMultiplier": 2.49731182795699,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 0.698924731182796,
+  "linkDistance": 202,
+  "scale": 1.4475402882274013,
+  "close": true
+}

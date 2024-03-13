@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "85d03699e17125fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c27f240784117063",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2768ae29bc11260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "主要概念汇总.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "272f3cd09b802e48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 函数的极限与连续/极限定义.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59f961fb156a6628",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b679f8fafc86f166",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "bb11114e5efa9c05",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "717a16fa42aae28c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "6a4f143a60da8e1a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e7414b1a609e417a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8d541acfb5bb513c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "主要概念汇总.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "24a799cfddf7eb61",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "主要概念汇总.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "683a85498bdf9150",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "主要概念汇总.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "a2768ae29bc11260",
+  "lastOpenFiles": [
+    "1. 函数的极限与连续/极限的计算.md",
+    "主要概念汇总.md",
+    "1. 函数的极限与连续/等价无穷小.md",
+    "1. 函数的极限与连续/极限定义.md",
+    "1. 函数的极限与连续/邻域.md",
+    "1. 函数的极限与连续/无穷小.md",
+    "1. 函数的极限与连续/洛必达法则.md",
+    "1. 函数的极限与连续/两个重要极限.md",
+    "1. 函数的极限与连续/函数极限.md",
+    "未命名.canvas",
+    "1. 函数的极限与连续/超实数.md",
+    "0. 杂项/均值不等式.md",
+    "Untitled.canvas",
+    "1. 函数的极限与连续/无穷大.md",
+    "assets/IMG_6358.jpeg",
+    "assets",
+    "IMG_6358.jpeg",
+    "2. 数列极限",
+    "0. 杂项",
+    "1. 函数的极限与连续",
+    "blandalpha.github.io/向量的线性相关、矩阵的秩总结.md",
+    "考研数学/25考研数学二.md",
+    "考研数学/无穷小.md",
+    "考研数学/等价无穷小.md",
+    "考研数学/超实数.md",
+    "考研数学/函数极限.md",
+    "blandalpha.github.io",
+    "考研数学"
+  ]
+}
