@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. 函数的极限与连续/等价无穷小.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0ba56a73ce13b29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
@@ -35,16 +23,11 @@
             "id": "272f3cd09b802e48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. 函数的极限与连续/极限定义.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,18 +139,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a0ba56a73ce13b29",
+  "active": "a2768ae29bc11260",
   "lastOpenFiles": [
-    "1. 函数的极限与连续/等价无穷小.md",
+    "assets/graph.jpg",
+    "Pasted image 20240313170500.jpg",
+    "1. 函数的极限与连续/两个重要极限.md",
     "README.md",
-    "README",
     "主要概念汇总.md",
-    "1. 函数的极限与连续/极限的计算.md",
+    "().md",
     "1. 函数的极限与连续/极限定义.md",
+    "1. 函数的极限与连续/等价无穷小.md",
+    "README",
+    "1. 函数的极限与连续/极限的计算.md",
     "1. 函数的极限与连续/邻域.md",
     "1. 函数的极限与连续/无穷小.md",
     "1. 函数的极限与连续/洛必达法则.md",
-    "1. 函数的极限与连续/两个重要极限.md",
     "1. 函数的极限与连续/函数极限.md",
     "未命名.canvas",
     "1. 函数的极限与连续/超实数.md",
