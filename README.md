@@ -16,7 +16,7 @@
 
 本仓库理论上说可以被任何markdown阅读器打开；但Obsidian可以使用**内部链接跳转**和**知识图谱**功能，获得最完整的体验。
 
-![graph](assets/graph.jpg “关系图谱”)
+![graph](/assets/graph.jpg)
 
 本地使用只需下载本仓库并使用Obsidian打开即可。
 
