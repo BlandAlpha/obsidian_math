@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "主要概念汇总.md",
-                "mode": "preview",
+                "file": "1. 函数的极限与连续/等价无穷小.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0ba56a73ce13b29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "主要概念汇总.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "主要概念汇总.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "主要概念汇总.md"
+            "file": "README.md"
           }
         }
       }
@@ -143,11 +156,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a2768ae29bc11260",
+  "active": "a0ba56a73ce13b29",
   "lastOpenFiles": [
-    "1. 函数的极限与连续/极限的计算.md",
-    "主要概念汇总.md",
     "1. 函数的极限与连续/等价无穷小.md",
+    "README.md",
+    "README",
+    "主要概念汇总.md",
+    "1. 函数的极限与连续/极限的计算.md",
     "1. 函数的极限与连续/极限定义.md",
     "1. 函数的极限与连续/邻域.md",
     "1. 函数的极限与连续/无穷小.md",
