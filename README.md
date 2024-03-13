@@ -10,11 +10,17 @@
 
 ### 关于本仓库
 
+#### 博客贴文介绍版
+
+[宝宝也能看懂的考研数学笔记 - CanisAlpha](https://blandalpha.github.io/posts/math4baby_project/)
+
+#### README版
+
 本仓库是基于Obsidian的markdown笔记，完全在iPad上完成编写与同步。
 
 > 如果你也想使用iPad进行Git同步，请参考这篇教程：[42号笔记：iOS上使用iSH的git同步Obsidian](https://zhuanlan.zhihu.com/p/565028534)
 
-本仓库理论上说可以被任何markdown阅读器打开；但Obsidian可以使用**标签**、**内部链接跳转**和**知识图谱**功能，获得最完整的体验。
+本仓库理论上说可以被任何markdown阅读器打开；但Obsidian可以使用**标签**、**内部链接跳转**和**知识图谱**功能，获得最完整的体验。为了照顾所有的读者，我会尽量让所有md文档尽量至少在Github的网页中可读且渲染正确。
 
 ![graph](/assets/graph.jpg)
 
