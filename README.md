@@ -14,7 +14,7 @@
 
 > 如果你也想使用iPad进行Git同步，请参考这篇教程：[42号笔记：iOS上使用iSH的git同步Obsidian](https://zhuanlan.zhihu.com/p/565028534)
 
-本仓库理论上说可以被任何markdown阅读器打开；但Obsidian可以使用**内部链接跳转**和**知识图谱**功能，获得最完整的体验。
+本仓库理论上说可以被任何markdown阅读器打开；但Obsidian可以使用**标签**、**内部链接跳转**和**知识图谱**功能，获得最完整的体验。
 
 ![graph](/assets/graph.jpg)
 
