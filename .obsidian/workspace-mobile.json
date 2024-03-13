@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1. 函数的极限与连续/等价无穷小.md",
                 "mode": "source",
                 "source": true
               }
@@ -107,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "1. 函数的极限与连续/等价无穷小.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "1. 函数的极限与连续/等价无穷小.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "1. 函数的极限与连续/等价无穷小.md"
           }
         }
       }
@@ -155,6 +155,10 @@
   },
   "active": "18cac4441caa5221",
   "lastOpenFiles": [
+    "1. 函数的极限与连续/泰勒公式.md",
+    "README.md",
+    "1. 函数的极限与连续/夹逼准则.md",
+    "1. 函数的极限与连续/极限的计算.md",
     "1. 函数的极限与连续/邻域.md",
     "1. 函数的极限与连续/无穷大.md",
     "3. 一元函数微分学/柯西中值定理.md",
@@ -162,16 +166,12 @@
     "0. 杂项/常用函数.md",
     "0. 杂项/应试技巧（揣摩意图）.md",
     "1. 函数的极限与连续/函数极限.md",
-    "1. 函数的极限与连续/极限的计算.md",
     "1. 函数的极限与连续/超实数.md",
     "1. 函数的极限与连续/等价无穷小.md",
-    "1. 函数的极限与连续/夹逼准则.md",
     "1. 函数的极限与连续/两个重要极限.md",
     "1. 函数的极限与连续/无穷小.md",
     "主要概念汇总.md",
     "1. 函数的极限与连续/洛必达法则.md",
-    "1. 函数的极限与连续/泰勒公式.md",
-    "README.md",
     "3. 一元函数微分学",
     "assets/graph.jpg",
     "Pasted image 20240313170500.jpg",
