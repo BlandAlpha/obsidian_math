@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -18,20 +18,34 @@
       "query": "path:\"0. 杂项\"  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 16710465
+      }
+    },
+    {
+      "query": "path:\"2. 数列极限\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7781184
+      }
+    },
+    {
+      "query": "path:\"3. 一元函数微分学\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16755457
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0.4,
   "nodeSizeMultiplier": 1.99677419354839,
-  "lineSizeMultiplier": 2.49731182795699,
-  "collapse-forces": false,
+  "lineSizeMultiplier": 2.49842105263158,
+  "collapse-forces": true,
   "centerStrength": 0.5,
   "repelStrength": 10,
   "linkStrength": 0.698924731182796,
-  "linkDistance": 202,
-  "scale": 1.4475402882274013,
-  "close": true
+  "linkDistance": 300,
+  "scale": 1.4149217258240163,
+  "close": false
 }
