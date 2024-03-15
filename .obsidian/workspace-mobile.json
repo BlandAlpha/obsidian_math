@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a016cb381776b763",
+            "id": "adf4ed45241f7787",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,30 @@
             }
           },
           {
-            "id": "adf4ed45241f7787",
+            "id": "03367b9404392f93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. 函数的极限与连续/函数的连续与间断.md",
+                "file": "主要概念汇总.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "da05c365c57f0f43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. 数列极限/数列的相关概念.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +68,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#待完善",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1. 函数的极限与连续/函数的连续与间断.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1. 函数的极限与连续/函数的连续与间断.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +138,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1. 函数的极限与连续/函数的连续与间断.md"
+            "file": "README.md"
           }
         }
       }
@@ -146,11 +157,19 @@
   },
   "active": "adf4ed45241f7787",
   "lastOpenFiles": [
+    "2. 数列极限/数列的相关概念.md",
     "主要概念汇总.md",
-    "1. 函数的极限与连续/函数的连续与间断.md",
+    "assets/1+1n_series.jpg",
+    "2. 数列极限/海涅定理.md",
+    "2. 数列极限/求解数列极限.md",
+    "数列极限.md",
     "README.md",
-    "1. 函数的极限与连续/泰勒公式.md",
+    "未命名.md",
+    "1. 函数的极限与连续/超实数.md",
     "0. 杂项/重要题目.md",
+    "1. 函数的极限与连续/函数的连续与间断.md",
+    "assets/sin(1x).jpg",
+    "1. 函数的极限与连续/泰勒公式.md",
     "1. 函数的极限与连续/函数极限的计算.md",
     "1. 函数的极限与连续/邻域.md",
     "0. 杂项/应试技巧（揣摩意图）.md",
@@ -161,7 +180,6 @@
     "1. 函数的极限与连续/两个重要极限.md",
     "0. 杂项/常用函数.md",
     "1. 函数的极限与连续/等价无穷小.md",
-    "1. 函数的极限与连续/超实数.md",
     "两重要极限.md",
     "assets/big_head.jpg",
     "assets/important_2-1.jpg",
@@ -174,7 +192,6 @@
     "3. 一元函数微分学",
     "assets/graph.jpg",
     "Pasted image 20240313170500.jpg",
-    "().md",
     "README",
     "Untitled.canvas",
     "assets/IMG_6358.jpeg",
@@ -183,11 +200,6 @@
     "2. 数列极限",
     "0. 杂项",
     "1. 函数的极限与连续",
-    "blandalpha.github.io/向量的线性相关、矩阵的秩总结.md",
-    "考研数学/25考研数学二.md",
-    "考研数学/无穷小.md",
-    "考研数学/等价无穷小.md",
-    "考研数学/超实数.md",
     "blandalpha.github.io",
     "考研数学"
   ]

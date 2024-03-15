@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,44 +8,44 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path: \"1. 函数的极限与连续\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 2646004
-      }
-    },
-    {
       "query": "path:\"0. 杂项\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16710465
-      }
-    },
-    {
-      "query": "path:\"2. 数列极限\"  ",
       "color": {
         "a": 1,
         "rgb": 7781184
       }
     },
     {
+      "query": "path:\"1. 函数的极限与连续\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 25086
+      }
+    },
+    {
+      "query": "path:\"2. 数列极限\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16738816
+      }
+    },
+    {
       "query": "path:\"3. 一元函数微分学\"  ",
       "color": {
         "a": 1,
-        "rgb": 16755457
+        "rgb": 12135773
       }
     }
   ],
   "collapse-display": true,
-  "showArrow": true,
-  "textFadeMultiplier": 0.4,
-  "nodeSizeMultiplier": 1.99677419354839,
-  "lineSizeMultiplier": 2.49842105263158,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.60161290322581,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.5,
+  "centerStrength": 0.518713248970312,
   "repelStrength": 10,
-  "linkStrength": 0.698924731182796,
-  "linkDistance": 300,
-  "scale": 1.4030969874936698,
-  "close": true
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.5456875808508763,
+  "close": false
 }
