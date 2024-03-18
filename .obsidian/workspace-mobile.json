@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. 数列极限/海涅定理（归结原则）.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. 数列极限/海涅定理（归结原则）.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. 数列极限/海涅定理（归结原则）.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. 数列极限/海涅定理（归结原则）.md"
+            "file": "README.md"
           }
         }
       }
@@ -154,6 +154,7 @@
   },
   "active": "da05c365c57f0f43",
   "lastOpenFiles": [
+    "2. 数列极限/海涅定理（归结原则）.md",
     "2. 数列极限/数列的相关概念.md",
     "0. 杂项/重要题目.md",
     "1. 函数的极限与连续/函数极限的计算.md",
@@ -168,7 +169,6 @@
     "1. 函数的极限与连续/夹逼准则.md",
     "1. 函数的极限与连续/等价无穷小.md",
     "1. 函数的极限与连续/泰勒公式.md",
-    "2. 数列极限/海涅定理（归结原则）.md",
     "2. 数列极限/数列极限.md",
     "2. 数列极限/极限四则运算.md",
     "assets/hainie.jpg",
