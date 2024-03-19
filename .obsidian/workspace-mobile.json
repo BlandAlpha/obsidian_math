@@ -13,30 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. 数列极限/数列的相关概念.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "da05c365c57f0f43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "2. 数列极限/放缩法.md",
                 "mode": "preview",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "758f33d49e4a2e52",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -105,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. 数列极限/数列的相关概念.md",
+            "file": "2. 数列极限/放缩法.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. 数列极限/数列的相关概念.md",
+            "file": "2. 数列极限/放缩法.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. 数列极限/数列的相关概念.md"
+            "file": "2. 数列极限/放缩法.md"
           }
         }
       }
@@ -153,46 +133,45 @@
   },
   "active": "03367b9404392f93",
   "lastOpenFiles": [
-    "2. 数列极限/海涅定理（归结原则）.md",
     "0. 杂项/重要题目.md",
-    "README.md",
+    "2. 数列极限/放缩法.md",
+    "2. 数列极限/极限四则运算.md",
+    "1. 函数的极限与连续/夹逼准则.md",
+    "assets/remapping.jpg",
+    "0. 杂项/应试技巧（揣摩意图）.md",
+    "assets/fs_inequality_2.jpg",
+    "assets/fs_inequality_1.jpg",
+    "assets/important_2-1.jpg",
+    "主要概念汇总.md",
     "2. 数列极限/数列的相关概念.md",
+    "2. 数列极限/数列极限.md",
+    "2. 数列极限/海涅定理（归结原则）.md",
+    "0. 杂项/常用公式.md",
+    "README.md",
     "1. 函数的极限与连续/函数极限的计算.md",
     "1. 函数的极限与连续/函数的连续与间断.md",
-    "主要概念汇总.md",
-    "0. 杂项/常用公式.md",
     "1. 函数的极限与连续/函数极限.md",
     "1. 函数的极限与连续/两个重要极限.md",
     "1. 函数的极限与连续/无穷小.md",
     "1. 函数的极限与连续/超实数.md",
     "1. 函数的极限与连续/洛必达法则.md",
-    "1. 函数的极限与连续/夹逼准则.md",
     "1. 函数的极限与连续/等价无穷小.md",
     "1. 函数的极限与连续/泰勒公式.md",
-    "2. 数列极限/数列极限.md",
-    "2. 数列极限/极限四则运算.md",
     "assets/hainie.jpg",
     "2. 数列极限/收敛数列的性质.md",
     "2. 数列极限/无界变量.md",
-    "0. 杂项/应试技巧（揣摩意图）.md",
     "重要不等式.md",
     "assets/1+1n_series.jpg",
     "数列极限.md",
     "assets/sin(1x).jpg",
     "1. 函数的极限与连续/邻域.md",
-    "0. 杂项/均值不等式.md",
-    "两重要极限.md",
     "assets/big_head.jpg",
-    "assets/important_2-1.jpg",
     "assets/important_1.jpg",
     "assets/important_2.jpg",
     "未命名.canvas",
     "3. 一元函数微分学",
-    "assets/graph.jpg",
-    "Pasted image 20240313170500.jpg",
     "README",
     "Untitled.canvas",
-    "assets/IMG_6358.jpeg",
     "assets",
     "2. 数列极限",
     "0. 杂项",
