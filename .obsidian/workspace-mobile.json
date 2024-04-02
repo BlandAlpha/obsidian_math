@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "3. 一元函数微分学/2. 计算/求导公式/分段函数导数.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "3. 一元函数微分学/2. 计算/求导公式/分段函数导数.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "3. 一元函数微分学/2. 计算/求导公式/分段函数导数.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "3. 一元函数微分学/2. 计算/求导公式/分段函数导数.md"
           }
         }
       }
@@ -163,13 +163,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5be665edf6336bc4",
+  "active": "54076956e4a1bd41",
   "lastOpenFiles": [
-    "主目录.md",
+    "3. 一元函数微分学/2. 计算/求导公式/复合函数导数.md",
     "3. 一元函数微分学/2. 计算/求导公式/分段函数导数.md",
+    "README.md",
+    "主目录.md",
     "3. 一元函数微分学/2. 计算/求导方法",
     "3. 一元函数微分学/2. 计算/求导公式",
-    "3. 一元函数微分学/2. 计算/求导公式/复合函数导数.md",
     "3. 一元函数微分学/1. 概念/微分的概念.md",
     "3. 一元函数微分学/2. 计算/求导公式/导数的四则运算.md",
     "3. 一元函数微分学/2. 计算/求导公式/基本求导公式.md",
@@ -178,7 +179,6 @@
     "3. 一元函数微分学/1. 概念/高阶导数.md",
     "3. 一元函数微分学/1. 概念/导数的几何意义.md",
     "3. 一元函数微分学/1. 概念/导数.md",
-    "README.md",
     "assets/weifen_geo.jpg",
     "assets/important_2-1.jpg",
     "assets/derivative_eg.jpg",
