@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 一元函数微分学/2. 计算/高阶导数求导.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -65,7 +65,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#buggy_expression",
+            "query": "tag:#熟记",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "3. 一元函数微分学/2. 计算/高阶导数求导.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "3. 一元函数微分学/2. 计算/高阶导数求导.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "3. 一元函数微分学/2. 计算/高阶导数求导.md"
+            "file": "README.md"
           }
         }
       }
@@ -153,8 +153,12 @@
   },
   "active": "53bea7665a1fdb51",
   "lastOpenFiles": [
-    "assets/lab_formula.svg",
     "3. 一元函数微分学/2. 计算/高阶导数求导.md",
+    "assets/formulas",
+    "assets/Taylor_known_formula.jpg",
+    "0. 杂项/常用公式.md",
+    "assets/formulas/Leibniz_formula.jpg",
+    "assets/lab_formula.svg",
     "3. 一元函数微分学/2. 计算/常用高阶导数.md",
     "3. 一元函数微分学/2. 计算/隐函数导数.md",
     "3. 一元函数微分学/2. 计算/幂指函数求导法.md",
@@ -180,7 +184,6 @@
     "3. 一元函数微分学/2. 计算/求导公式/隐函数导数.md",
     "3. 一元函数微分学/2. 计算/求导公式/导数的四则运算.md",
     "3. 一元函数微分学/2. 计算/求导公式/复合函数导数.md",
-    "3. 一元函数微分学/2. 计算/求导公式/基本求导公式.md",
     "assets/fan2jie.jpg",
     "3. 一元函数微分学/2. 计算/求导方法",
     "3. 一元函数微分学/2. 计算/求导公式",
@@ -188,8 +191,6 @@
     "assets/important_2-1.jpg",
     "assets/derivative_eg.jpg",
     "assets/derivative_eg.jpg",
-    "assets/x13.jpg",
-    "assets/x3.jpg",
     "未命名 1",
     "3. 一元函数微分学/3. 应用",
     "3. 一元函数微分学/2. 计算",
@@ -198,7 +199,6 @@
     "3. 一元函数微分学",
     "README",
     "Untitled.canvas",
-    "assets",
-    "2. 数列极限"
+    "assets"
   ]
 }
