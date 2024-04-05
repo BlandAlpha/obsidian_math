@@ -20,26 +20,27 @@
             }
           },
           {
+            "id": "5be665edf6336bc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. 一元函数微分学/1. 概念/微分的概念.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "ae6383871dba4b15",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "5be665edf6336bc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "3. 一元函数微分学/2. 计算/求导公式/反函数导数.md",
+            "file": "3. 一元函数微分学/1. 概念/微分的概念.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "3. 一元函数微分学/2. 计算/求导公式/反函数导数.md",
+            "file": "3. 一元函数微分学/1. 概念/微分的概念.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "3. 一元函数微分学/2. 计算/求导公式/反函数导数.md"
+            "file": "3. 一元函数微分学/1. 概念/微分的概念.md"
           }
         }
       }
@@ -150,14 +151,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b81b2ae6516ab464",
+  "active": "5be665edf6336bc4",
   "lastOpenFiles": [
+    "3. 一元函数微分学/2. 计算/求导公式/反函数导数.md",
+    "README.md",
     "3. 一元函数微分学/1. 概念/微分的概念.md",
     "3. 一元函数微分学/2. 计算/求导公式/隐函数导数.md",
     "3. 一元函数微分学/2. 计算/求导公式/导数的四则运算.md",
     "3. 一元函数微分学/2. 计算/求导公式/复合函数导数.md",
     "3. 一元函数微分学/2. 计算/求导公式/基本求导公式.md",
-    "3. 一元函数微分学/2. 计算/求导公式/反函数导数.md",
     "3. 一元函数微分学/2. 计算/求导公式/参数方程函数导数.md",
     "1. 函数的极限与连续/等价无穷小.md",
     "3. 一元函数微分学/1. 概念/高阶导数.md",
@@ -168,7 +170,6 @@
     "主目录.md",
     "0. 杂项/重要题目.md",
     "assets/fan2jie.jpg",
-    "README.md",
     "3. 一元函数微分学/2. 计算/求导方法",
     "3. 一元函数微分学/2. 计算/求导公式",
     "0. 杂项/常用公式.md",
