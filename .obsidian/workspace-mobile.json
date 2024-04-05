@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 一元函数微分学/2. 计算/常用高阶导数.md",
+                "file": "3. 一元函数微分学/2. 计算/高阶导数求导.md",
                 "mode": "preview",
                 "source": true
               }
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "3. 一元函数微分学/2. 计算/常用高阶导数.md",
+            "file": "3. 一元函数微分学/2. 计算/高阶导数求导.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "3. 一元函数微分学/2. 计算/常用高阶导数.md",
+            "file": "3. 一元函数微分学/2. 计算/高阶导数求导.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "3. 一元函数微分学/2. 计算/常用高阶导数.md"
+            "file": "3. 一元函数微分学/2. 计算/高阶导数求导.md"
           }
         }
       }
@@ -153,8 +153,8 @@
   },
   "active": "53bea7665a1fdb51",
   "lastOpenFiles": [
-    "3. 一元函数微分学/2. 计算/高阶导数求导.md",
     "3. 一元函数微分学/2. 计算/常用高阶导数.md",
+    "3. 一元函数微分学/2. 计算/高阶导数求导.md",
     "3. 一元函数微分学/2. 计算/隐函数导数.md",
     "3. 一元函数微分学/2. 计算/幂指函数求导法.md",
     "3. 一元函数微分学/2. 计算/对数求导法.md",
