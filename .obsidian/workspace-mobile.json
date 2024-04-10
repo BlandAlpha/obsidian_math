@@ -11,8 +11,12 @@
             "id": "53bea7665a1fdb51",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0. 杂项/重要题目.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -22,25 +26,37 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0127d7ffe4877e51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-3. 一元函数微分学/3. 应用/1. 几何应用/极值的定义.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "99dbed5bae2f481e",
+            "id": "c31b84808d246564",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-3. 一元函数微分学/3. 应用/作函数图像.md",
+                "file": "README.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1-3. 一元函数微分学/3. 应用/作函数图像.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1-3. 一元函数微分学/3. 应用/作函数图像.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1-3. 一元函数微分学/3. 应用/作函数图像.md"
+            "file": "README.md"
           }
         }
       }
@@ -151,36 +167,38 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "99dbed5bae2f481e",
+  "active": "c31b84808d246564",
   "lastOpenFiles": [
-    "1-3. 一元函数微分学/3. 应用/最值或取值范围.md",
-    "1-3. 一元函数微分学/3. 应用/渐近线.md",
-    "0. 杂项/重要题目.md",
-    "assets/approx_line_solve.jpg",
-    "1-3. 一元函数微分学/3. 应用/极值点与拐点的重要结论.md",
     "1-3. 一元函数微分学/3. 应用/3-3. 应用.md",
-    "1-3. 一元函数微分学/3. 应用/1. 几何应用/凹凸性与拐点的判别.md",
-    "1-3. 一元函数微分学/3. 一元函数微分学.md",
-    "高等数学主目录.md",
-    "1-3. 一元函数微分学/1. 概念/3-1. 概念.md",
-    "README.md",
     "1-3. 一元函数微分学/3. 应用/1. 几何应用/极值的定义.md",
+    "assets/approx_line_solve.jpg",
+    "1-1. 函数的极限与连续/1. 函数的极限与连续.md",
+    "0. 杂项/0. 杂项.md",
     "1-3. 一元函数微分学/2. 计算/3-2. 计算.md",
+    "1-3. 一元函数微分学/3. 一元函数微分学.md",
+    "1-3. 一元函数微分学/3. 应用/1. 几何应用/曲率与曲率半径.md",
+    "1-3. 一元函数微分学/3. 应用/1. 几何应用/最值或取值范围.md",
+    "1-3. 一元函数微分学/3. 应用/1. 几何应用/渐近线.md",
+    "1-3. 一元函数微分学/3. 应用/1. 几何应用/作函数图像.md",
+    "1-3. 一元函数微分学/3. 应用/1. 几何应用/极值点与拐点的重要结论.md",
+    "1-3. 一元函数微分学/1. 概念/3-1. 概念.md",
+    "1-2. 数列极限/2. 数列极限.md",
+    ":q",
+    "1-3. 一元函数微分学/3. 应用/1. 几何应用/凹凸性与拐点的判别.md",
+    "README.md",
+    "0. 杂项/重要题目.md",
+    "高等数学主目录.md",
+    "assets/fs_inequality_2.jpg",
+    "assets/graph.jpg",
     "1-3. 一元函数微分学/1. 概念/导数的几何意义.md",
     "1-3. 一元函数微分学/1. 概念/导数.md",
-    "1-2. 数列极限/2. 数列极限.md",
     "1-1. 函数的极限与连续/无穷小.md",
     "1-1. 函数的极限与连续/无穷大.md",
     "1-1. 函数的极限与连续/函数的连续与间断.md",
     "1-1. 函数的极限与连续/函数极限的计算.md",
-    "1-1. 函数的极限与连续/1. 函数的极限与连续.md",
     "1-1. 函数的极限与连续/函数极限.md",
     "1-1. 函数的极限与连续/邻域.md",
-    "0. 杂项/0. 杂项.md",
-    "1-3. 一元函数微分学/3. 应用/曲率与曲率半径.md",
     "assets/graph.jpg",
-    "1-3. 一元函数微分学/3. 应用/作函数图像.md",
-    "1-3. 一元函数微分学/3. 应用/1. 几何应用/凹凸性与拐点的概念.md",
     "assets/graph.jpg",
     "assets/graph.jpg",
     "assets/aotu_2.jpg",
@@ -195,10 +213,7 @@
     "2-2. 矩阵",
     "2-1. 行列式",
     "1-7. 微分方程",
-    "1-6. 二重积分",
     "assets/eg_4.18_sol.jpg",
-    "assets/Taylor_known_formula.jpg",
-    "assets/formulas/Leibniz_formula.jpg",
     "未命名.canvas",
     "Untitled.canvas"
   ]
