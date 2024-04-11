@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "1-3. 一元函数微分学/3. 应用/1. 几何应用/曲率与曲率半径.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "1-3. 一元函数微分学/3. 应用/1. 几何应用/曲率与曲率半径.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "1-3. 一元函数微分学/3. 应用/1. 几何应用/曲率与曲率半径.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "1-3. 一元函数微分学/3. 应用/1. 几何应用/曲率与曲率半径.md"
           }
         }
       }
@@ -158,8 +158,8 @@
   "active": "2fe49a11a569853e",
   "lastOpenFiles": [
     "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/中值定理.md",
-    "0. 杂项/重要题目.md",
     "README.md",
+    "0. 杂项/重要题目.md",
     "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/微分等式.md",
     "1-3. 一元函数微分学/3. 一元函数微分学.md",
     "1-3. 一元函数微分学/3. 应用/3-3. 应用.md",
