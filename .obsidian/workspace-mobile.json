@@ -32,19 +32,39 @@
             }
           },
           {
-            "id": "2fe49a11a569853e",
+            "id": "6b2ff63619ab98fd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "06ce3a08c9900536",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-3. 一元函数微分学/3. 应用/1. 几何应用/曲率与曲率半径.md",
-                "mode": "source",
+                "file": "1-3. 一元函数微分学/2. 计算/导数的四则运算.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "581b4f4a1b28c220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/中值定理.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +89,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "中值定理",
+            "query": "拉格朗日",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -110,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1-3. 一元函数微分学/3. 应用/1. 几何应用/曲率与曲率半径.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1-3. 一元函数微分学/3. 应用/1. 几何应用/曲率与曲率半径.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1-3. 一元函数微分学/3. 应用/1. 几何应用/曲率与曲率半径.md"
+            "file": "README.md"
           }
         }
       }
@@ -155,45 +175,45 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2fe49a11a569853e",
+  "active": "ae6383871dba4b15",
   "lastOpenFiles": [
-    "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/中值定理.md",
-    "README.md",
     "0. 杂项/重要题目.md",
-    "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/微分等式.md",
+    "assets/remapping.jpg",
+    "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/中值定理.md",
+    "assets/lagrange.jpg",
+    "assets/lagrange.jpg",
+    "1-3. 一元函数微分学/1. 概念/导数.md",
+    "0. 杂项/应试技巧（揣摩意图）.md",
     "1-3. 一元函数微分学/3. 一元函数微分学.md",
+    "assets/rolle.jpg",
+    "assets/rolle_func_2.jpg",
+    "assets/rolle_func_1.jpg",
+    "1-3. 一元函数微分学/2. 计算/导数的四则运算.md",
+    "1-3. 一元函数微分学/2. 计算/3-2. 计算.md",
+    "1-3. 一元函数微分学/2. 计算/复合函数导数.md",
+    "assets/rolle_extend.jpg",
+    "assets/rolle_extend.jpg",
+    "assets/fermat.jpg",
+    "assets/sin1x.jpg",
     "1-3. 一元函数微分学/3. 应用/3-3. 应用.md",
-    "1-3. 一元函数微分学/柯西中值定理.md",
-    "1-1. 函数的极限与连续/洛必达法则.md",
+    "README.md",
+    "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/微分等式.md",
     "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/微分不等式.md",
-    "1-3. 一元函数微分学/3. 应用/1. 几何应用/曲率与曲率半径.md",
     "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式",
+    "1-1. 函数的极限与连续/洛必达法则.md",
+    "1-3. 一元函数微分学/柯西中值定理.md",
+    "1-3. 一元函数微分学/3. 应用/1. 几何应用/曲率与曲率半径.md",
     "1-3. 一元函数微分学/3. 应用/1. 几何应用/作函数图像.md",
     "1-3. 一元函数微分学/3. 应用/1. 几何应用/凹凸性与拐点的判别.md",
     "1-3. 一元函数微分学/3. 应用/1. 几何应用/最值或取值范围.md",
     "1-3. 一元函数微分学/3. 应用/1. 几何应用/极值的定义.md",
-    "assets/approx_line_solve.jpg",
     "1-1. 函数的极限与连续/1. 函数的极限与连续.md",
     "0. 杂项/0. 杂项.md",
-    "1-3. 一元函数微分学/2. 计算/3-2. 计算.md",
     "1-3. 一元函数微分学/3. 应用/1. 几何应用/渐近线.md",
     "1-3. 一元函数微分学/3. 应用/1. 几何应用/极值点与拐点的重要结论.md",
     "1-3. 一元函数微分学/1. 概念/3-1. 概念.md",
     "1-2. 数列极限/2. 数列极限.md",
     ":q",
-    "高等数学主目录.md",
-    "assets/fs_inequality_2.jpg",
-    "assets/graph.jpg",
-    "1-3. 一元函数微分学/1. 概念/导数的几何意义.md",
-    "1-3. 一元函数微分学/1. 概念/导数.md",
-    "1-1. 函数的极限与连续/无穷小.md",
-    "1-1. 函数的极限与连续/无穷大.md",
-    "assets/graph.jpg",
-    "assets/graph.jpg",
-    "assets/graph.jpg",
-    "assets/aotu_2.jpg",
-    "assets/aotu2.jpg",
-    "assets/aotu1.jpg",
     "1-4. 一元函数积分学",
     "1-3. 一元函数微分学/3. 应用/1. 几何应用",
     "2-6. 二次型",
@@ -202,7 +222,6 @@
     "2-3. 向量组",
     "2-2. 矩阵",
     "2-1. 行列式",
-    "assets/eg_4.18_sol.jpg",
     "未命名.canvas",
     "Untitled.canvas"
   ]
