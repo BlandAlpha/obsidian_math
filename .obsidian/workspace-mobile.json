@@ -57,14 +57,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/中值定理.md",
+                "file": "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/微分等式.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/中值定理.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/中值定理.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -159,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/中值定理.md"
+            "file": "README.md"
           }
         }
       }
@@ -175,45 +175,45 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "581b4f4a1b28c220",
+  "active": "ae6383871dba4b15",
   "lastOpenFiles": [
+    "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/微分等式.md",
     "0. 杂项/重要题目.md",
+    "0. 杂项/常用公式.md",
+    "assets/diff_eq_2.jpg",
+    "assets/diff_eq_1.jpg",
+    "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/微分不等式.md",
     "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/中值定理.md",
+    "assets/rolle_func_1.jpg",
+    "assets/rolle.jpg",
+    "assets/rolle_extend.jpg",
+    "assets/rolle_multi.jpg",
+    "assets/newton_interpo.jpg",
+    "assets/newton_interp.jpg",
+    "1-3. 一元函数微分学/3. 应用/3-3. 应用.md",
+    "assets/sin1x.jpg",
+    "1-3. 一元函数微分学/3. 应用/3. 物理应用",
+    "README.md",
     "1-3. 一元函数微分学/2. 计算/高阶导数求导.md",
     "1-1. 函数的极限与连续/泰勒公式.md",
     "1-1. 函数的极限与连续/函数极限的计算.md",
     "1-1. 函数的极限与连续/1. 函数的极限与连续.md",
     "assets/maclaurin_2.jpg",
-    "assets/maclaurin_1.jpg",
     "1-3. 一元函数微分学/1. 概念/导数.md",
     "1-1. 函数的极限与连续/函数的连续与间断.md",
     "1-3. 一元函数微分学/1. 概念/微分的概念.md",
     "1-3. 一元函数微分学/1. 概念/导数的几何意义.md",
     "1-3. 一元函数微分学/2. 计算/导数的四则运算.md",
-    "README.md",
     "0. 杂项/应试技巧（揣摩意图）.md",
-    "0. 杂项/常用公式.md",
     "0. 杂项/均值不等式.md",
     "0. 杂项/0. 杂项.md",
-    "assets/remapping.jpg",
-    "assets/lagrange.jpg",
-    "assets/lagrange.jpg",
     "1-3. 一元函数微分学/3. 一元函数微分学.md",
-    "assets/rolle.jpg",
-    "assets/rolle_func_2.jpg",
-    "assets/rolle_func_1.jpg",
     "1-3. 一元函数微分学/2. 计算/3-2. 计算.md",
     "1-3. 一元函数微分学/2. 计算/复合函数导数.md",
-    "assets/rolle_extend.jpg",
-    "assets/rolle_extend.jpg",
-    "1-3. 一元函数微分学/3. 应用/3-3. 应用.md",
-    "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/微分等式.md",
-    "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/微分不等式.md",
     "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式",
     "1-1. 函数的极限与连续/洛必达法则.md",
     "1-3. 一元函数微分学/柯西中值定理.md",
     "1-3. 一元函数微分学/3. 应用/1. 几何应用/曲率与曲率半径.md",
-    "1-3. 一元函数微分学/3. 应用/1. 几何应用/作函数图像.md",
     ":q",
     "1-4. 一元函数积分学",
     "1-3. 一元函数微分学/3. 应用/1. 几何应用",
@@ -222,7 +222,6 @@
     "2-4. 线性方程组",
     "2-3. 向量组",
     "2-2. 矩阵",
-    "2-1. 行列式",
     "未命名.canvas",
     "Untitled.canvas"
   ]
