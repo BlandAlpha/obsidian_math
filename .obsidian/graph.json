@@ -41,11 +41,32 @@
         "a": 1,
         "rgb": 16116736
       }
+    },
+    {
+      "query": "path:\"1-5. 多元函数微分学\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"1-6. 二重积分\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431454
+      }
+    },
+    {
+      "query": "path:\"1-7. 微分方程\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431387
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -0.8,
   "nodeSizeMultiplier": 1.60161290322581,
   "lineSizeMultiplier": 1.41720430107527,
   "collapse-forces": true,
@@ -53,6 +74,6 @@
   "repelStrength": 12.1505376344086,
   "linkStrength": 0.736559139784946,
   "linkDistance": 113,
-  "scale": 0.5773827608436498,
+  "scale": 0.4118329558509787,
   "close": false
 }
