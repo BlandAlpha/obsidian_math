@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/4-1. 概念.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -168,8 +163,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "14de34ee1aef9370",
+  "active": "b54b704a9805ed69",
   "lastOpenFiles": [
+    "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
     "1-4. 一元函数积分学/4. 一元函数积分学.md",
     "1-7. 微分方程/7. 微分方程.md",
     "高等数学主目录.md",
@@ -189,7 +185,6 @@
     "1-3. 一元函数微分学/3. 应用/3-3. 应用.md",
     "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/中值定理.md",
     "0. 杂项/常用公式.md",
-    "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
     "1-1. 函数的极限与连续/两个重要极限.md",
     "1-1. 函数的极限与连续/洛必达法则.md",
     "1-2. 数列极限/收敛数列的性质.md",
