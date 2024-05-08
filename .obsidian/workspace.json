@@ -109,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -171,8 +169,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "520af66c8ac0b79d",
+  "active": "b54b704a9805ed69",
   "lastOpenFiles": [
+    "README.md",
+    "conflict-files-obsidian-git.md",
     "线性代数主目录.md",
     "1-7. 微分方程/7. 微分方程.md",
     "1-7. 微分方程",
@@ -184,7 +184,6 @@
     "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
     "1-4. 一元函数积分学/4. 一元函数积分学.md",
     "高等数学主目录.md",
-    "README.md",
     "未命名.canvas",
     "1-3. 一元函数微分学/3. 一元函数微分学.md",
     "1-3. 一元函数微分学/2. 计算/参数方程函数导数.md",
