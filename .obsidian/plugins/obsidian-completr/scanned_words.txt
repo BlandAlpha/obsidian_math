@@ -16,6 +16,7 @@ ip
 iIJJ
 ihh
 iZ
+interpo
 Windows
 Wk
 WyRk
@@ -50,6 +51,8 @@ mR
 mh
 mz
 mx
+multi
+maclaurin
 README
 Rt
 Rig
@@ -148,6 +151,7 @@ rld
 rr
 rT
 rJ
+rolle
 them
 the
 to
@@ -195,6 +199,8 @@ fZ
 fq
 fx
 fg
+fermat
+func
 by
 be
 before
@@ -250,6 +256,7 @@ lWW
 lZ
 lm
 ln
+lagrange
 Not
 Ng
 NJKKM
@@ -322,6 +329,7 @@ eK
 eKz
 eT
 eZ
+extend
 png
 pHYs
 pF
@@ -430,6 +438,7 @@ nRG
 nuu
 nTV
 nl
+newton
 Mn
 MOO
 Mm
