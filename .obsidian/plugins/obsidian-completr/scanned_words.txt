@@ -1,12 +1,14 @@
 Obsidian
 iPad
 in
+int
 Windows
 Github
 Git
 md
 markdown
 mode
+midpoint
 README
 assets
 all
