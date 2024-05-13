@@ -194,8 +194,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "520af66c8ac0b79d",
+  "active": "b00fbb3bcc94f2ed",
   "lastOpenFiles": [
+    "assets/int_sep.png",
+    "assets/int_aprox.png",
+    "assets/int_sep1.png",
     "README.md",
     "1-4. 一元函数积分学/1. 概念/定积分.md",
     "assets/int_area.png",
