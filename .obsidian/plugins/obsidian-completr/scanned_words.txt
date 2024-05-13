@@ -17,6 +17,7 @@ automatically
 available
 above
 area
+aprox
 graph
 jpg
 json
@@ -66,6 +67,7 @@ of
 Additional
 strongly
 simple
+sep
 Source
 viewing
 For
