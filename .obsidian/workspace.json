@@ -44,8 +44,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
             "id": "0ac78dc9dd4c586e",
@@ -117,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1a1fad4125d04c6e",
@@ -195,13 +195,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "34f9defbbc181db2",
+  "active": "520af66c8ac0b79d",
   "lastOpenFiles": [
+    "README.md",
     "1-4. 一元函数积分学/1. 概念/定积分.md",
+    "assets/int_lim.png",
     "assets/int_sep.png",
     "assets/int_aprox.png",
     "assets/int_sep1.png",
-    "README.md",
     "assets/int_area.png",
     "1-4. 一元函数积分学/1. 概念/不定积分.md",
     "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
