@@ -44,8 +44,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
             "id": "d2077d0c79c13d9f",
@@ -117,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1a1fad4125d04c6e",
@@ -195,8 +195,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f4151f79df61e920",
+  "active": "520af66c8ac0b79d",
   "lastOpenFiles": [
+    "assets/int_chrct5.png",
     "1-4. 一元函数积分学/1. 概念/定积分.md",
     "assets/int_chrct4.png",
     "1-4. 一元函数积分学/1. 概念/不定积分.md",
