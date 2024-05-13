@@ -10,7 +10,7 @@
           {
             "id": "623b74e9bdedbb62",
             "type": "tabs",
-            "dimension": 57.95698924731183,
+            "dimension": 51.50537634408602,
             "children": [
               {
                 "id": "520af66c8ac0b79d",
@@ -49,7 +49,7 @@
           {
             "id": "0ac78dc9dd4c586e",
             "type": "tabs",
-            "dimension": 42.04301075268817,
+            "dimension": 48.494623655913976,
             "children": [
               {
                 "id": "34f9defbbc181db2",
@@ -195,7 +195,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "520af66c8ac0b79d",
+  "active": "b54b704a9805ed69",
   "lastOpenFiles": [
     "README.md",
     "1-4. 一元函数积分学/1. 概念/定积分.md",
