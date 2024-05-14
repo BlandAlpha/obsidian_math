@@ -17,6 +17,7 @@ iIJJ
 ihh
 iZ
 interpo
+infty
 Windows
 Wk
 WyRk
@@ -53,6 +54,9 @@ mz
 mx
 multi
 maclaurin
+max
+mathrm
+mL
 README
 Rt
 Rig
@@ -152,6 +156,7 @@ rr
 rT
 rJ
 rolle
+right
 them
 the
 to
@@ -177,6 +182,7 @@ ck
 cU
 cZ
 chrct
+cdot
 using
 use
 ut
@@ -201,6 +207,7 @@ fx
 fg
 fermat
 func
+frac
 by
 be
 before
@@ -244,6 +251,7 @@ dJ
 dDR
 dt
 ddd
+delta
 list
 listed
 lim
@@ -257,6 +265,8 @@ lZ
 lm
 ln
 lagrange
+lambda
+left
 Not
 Ng
 NJKKM
@@ -293,6 +303,7 @@ sn
 sU
 sM
 sY
+sum
 Source
 Sgg
 Sd
@@ -337,6 +348,7 @@ pX
 pA
 pR
 pcZA
+pm
 xoX
 xO
 xT
@@ -345,6 +357,7 @@ xK
 xM
 xo
 xQ
+xi
 Jizz
 JVs
 Jm
@@ -445,6 +458,7 @@ Mm
 MR
 MW
 MC
+ML
 ZO
 ZR
 Zi
@@ -463,6 +477,7 @@ Dx
 Dp
 Dvt
 DGEui
+Delta
 zz
 zD
 zk
