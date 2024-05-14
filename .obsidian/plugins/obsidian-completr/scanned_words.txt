@@ -304,6 +304,7 @@ sU
 sM
 sY
 sum
+sqrt
 Source
 Sgg
 Sd
@@ -452,6 +453,7 @@ nuu
 nTV
 nl
 newton
+ni
 Mn
 MOO
 Mm
