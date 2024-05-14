@@ -4,97 +4,74 @@
     "type": "split",
     "children": [
       {
-        "id": "e109d99c9e10aef5",
+        "id": "505fdd697419f26c",
         "type": "split",
         "children": [
           {
-            "id": "505fdd697419f26c",
-            "type": "split",
-            "dimension": 51.02459016393443,
-            "children": [
-              {
-                "id": "623b74e9bdedbb62",
-                "type": "tabs",
-                "dimension": 60.322580645161295,
-                "children": [
-                  {
-                    "id": "c71260b2ba338101",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "README.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "520af66c8ac0b79d",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "1-4. 一元函数积分学/1. 概念/定积分.md",
-                        "mode": "source",
-                        "source": true
-                      }
-                    }
-                  },
-                  {
-                    "id": "ce9ad78c86db2ac1",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "0. 杂项/重要题目.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ],
-                "currentTab": 1
-              },
-              {
-                "id": "fa085ace5ce4dcb2",
-                "type": "tabs",
-                "dimension": 39.67741935483871,
-                "children": [
-                  {
-                    "id": "42c0669ded97c174",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "1-4. 一元函数积分学/1. 概念/定积分.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
-          },
-          {
-            "id": "eba4b31da26f0195",
+            "id": "623b74e9bdedbb62",
             "type": "tabs",
-            "dimension": 48.97540983606557,
+            "dimension": 66.98924731182797,
             "children": [
               {
-                "id": "46c42a3a28645c5c",
+                "id": "c71260b2ba338101",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "520af66c8ac0b79d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1-4. 一元函数积分学/1. 概念/定积分.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "ce9ad78c86db2ac1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0. 杂项/重要题目.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "fa085ace5ce4dcb2",
+            "type": "tabs",
+            "dimension": 33.01075268817204,
+            "children": [
+              {
+                "id": "42c0669ded97c174",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1-4. 一元函数积分学/1. 概念/定积分.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ]
           }
         ],
-        "direction": "vertical"
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -144,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1a1fad4125d04c6e",
@@ -160,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1-4. 一元函数积分学/1. 概念/定积分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1-4. 一元函数积分学/1. 概念/定积分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1-4. 一元函数积分学/1. 概念/定积分.md"
+              }
             }
           }
         ],
@@ -218,7 +200,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "46c42a3a28645c5c",
+  "active": "520af66c8ac0b79d",
   "lastOpenFiles": [
     "1-4. 一元函数积分学/1. 概念/定积分.md",
     "0. 杂项/重要题目.md",
