@@ -10,7 +10,7 @@
           {
             "id": "623b74e9bdedbb62",
             "type": "tabs",
-            "dimension": 56.666666666666664,
+            "dimension": 49.78494623655914,
             "children": [
               {
                 "id": "c71260b2ba338101",
@@ -54,7 +54,7 @@
           {
             "id": "fa085ace5ce4dcb2",
             "type": "tabs",
-            "dimension": 43.333333333333336,
+            "dimension": 50.215053763440864,
             "children": [
               {
                 "id": "42c0669ded97c174",
@@ -63,7 +63,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "1-4. 一元函数积分学/1. 概念/定积分.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": false
                   }
                 }
