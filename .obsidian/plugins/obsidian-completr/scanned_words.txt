@@ -375,6 +375,10 @@ fX
 fTi
 fh
 fs
+formulas
+formula
+fun
+fact
 by
 be
 before
@@ -392,6 +396,7 @@ bU
 bqY
 bc
 bV
+big
 This
 TZ
 TToO
@@ -409,6 +414,8 @@ ThP
 Trq
 TeW
 TR
+Taylor
+TODO
 will
 workspace
 with
@@ -445,6 +452,8 @@ dqO
 dE
 div
 dandiao
+derivative
+def
 list
 listed
 lim
@@ -539,6 +548,8 @@ sYQ
 sR
 sa
 sL
+sol
+sin
 Source
 Sgg
 Sd
@@ -580,6 +591,7 @@ vve
 vI
 vKWbe
 vsSv
+vis
 For
 FF
 FS
@@ -613,6 +625,7 @@ eo
 eH
 etF
 eYl
+eg
 png
 pHYs
 pF
@@ -724,6 +737,7 @@ kv
 ku
 kt
 kQ
+known
 Umu
 Uf
 Uz
@@ -819,6 +833,7 @@ hz
 hzE
 hJ
 hp
+head
 nL
 nRG
 nuu
@@ -953,3 +968,4 @@ LCy
 Lfa
 LW
 LNNJ
+Leibniz
