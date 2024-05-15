@@ -37,31 +37,15 @@
                 }
               },
               {
-                "id": "ce9ad78c86db2ac1",
+                "id": "b87bc6ce411b6929",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "0. 杂项/重要题目.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "6552df05dd059839",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "0. 杂项/常用公式.md",
-                    "mode": "preview",
-                    "source": true
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           },
           {
             "id": "fa085ace5ce4dcb2",
@@ -112,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "重要不等式",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 杂项/常用公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. 杂项/常用公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. 杂项/常用公式.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -211,18 +192,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6552df05dd059839",
+  "active": "b87bc6ce411b6929",
   "lastOpenFiles": [
-    "assets/diff_eq_1.jpg",
-    "0. 杂项/常用公式.md",
-    "assets/e^x_div_x.png",
+    "README.md",
     "0. 杂项/重要题目.md",
+    "1-2. 数列极限/放缩法.md",
+    "1-2. 数列极限/单调有界原则.md",
+    "0. 杂项/常用公式.md",
+    "assets/tanx&x_compare.png",
+    "assets/diff_eq_1.jpg",
+    "assets/e^x_div_x.png",
     "0. 杂项/0. 杂项.md",
     "1-1. 函数的极限与连续/1. 函数的极限与连续.md",
     "0. 杂项/应试技巧（揣摩意图）.md",
     "0. 杂项/均值不等式.md",
     "1-4. 一元函数积分学/1. 概念/定积分.md",
-    "README.md",
     "1-1. 函数的极限与连续/夹逼准则.md",
     "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/中值定理.md",
     "assets/int_chrct6.png",
@@ -233,7 +217,6 @@
     "assets/int_sep.png",
     "assets/int_aprox.png",
     "assets/int_sep1.png",
-    "assets/int_area.png",
     "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
     "1-4. 一元函数积分学/1. 概念/变限积分.md",
     "1-4. 一元函数积分学/4. 一元函数积分学.md",
@@ -250,7 +233,6 @@
     "1-3. 一元函数微分学/3. 一元函数微分学.md",
     "1-3. 一元函数微分学/2. 计算/参数方程函数导数.md",
     "1-3. 一元函数微分学/2. 计算/常用高阶导数.md",
-    "1-3. 一元函数微分学/2. 计算/3-2. 计算.md",
-    "1-3. 一元函数微分学/3. 应用/3-3. 应用.md"
+    "1-3. 一元函数微分学/2. 计算/3-2. 计算.md"
   ]
 }
