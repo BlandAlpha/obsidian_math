@@ -6,7 +6,7 @@
       {
         "id": "623b74e9bdedbb62",
         "type": "tabs",
-        "dimension": 47.21835883171071,
+        "dimension": 50.06954102920723,
         "children": [
           {
             "id": "db67e8f746bad803",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/定积分.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "10426fc00ddabc46",
         "type": "tabs",
-        "dimension": 30.04172461752434,
+        "dimension": 24.617524339360223,
         "children": [
           {
             "id": "520af66c8ac0b79d",
@@ -44,7 +44,7 @@
       {
         "id": "571b494f33c6e558",
         "type": "tabs",
-        "dimension": 22.739916550764953,
+        "dimension": 25.312934631432544,
         "children": [
           {
             "id": "1542bc1498ff379f",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "注意",
+                "query": "结果存在",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/定积分.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/定积分.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/定积分.md"
+                "file": "README.md"
               }
             }
           }
@@ -184,8 +184,12 @@
   },
   "active": "db67e8f746bad803",
   "lastOpenFiles": [
-    "1-4. 一元函数积分学/1. 概念/变限积分.md",
     "1-4. 一元函数积分学/1. 概念/定积分.md",
+    "assets/readme/feature_link.png",
+    "assets/readme/featuer_link.png",
+    "README.md",
+    "1-1. 函数的极限与连续/洛必达法则.md",
+    "1-4. 一元函数积分学/1. 概念/变限积分.md",
     "1-4. 一元函数积分学/1. 概念/不定积分.md",
     "1-1. 函数的极限与连续/函数极限的计算.md",
     "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
@@ -207,12 +211,8 @@
     "1-3. 一元函数微分学/2. 计算/基本求导公式.md",
     "1-3. 一元函数微分学/2. 计算/分段函数导数.md",
     "1-3. 一元函数微分学/2. 计算/对数求导法.md",
-    "1-3. 一元函数微分学/2. 计算/常用高阶导数.md",
-    "1-3. 一元函数微分学/1. 概念/高阶导数.md",
-    "1-3. 一元函数微分学/1. 概念/导数的几何意义.md",
     "assets/sin1x.jpg",
     "assets/rolle_func_2.jpg",
-    "assets/readme/feature_link.png",
     "assets/readme/feature.png",
     "assets/readme/overall.png",
     "assets/readme",
@@ -221,7 +221,6 @@
     "assets/tanx&x_compare.png",
     "assets/diff_eq_1.jpg",
     "assets/e^x_div_x.png",
-    "assets/int_chrct6.png",
     "1-7. 微分方程",
     "1-6. 二重积分",
     "1-5. 多元函数微分学",
