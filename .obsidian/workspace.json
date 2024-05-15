@@ -40,8 +40,12 @@
                 "id": "b87bc6ce411b6929",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "1-4. 一元函数积分学/1. 概念/变限积分.md",
+                    "mode": "source",
+                    "source": true
+                  }
                 }
               }
             ],
@@ -58,7 +62,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-4. 一元函数积分学/1. 概念/定积分.md",
+                    "file": "1-4. 一元函数积分学/1. 概念/变限积分.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -113,12 +117,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1a1fad4125d04c6e",
@@ -134,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1-4. 一元函数积分学/1. 概念/变限积分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1-4. 一元函数积分学/1. 概念/变限积分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1-4. 一元函数积分学/1. 概念/变限积分.md"
+              }
             }
           }
         ],
@@ -194,11 +202,13 @@
   },
   "active": "b87bc6ce411b6929",
   "lastOpenFiles": [
-    "README.md",
+    "1-4. 一元函数积分学/1. 概念/定积分.md",
+    "1-4. 一元函数积分学/1. 概念/变限积分.md",
+    "0. 杂项/常用公式.md",
     "0. 杂项/重要题目.md",
+    "README.md",
     "1-2. 数列极限/放缩法.md",
     "1-2. 数列极限/单调有界原则.md",
-    "0. 杂项/常用公式.md",
     "assets/tanx&x_compare.png",
     "assets/diff_eq_1.jpg",
     "assets/e^x_div_x.png",
@@ -206,7 +216,6 @@
     "1-1. 函数的极限与连续/1. 函数的极限与连续.md",
     "0. 杂项/应试技巧（揣摩意图）.md",
     "0. 杂项/均值不等式.md",
-    "1-4. 一元函数积分学/1. 概念/定积分.md",
     "1-1. 函数的极限与连续/夹逼准则.md",
     "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/中值定理.md",
     "assets/int_chrct6.png",
@@ -218,7 +227,6 @@
     "assets/int_aprox.png",
     "assets/int_sep1.png",
     "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
-    "1-4. 一元函数积分学/1. 概念/变限积分.md",
     "1-4. 一元函数积分学/4. 一元函数积分学.md",
     "conflict-files-obsidian-git.md",
     "线性代数主目录.md",

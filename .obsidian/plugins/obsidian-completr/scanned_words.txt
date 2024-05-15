@@ -301,6 +301,7 @@ tk
 tf
 tj
 te
+tanx
 commit
 commands
 conflicted
@@ -323,6 +324,7 @@ ca
 cN
 cF
 co
+compare
 using
 use
 ut
