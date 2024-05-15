@@ -864,6 +864,7 @@ tE
 teQ
 tzO
 ty
+tags
 commit
 commands
 conflicted
