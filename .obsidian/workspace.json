@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-4. 一元函数积分学/1. 概念/变限积分.md",
+                    "file": "1-4. 一元函数积分学/4. 一元函数积分学.md",
                     "mode": "source",
                     "source": true
                   }
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "1a1fad4125d04c6e",
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/变限积分.md",
+                "file": "1-4. 一元函数积分学/4. 一元函数积分学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/变限积分.md",
+                "file": "1-4. 一元函数积分学/4. 一元函数积分学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/变限积分.md"
+                "file": "1-4. 一元函数积分学/4. 一元函数积分学.md"
               }
             }
           }
@@ -177,6 +176,7 @@
   },
   "active": "db67e8f746bad803",
   "lastOpenFiles": [
+    "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
     "1-4. 一元函数积分学/1. 概念/变限积分.md",
     "1-4. 一元函数积分学/1. 概念/不定积分.md",
     "README.md",
@@ -186,7 +186,6 @@
     "assets/readme/featuer_link.png",
     "1-1. 函数的极限与连续/洛必达法则.md",
     "1-1. 函数的极限与连续/函数极限的计算.md",
-    "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
     "1-1. 函数的极限与连续/泰勒公式.md",
     "1-1. 函数的极限与连续/邻域.md",
     "1-1. 函数的极限与连续/两个重要极限.md",
