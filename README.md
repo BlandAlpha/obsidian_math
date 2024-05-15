@@ -33,9 +33,9 @@
 
 > 如果你也想使用iPad进行Git提交，请参考这篇教程：[42号笔记：iOS上使用iSH的git同步Obsidian](https://zhuanlan.zhihu.com/p/565028534)
 
-本仓库理论上说可以被任何markdown阅读器打开；但Obsidian可以使用**标签**、**内部链接跳转**和**知识图谱**功能，获得最完整的体验。为了照顾所有的读者，我会尽量让所有md文档尽量至少在Github的网页中可读且渲染正确。
+本仓库理论上说可以被任何markdown阅读器打开；但Obsidian可以使用**标签**、**内部链接跳转**和**知识图谱**功能，可以渲染**CallOut块**，获得最完整的体验。
 
-![graph](/assets/graph.jpg)
+![graph](/assets/graph.png)
 
 本地使用只需下载本仓库并使用Obsidian打开即可。
 
