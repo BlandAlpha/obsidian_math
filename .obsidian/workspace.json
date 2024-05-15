@@ -14,9 +14,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-1. 函数的极限与连续/洛必达法则.md",
-                "mode": "preview",
-                "source": true
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -159,9 +163,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1542bc1498ff379f",
+  "active": "520af66c8ac0b79d",
   "lastOpenFiles": [
+    "assets/rolle_func_2.jpg",
+    "README.md",
     "1-1. 函数的极限与连续/洛必达法则.md",
+    "assets/readme/feature_link.png",
     "assets/readme/feature.png",
     "1-1. 函数的极限与连续/1. 函数的极限与连续.md",
     "高等数学主目录.md",
@@ -186,8 +193,6 @@
     "1-4. 一元函数积分学/1. 概念/变限积分.md",
     "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
     "0. 杂项/常用公式.md",
-    "0. 杂项/均值不等式.md",
-    "README.md",
     "assets/readme/overall.png",
     "assets/readme",
     "assets/新建文件夹",
@@ -198,7 +203,6 @@
     "assets/int_chrct6.png",
     "assets/int_chrct5.png",
     "assets/int_chrct4.png",
-    "assets/int_lim.png",
     "1-7. 微分方程",
     "1-6. 二重积分",
     "1-5. 多元函数微分学",

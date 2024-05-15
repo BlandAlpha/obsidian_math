@@ -40,6 +40,10 @@ s
 
 ![graph](assets/readme/graph.png)
 
+![graph](assets/readme/feature.png)
+
+![graph](assets/readme/feature_link.png)
+
 本地使用只需下载本仓库并使用Obsidian打开即可。
 
 ### Git 快捷键
