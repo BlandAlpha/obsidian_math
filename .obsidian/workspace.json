@@ -55,8 +55,8 @@
                   "type": "markdown",
                   "state": {
                     "file": "0. 杂项/常用公式.md",
-                    "mode": "source",
-                    "source": false
+                    "mode": "preview",
+                    "source": true
                   }
                 }
               }
