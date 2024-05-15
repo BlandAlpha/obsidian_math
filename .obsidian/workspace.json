@@ -16,7 +16,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -101,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -163,10 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "520af66c8ac0b79d",
+  "active": "1542bc1498ff379f",
   "lastOpenFiles": [
-    "assets/rolle_func_2.jpg",
     "README.md",
+    "1-6. 二重积分/6. 二重积分.md",
+    "assets/rolle_func_2.jpg",
     "1-1. 函数的极限与连续/洛必达法则.md",
     "assets/readme/feature_link.png",
     "assets/readme/feature.png",
@@ -202,7 +199,6 @@
     "assets/e^x_div_x.png",
     "assets/int_chrct6.png",
     "assets/int_chrct5.png",
-    "assets/int_chrct4.png",
     "1-7. 微分方程",
     "1-6. 二重积分",
     "1-5. 多元函数微分学",

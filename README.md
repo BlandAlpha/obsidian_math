@@ -15,7 +15,7 @@
 ```
 
 > 每周至少完成8%的复习内容，也就是12页。
-s
+
 ### 更新说明
 
 - 本笔记已于`2024年5月13日`正式恢复更新。由于个人原因，编写平台将从iPad更改为**Windows**，并将引入**更多插件**以加速工作流。
@@ -38,15 +38,25 @@ s
 
 本仓库理论上说可以被任何markdown阅读器打开；但Obsidian可以使用**标签**、**内部链接跳转**和**知识图谱**功能，可以渲染**CallOut块**，获得最完整的体验。
 
+### 功能一览
+
+#### 1. 关系图谱
+
 ![graph](assets/readme/graph.png)
+
+#### 2. 标签、公式渲染、CallOut渲染
 
 ![graph](assets/readme/feature.png)
 
+#### 3. 快速链接
+
 ![graph](assets/readme/feature_link.png)
+
+### 如何使用
 
 本地使用只需下载本仓库并使用Obsidian打开即可。
 
-### Git 快捷键
+#### Git 快捷键
 
 1. Commit all: `Alt + C`
 2. Pull: `Ctrl + Shift + -`
