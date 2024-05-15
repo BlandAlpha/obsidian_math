@@ -608,6 +608,8 @@ FH
 Fi
 FV
 Fr
+Fun
+Fact
 each
 every
 eK
