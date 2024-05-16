@@ -606,6 +606,7 @@ CwO
 CHv
 Cij
 CQ
+Completr
 Pull
 Push
 Please
@@ -2334,6 +2335,7 @@ QZT
 QF
 QH
 Qui
+Quick
 hw
 hhx
 hx
@@ -2833,4 +2835,5 @@ LLm
 LL
 Lzn
 La
+Latex
 üY

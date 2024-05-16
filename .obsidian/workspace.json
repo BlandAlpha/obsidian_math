@@ -30,9 +30,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0c01105f0c17fa44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. 杂项/重要题目.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8427c8eab647108f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. 杂项/灵光乍现.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/变限积分.md",
+                "file": "0. 杂项/灵光乍现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/变限积分.md",
+                "file": "0. 杂项/灵光乍现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/变限积分.md"
+                "file": "0. 杂项/灵光乍现.md"
               }
             }
           }
@@ -161,8 +185,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "267e3a7bfe612b2d",
+  "active": "8427c8eab647108f",
   "lastOpenFiles": [
+    "0. 杂项/均值不等式.md",
+    "0. 杂项/常用公式.md",
+    "0. 杂项/灵光乍现.md",
+    "README.md",
+    "0. 杂项/0. 杂项.md",
+    "0. 杂项/重要题目.md",
+    "1-4. 一元函数积分学/1. 概念/变限积分.md",
     "1-4. 一元函数积分学/1. 概念/定积分.md",
     "1-3. 一元函数微分学/2. 计算/复合函数导数.md",
     "1-3. 一元函数微分学/2. 计算/反函数导数.md",
@@ -173,12 +204,6 @@
     "0. 杂项/应试技巧（揣摩意图）.md",
     "1-2. 数列极限/收敛数列的性质.md",
     "1-2. 数列极限/单调有界原则.md",
-    "1-4. 一元函数积分学/1. 概念/变限积分.md",
-    "README.md",
-    "0. 杂项/重要题目.md",
-    "0. 杂项/0. 杂项.md",
-    "0. 杂项/均值不等式.md",
-    "0. 杂项/常用公式.md",
     "1-1. 函数的极限与连续/等价无穷小.md",
     "1-1. 函数的极限与连续/1. 函数的极限与连续.md",
     "1-7. 微分方程/7. 微分方程.md",
@@ -188,7 +213,6 @@
     "1-4. 一元函数积分学/3. 应用/4-3. 应用.md",
     "1-4. 一元函数积分学/2. 计算/4-2. 计算.md",
     "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
-    "1-4. 一元函数积分学/1. 概念/反常积分.md",
     "assets/readme/feature_link.png",
     "assets/readme/featuer_link.png",
     "assets/sin1x.jpg",
