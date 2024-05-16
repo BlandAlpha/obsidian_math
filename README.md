@@ -4,6 +4,8 @@
 
 相关仓库：[Obsidian C语言考研复习笔记](https://github.com/BlandAlpha/obsidian_c)
 
+发布页面：[Canis的考研数学2笔记](https://publish.obsidian.md/gee-math-2)
+
 ![overall](assets/readme/overall.png)
 
 ### 复习进度

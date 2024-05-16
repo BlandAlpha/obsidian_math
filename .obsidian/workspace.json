@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. 杂项/应试技巧（揣摩意图）.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "1a1fad4125d04c6e",
@@ -186,15 +184,16 @@
       "publish:发布更改": false
     }
   },
-  "active": "8427c8eab647108f",
+  "active": "db67e8f746bad803",
   "lastOpenFiles": [
-    "0. 杂项/灵光乍现.md",
+    "1-4. 一元函数积分学/4. 一元函数积分学.md",
     "0. 杂项/应试技巧（揣摩意图）.md",
+    "README.md",
+    "0. 杂项/灵光乍现.md",
     "1-4. 一元函数积分学/1. 概念/反常积分.md",
     "1-4. 一元函数积分学/1. 概念/变限积分.md",
     "0. 杂项/均值不等式.md",
     "0. 杂项/常用公式.md",
-    "README.md",
     "0. 杂项/0. 杂项.md",
     "0. 杂项/重要题目.md",
     "1-4. 一元函数积分学/1. 概念/定积分.md",
@@ -211,7 +210,6 @@
     "1-7. 微分方程/7. 微分方程.md",
     "1-6. 二重积分/6. 二重积分.md",
     "1-5. 多元函数微分学/5. 多元函数微分学.md",
-    "1-4. 一元函数积分学/4. 一元函数积分学.md",
     "1-4. 一元函数积分学/3. 应用/4-3. 应用.md",
     "1-4. 一元函数积分学/2. 计算/4-2. 计算.md",
     "assets/readme/feature_link.png",
