@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/瑕点.md",
-                "mode": "preview",
+                "file": "1-4. 一元函数积分学/1. 概念/反常积分.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 206.5,
+    "collapsed": true
   },
   "right": {
     "id": "1a1fad4125d04c6e",
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/瑕点.md",
+                "file": "1-4. 一元函数积分学/1. 概念/反常积分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/瑕点.md",
+                "file": "1-4. 一元函数积分学/1. 概念/反常积分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/瑕点.md"
+                "file": "1-4. 一元函数积分学/1. 概念/反常积分.md"
               }
             }
           }
@@ -182,9 +183,9 @@
   },
   "active": "db67e8f746bad803",
   "lastOpenFiles": [
+    "1-4. 一元函数积分学/1. 概念/瑕点.md",
     "1-4. 一元函数积分学/1. 概念/反常积分.md",
     "assets/boundless.png",
-    "1-4. 一元函数积分学/1. 概念/瑕点.md",
     "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
     "README.md",
     "1-1. 函数的极限与连续/函数极限的计算.md",
