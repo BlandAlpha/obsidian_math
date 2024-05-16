@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1-4. 一元函数积分学/1. 概念/瑕点.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -183,8 +183,9 @@
   "active": "db67e8f746bad803",
   "lastOpenFiles": [
     "1-4. 一元函数积分学/1. 概念/反常积分.md",
-    "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
+    "assets/boundless.png",
     "1-4. 一元函数积分学/1. 概念/瑕点.md",
+    "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
     "README.md",
     "1-1. 函数的极限与连续/函数极限的计算.md",
     "1-3. 一元函数微分学/3. 应用/3. 物理应用/物理应用与相关变化率.md",
@@ -207,7 +208,6 @@
     "0. 杂项/应试技巧（揣摩意图）.md",
     "0. 杂项/灵光乍现.md",
     "1-4. 一元函数积分学/1. 概念/变限积分.md",
-    "0. 杂项/均值不等式.md",
     "assets/readme/feature_link.png",
     "assets/readme/featuer_link.png",
     "assets/sin1x.jpg",
@@ -219,7 +219,6 @@
     "assets/readme/graph.png",
     "assets/tanx&x_compare.png",
     "assets/diff_eq_1.jpg",
-    "assets/e^x_div_x.png",
     "1-7. 微分方程",
     "1-6. 二重积分",
     "1-5. 多元函数微分学",
