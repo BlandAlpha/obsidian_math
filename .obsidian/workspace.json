@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "0c01105f0c17fa44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. 杂项/重要题目.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "8427c8eab647108f",
             "type": "leaf",
             "state": {
@@ -71,12 +59,12 @@
             "id": "44ed78f839a7579d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
