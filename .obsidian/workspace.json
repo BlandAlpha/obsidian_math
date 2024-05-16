@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/变限积分.md",
-                "mode": "preview",
+                "file": "1-4. 一元函数积分学/1. 概念/反常积分.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 杂项/灵光乍现.md",
+                "file": "1-4. 一元函数积分学/1. 概念/反常积分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. 杂项/灵光乍现.md",
+                "file": "1-4. 一元函数积分学/1. 概念/反常积分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. 杂项/灵光乍现.md"
+                "file": "1-4. 一元函数积分学/1. 概念/反常积分.md"
               }
             }
           }
@@ -185,15 +185,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8427c8eab647108f",
+  "active": "267e3a7bfe612b2d",
   "lastOpenFiles": [
+    "1-4. 一元函数积分学/1. 概念/变限积分.md",
+    "0. 杂项/灵光乍现.md",
     "0. 杂项/均值不等式.md",
     "0. 杂项/常用公式.md",
-    "0. 杂项/灵光乍现.md",
     "README.md",
     "0. 杂项/0. 杂项.md",
     "0. 杂项/重要题目.md",
-    "1-4. 一元函数积分学/1. 概念/变限积分.md",
     "1-4. 一元函数积分学/1. 概念/定积分.md",
     "1-3. 一元函数微分学/2. 计算/复合函数导数.md",
     "1-3. 一元函数微分学/2. 计算/反函数导数.md",
