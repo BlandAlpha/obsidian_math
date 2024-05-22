@@ -10,6 +10,7 @@
           {
             "id": "623b74e9bdedbb62",
             "type": "tabs",
+            "dimension": 59.78494623655914,
             "children": [
               {
                 "id": "db67e8f746bad803",
@@ -56,6 +57,7 @@
           {
             "id": "c78799e66a2f1a17",
             "type": "tabs",
+            "dimension": 40.215053763440864,
             "children": [
               {
                 "id": "fb8698bc4df92e5d",
@@ -202,7 +204,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "fb8698bc4df92e5d",
+  "active": "db67e8f746bad803",
   "lastOpenFiles": [
     "1-4. 一元函数积分学/1. 概念/反常积分.md",
     "1-4. 一元函数积分学/1. 概念/定积分.md",
