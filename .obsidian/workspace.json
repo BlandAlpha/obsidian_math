@@ -4,54 +4,75 @@
     "type": "split",
     "children": [
       {
-        "id": "623b74e9bdedbb62",
-        "type": "tabs",
+        "id": "168639ea0c1d5909",
+        "type": "split",
         "children": [
           {
-            "id": "db67e8f746bad803",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/反常积分.md",
-                "mode": "source",
-                "source": true
+            "id": "623b74e9bdedbb62",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "db67e8f746bad803",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1-4. 一元函数积分学/1. 概念/反常积分.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "44ed78f839a7579d",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "dabd702b0250b074",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "a2ec7c26a4e4ccfb",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
               }
-            }
+            ]
           },
           {
-            "id": "9c7559e900d18301",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "欢迎！.md",
-                "mode": "preview",
-                "source": true
+            "id": "c78799e66a2f1a17",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fb8698bc4df92e5d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1-4. 一元函数积分学/1. 概念/反常积分.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "44ed78f839a7579d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "dabd702b0250b074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              }
-            }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -101,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 206.5,
+    "collapsed": true
   },
   "right": {
     "id": "1a1fad4125d04c6e",
@@ -180,10 +202,10 @@
       "publish:发布更改": false
     }
   },
-  "active": "db67e8f746bad803",
+  "active": "fb8698bc4df92e5d",
   "lastOpenFiles": [
-    "1-4. 一元函数积分学/1. 概念/定积分.md",
     "1-4. 一元函数积分学/1. 概念/反常积分.md",
+    "1-4. 一元函数积分学/1. 概念/定积分.md",
     "1-4. 一元函数积分学/1. 概念/瑕点.md",
     "assets/boundless.png",
     "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
