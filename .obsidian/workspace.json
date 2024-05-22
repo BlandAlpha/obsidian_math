@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "未定式",
+                "query": "放缩",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
