@@ -48,11 +48,16 @@
                 "id": "a2ec7c26a4e4ccfb",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "欢迎！.md",
+                    "mode": "source",
+                    "source": true
+                  }
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
             "id": "c78799e66a2f1a17",
@@ -103,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "放缩",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,13 +125,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 206.5,
-    "collapsed": true
+    "width": 206.5
   },
   "right": {
     "id": "1a1fad4125d04c6e",
@@ -142,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/反常积分.md",
+                "file": "欢迎！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/反常积分.md",
+                "file": "欢迎！.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/反常积分.md"
+                "file": "欢迎！.md"
               }
             }
           }
@@ -205,9 +208,10 @@
       "publish:发布更改": false
     }
   },
-  "active": "db67e8f746bad803",
+  "active": "a2ec7c26a4e4ccfb",
   "lastOpenFiles": [
     "README.md",
+    "欢迎！.md",
     "1-4. 一元函数积分学/1. 概念/反常积分.md",
     "assets/liansan.png",
     "1-4. 一元函数积分学/1. 概念/定积分.md",
@@ -216,7 +220,6 @@
     "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
     "1-1. 函数的极限与连续/函数极限的计算.md",
     "1-3. 一元函数微分学/3. 应用/3. 物理应用/物理应用与相关变化率.md",
-    "欢迎！.md",
     "高等数学主目录.md",
     "线性代数主目录.md",
     "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/中值定理.md",
