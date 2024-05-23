@@ -868,6 +868,7 @@ teQ
 tzO
 ty
 tags
+tip
 commit
 commands
 conflicted
