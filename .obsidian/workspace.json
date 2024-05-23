@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/反常积分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/反常积分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/反常积分.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -193,11 +190,11 @@
       "publish:发布更改": false
     }
   },
-  "active": "db67e8f746bad803",
+  "active": "84460c78366e27ff",
   "lastOpenFiles": [
+    "0. 杂项/重要题目.md",
     "0. 杂项/应试技巧.md",
     "1-4. 一元函数积分学/1. 概念/反常积分.md",
-    "0. 杂项/重要题目.md",
     "0. 杂项/灵光乍现.md",
     "README.md",
     "欢迎！.md",
