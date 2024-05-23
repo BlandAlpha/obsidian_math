@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/反常积分.md",
+                "file": "1-4. 一元函数积分学/2. 计算/4-2. 计算.md",
                 "mode": "source",
                 "source": true
               }
@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5,
-    "collapsed": true
+    "width": 206.5
   },
   "right": {
     "id": "1a1fad4125d04c6e",
@@ -131,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1-4. 一元函数积分学/2. 计算/4-2. 计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1-4. 一元函数积分学/2. 计算/4-2. 计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1-4. 一元函数积分学/2. 计算/4-2. 计算.md"
+              }
             }
           }
         ],
@@ -190,11 +192,11 @@
       "publish:发布更改": false
     }
   },
-  "active": "84460c78366e27ff",
+  "active": "db67e8f746bad803",
   "lastOpenFiles": [
+    "1-4. 一元函数积分学/1. 概念/反常积分.md",
     "0. 杂项/重要题目.md",
     "0. 杂项/应试技巧.md",
-    "1-4. 一元函数积分学/1. 概念/反常积分.md",
     "0. 杂项/灵光乍现.md",
     "README.md",
     "欢迎！.md",
