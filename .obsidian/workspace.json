@@ -126,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 206.5,
+    "collapsed": true
   },
   "right": {
     "id": "1a1fad4125d04c6e",
@@ -205,7 +206,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "b9b9f5c02f83e638",
+  "active": "db67e8f746bad803",
   "lastOpenFiles": [
     "欢迎！.md",
     "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
