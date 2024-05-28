@@ -4,54 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "623b74e9bdedbb62",
-        "type": "tabs",
+        "id": "4738fa63fbded5df",
+        "type": "split",
         "children": [
           {
-            "id": "db67e8f746bad803",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
-                "mode": "source",
-                "source": true
+            "id": "623b74e9bdedbb62",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "db67e8f746bad803",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "dabd702b0250b074",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "84460c78366e27ff",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a2ec7c26a4e4ccfb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "欢迎！.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "dabd702b0250b074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
+            "id": "b47b92ebeae5757e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b9b9f5c02f83e638",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "84460c78366e27ff",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a2ec7c26a4e4ccfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "欢迎！.md",
-                "mode": "source",
-                "source": true
-              }
-            }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -180,12 +205,12 @@
       "publish:发布更改": false
     }
   },
-  "active": "db67e8f746bad803",
+  "active": "b9b9f5c02f83e638",
   "lastOpenFiles": [
-    "README.md",
     "欢迎！.md",
-    "0. 杂项/重要题目.md",
     "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
+    "README.md",
+    "0. 杂项/重要题目.md",
     "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
     "assets/basic_int_1.png",
     "assets/basic_int_2.png",
