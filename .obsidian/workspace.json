@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
+                    "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
                     "mode": "source",
                     "source": true
                   }
@@ -67,7 +67,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
+                    "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -126,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5,
-    "collapsed": true
+    "width": 206.5
   },
   "right": {
     "id": "1a1fad4125d04c6e",
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
+                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
+                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/基本积分公式.md"
+                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md"
               }
             }
           }
@@ -208,11 +207,11 @@
   },
   "active": "db67e8f746bad803",
   "lastOpenFiles": [
-    "欢迎！.md",
     "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
+    "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
+    "欢迎！.md",
     "README.md",
     "0. 杂项/重要题目.md",
-    "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
     "assets/basic_int_1.png",
     "assets/basic_int_2.png",
     "0. 杂项/应试技巧.md",
