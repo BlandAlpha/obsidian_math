@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1-4. 一元函数积分学/2. 计算/基本积分公式.md"
               }
             }
           }
@@ -181,10 +180,10 @@
       "publish:发布更改": false
     }
   },
-  "active": "dabd702b0250b074",
+  "active": "db67e8f746bad803",
   "lastOpenFiles": [
-    "欢迎！.md",
     "README.md",
+    "欢迎！.md",
     "0. 杂项/重要题目.md",
     "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
     "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
