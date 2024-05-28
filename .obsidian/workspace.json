@@ -39,8 +39,12 @@
                 "id": "84460c78366e27ff",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "0. 杂项/重要题目.md",
+                    "mode": "source",
+                    "source": true
+                  }
                 }
               },
               {
@@ -208,11 +212,11 @@
   },
   "active": "db67e8f746bad803",
   "lastOpenFiles": [
-    "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
+    "0. 杂项/重要题目.md",
     "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
+    "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
     "欢迎！.md",
     "README.md",
-    "0. 杂项/重要题目.md",
     "assets/basic_int_1.png",
     "assets/basic_int_2.png",
     "0. 杂项/应试技巧.md",
