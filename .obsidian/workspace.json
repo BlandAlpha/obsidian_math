@@ -24,18 +24,6 @@
                 }
               },
               {
-                "id": "dabd702b0250b074",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-1. 函数的极限与连续/等价无穷小.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
                 "id": "84460c78366e27ff",
                 "type": "leaf",
                 "state": {
@@ -59,8 +47,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "b47b92ebeae5757e",
@@ -131,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 206.5,
+    "collapsed": true
   },
   "right": {
     "id": "1a1fad4125d04c6e",
@@ -147,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-1. 函数的极限与连续/等价无穷小.md",
+                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-1. 函数的极限与连续/等价无穷小.md",
+                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-1. 函数的极限与连续/等价无穷小.md"
+                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md"
               }
             }
           }
@@ -210,8 +198,9 @@
       "publish:发布更改": false
     }
   },
-  "active": "dabd702b0250b074",
+  "active": "db67e8f746bad803",
   "lastOpenFiles": [
+    "1-1. 函数的极限与连续/等价无穷小.md",
     "README.md",
     "欢迎！.md",
     "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
