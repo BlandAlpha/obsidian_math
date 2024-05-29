@@ -35,8 +35,21 @@
                     "source": true
                   }
                 }
+              },
+              {
+                "id": "c4bf441392bdda59",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "40dc66a18291a84c",
@@ -125,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
+                "file": "欢迎！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
+                "file": "欢迎！.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md"
+                "file": "欢迎！.md"
               }
             }
           }
@@ -188,10 +201,11 @@
       "publish:发布更改": false
     }
   },
-  "active": "84460c78366e27ff",
+  "active": "a2ec7c26a4e4ccfb",
   "lastOpenFiles": [
-    "assets/fenbu_exp.png",
+    "README.md",
     "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
+    "assets/fenbu_exp.png",
     "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
     "1-1. 函数的极限与连续/等价无穷小.md",
     "1-4. 一元函数积分学/4. 一元函数积分学.md",
@@ -207,7 +221,6 @@
     "0. 杂项/重要题目.md",
     "assets/important_1.jpg",
     "1-1. 函数的极限与连续/两个重要极限.md",
-    "README.md",
     "欢迎！.md",
     "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
     "assets/basic_int_1.png",
@@ -225,7 +238,6 @@
     "assets/readme/featuer_link.png",
     "assets/sin1x.jpg",
     "assets/rolle_func_2.jpg",
-    "assets/readme/feature.png",
     "assets/readme",
     "assets/新建文件夹",
     "1-7. 微分方程",
