@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/不定积分.md",
+                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
                 "mode": "source",
                 "source": true
               }
@@ -60,11 +60,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "/ass",
+                "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -77,12 +77,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 200
   },
   "right": {
     "id": "1a1fad4125d04c6e",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/不定积分.md",
+                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/不定积分.md",
+                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-4. 一元函数积分学/1. 概念/不定积分.md"
+                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md"
               }
             }
           }
@@ -161,14 +160,23 @@
       "publish:发布更改": false
     }
   },
-  "active": "c9b16ee1d99c7e6f",
+  "active": "84460c78366e27ff",
   "lastOpenFiles": [
+    "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
+    "1-4. 一元函数积分学/4. 一元函数积分学.md",
+    "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
     "1-4. 一元函数积分学/1. 概念/定积分.md",
+    "1-2. 数列极限/海涅定理（归结原则）.md",
+    "1-3. 一元函数微分学/1. 概念/导数.md",
+    "1-2. 数列极限/单调有界原则.md",
+    "0. 杂项/常用公式.md",
+    "1-3. 一元函数微分学/2. 计算/参数方程函数导数.md",
     "1-4. 一元函数积分学/1. 概念/不定积分.md",
+    "1-3. 一元函数微分学/3. 应用/1. 几何应用/凹凸性与拐点的判别.md",
+    "1-3. 一元函数微分学/3. 应用/1. 几何应用/凹凸性与拐点的概念.md",
     "0. 杂项/重要题目.md",
     "assets/important_1.jpg",
     "1-1. 函数的极限与连续/两个重要极限.md",
-    "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
     "1-1. 函数的极限与连续/等价无穷小.md",
     "README.md",
     "欢迎！.md",
@@ -176,7 +184,6 @@
     "assets/basic_int_1.png",
     "assets/basic_int_2.png",
     "0. 杂项/应试技巧.md",
-    "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
     "1-4. 一元函数积分学/2. 计算/变限积分的计算.md",
     "1-4. 一元函数积分学/1. 概念/瑕点.md",
     "1-4. 一元函数积分学/1. 概念/反常积分.md",
@@ -186,13 +193,6 @@
     "0. 杂项/灵光乍现.md",
     "assets/liansan.png",
     "assets/boundless.png",
-    "1-1. 函数的极限与连续/函数极限的计算.md",
-    "1-3. 一元函数微分学/3. 应用/3. 物理应用/物理应用与相关变化率.md",
-    "高等数学主目录.md",
-    "线性代数主目录.md",
-    "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/中值定理.md",
-    "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/微分等式.md",
-    "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/微分不等式.md",
     "assets/readme/feature_link.png",
     "assets/readme/featuer_link.png",
     "assets/sin1x.jpg",
