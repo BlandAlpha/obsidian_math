@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "README.md",
+                    "file": "1-1. 函数的极限与连续/等价无穷小.md",
                     "mode": "source",
                     "source": true
                   }
@@ -131,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5,
-    "collapsed": true
+    "width": 206.5
   },
   "right": {
     "id": "1a1fad4125d04c6e",
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1-1. 函数的极限与连续/等价无穷小.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1-1. 函数的极限与连续/等价无穷小.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1-1. 函数的极限与连续/等价无穷小.md"
               }
             }
           }
@@ -213,8 +212,8 @@
   },
   "active": "dabd702b0250b074",
   "lastOpenFiles": [
-    "欢迎！.md",
     "README.md",
+    "欢迎！.md",
     "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
     "0. 杂项/重要题目.md",
     "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
