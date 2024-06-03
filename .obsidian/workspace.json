@@ -52,8 +52,12 @@
                 "id": "d55076d38c610f0f",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "欢迎！.md",
+                    "mode": "source",
+                    "source": true
+                  }
                 }
               }
             ],
@@ -141,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1a1fad4125d04c6e",
@@ -158,6 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "欢迎！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,6 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "欢迎！.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "欢迎！.md"
+              }
             }
           }
         ],
@@ -219,9 +226,10 @@
   },
   "active": "d55076d38c610f0f",
   "lastOpenFiles": [
+    "README.md",
+    "欢迎！.md",
     "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
     "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
-    "README.md",
     "0. 杂项/重要题目.md",
     "1-3. 一元函数微分学/3. 应用/1. 几何应用/最值或取值范围.md",
     "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/微分等式.md",
@@ -231,7 +239,6 @@
     "1-3. 一元函数微分学/2. 计算/常用高阶导数.md",
     "1-4. 一元函数积分学/1. 概念/定积分.md",
     "未命名.md",
-    "欢迎！.md",
     "assets/fenbu_exp.png",
     "1-1. 函数的极限与连续/等价无穷小.md",
     "1-4. 一元函数积分学/4. 一元函数积分学.md",
