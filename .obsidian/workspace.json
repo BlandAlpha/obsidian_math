@@ -47,8 +47,17 @@
                     "source": true
                   }
                 }
+              },
+              {
+                "id": "d55076d38c610f0f",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
             "id": "40dc66a18291a84c",
@@ -149,7 +158,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +174,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,9 +195,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -212,11 +217,11 @@
       "publish:发布更改": false
     }
   },
-  "active": "84460c78366e27ff",
+  "active": "d55076d38c610f0f",
   "lastOpenFiles": [
+    "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
     "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
     "README.md",
-    "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
     "0. 杂项/重要题目.md",
     "1-3. 一元函数微分学/3. 应用/1. 几何应用/最值或取值范围.md",
     "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/微分等式.md",
