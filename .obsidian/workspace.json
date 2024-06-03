@@ -48,8 +48,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
             "id": "40dc66a18291a84c",
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md"
               }
             }
           }
@@ -213,8 +212,10 @@
       "publish:发布更改": false
     }
   },
-  "active": "c4bf441392bdda59",
+  "active": "84460c78366e27ff",
   "lastOpenFiles": [
+    "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
+    "README.md",
     "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
     "0. 杂项/重要题目.md",
     "1-3. 一元函数微分学/3. 应用/1. 几何应用/最值或取值范围.md",
@@ -225,8 +226,6 @@
     "1-3. 一元函数微分学/2. 计算/常用高阶导数.md",
     "1-4. 一元函数积分学/1. 概念/定积分.md",
     "未命名.md",
-    "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
-    "README.md",
     "欢迎！.md",
     "assets/fenbu_exp.png",
     "1-1. 函数的极限与连续/等价无穷小.md",
