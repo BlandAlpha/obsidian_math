@@ -10,7 +10,7 @@
           {
             "id": "623b74e9bdedbb62",
             "type": "tabs",
-            "dimension": 58.27956989247311,
+            "dimension": 43.97849462365591,
             "children": [
               {
                 "id": "84460c78366e27ff",
@@ -48,12 +48,13 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "40dc66a18291a84c",
             "type": "tabs",
-            "dimension": 41.72043010752688,
+            "dimension": 56.02150537634408,
             "children": [
               {
                 "id": "77f2cf79a5b740ce",
@@ -66,8 +67,21 @@
                     "source": true
                   }
                 }
+              },
+              {
+                "id": "3041403b572bf6e1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0. 杂项/重要题目.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -136,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
+                "file": "0. 杂项/重要题目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
+                "file": "0. 杂项/重要题目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md"
+                "file": "0. 杂项/重要题目.md"
               }
             }
           }
@@ -199,12 +213,12 @@
       "publish:发布更改": false
     }
   },
-  "active": "84460c78366e27ff",
+  "active": "3041403b572bf6e1",
   "lastOpenFiles": [
-    "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
     "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
-    "欢迎！.md",
+    "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
     "README.md",
+    "欢迎！.md",
     "assets/fenbu_exp.png",
     "1-1. 函数的极限与连续/等价无穷小.md",
     "1-4. 一元函数积分学/4. 一元函数积分学.md",
