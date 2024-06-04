@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎！.md",
+                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎！.md",
+                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎！.md"
+                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md"
               }
             }
           }
@@ -224,8 +224,12 @@
       "publish:发布更改": false
     }
   },
-  "active": "d55076d38c610f0f",
+  "active": "b54b704a9805ed69",
   "lastOpenFiles": [
+    "assets/favicon/favicon-32x32.png",
+    "assets/favicon/favicon.ico",
+    "assets/favicon",
+    "assets/新建文件夹",
     "README.md",
     "欢迎！.md",
     "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
@@ -255,7 +259,6 @@
     "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
     "assets/basic_int_1.png",
     "assets/basic_int_2.png",
-    "0. 杂项/应试技巧.md",
     "assets/liansan.png",
     "assets/boundless.png",
     "assets/readme/feature_link.png",
@@ -263,7 +266,6 @@
     "assets/sin1x.jpg",
     "assets/rolle_func_2.jpg",
     "assets/readme",
-    "assets/新建文件夹",
     "1-7. 微分方程",
     "1-6. 二重积分",
     "1-5. 多元函数微分学",
