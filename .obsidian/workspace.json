@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "牛顿",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -141,12 +141,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1a1fad4125d04c6e",
@@ -225,10 +225,11 @@
       "publish:发布更改": false
     }
   },
-  "active": "c9b16ee1d99c7e6f",
+  "active": "b54b704a9805ed69",
   "lastOpenFiles": [
-    "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
+    "1-4. 一元函数积分学/1. 概念/不定积分.md",
     "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
+    "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
     "assets/favicon/favicon-32x32.png",
     "assets/favicon/favicon.ico",
     "assets/favicon",
@@ -252,7 +253,6 @@
     "1-2. 数列极限/单调有界原则.md",
     "0. 杂项/常用公式.md",
     "1-3. 一元函数微分学/2. 计算/参数方程函数导数.md",
-    "1-4. 一元函数积分学/1. 概念/不定积分.md",
     "1-3. 一元函数微分学/3. 应用/1. 几何应用/凹凸性与拐点的判别.md",
     "1-3. 一元函数微分学/3. 应用/1. 几何应用/凹凸性与拐点的概念.md",
     "assets/important_1.jpg",
