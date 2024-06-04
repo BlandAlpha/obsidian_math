@@ -19,7 +19,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": true
                   }
                 }
@@ -60,8 +60,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "40dc66a18291a84c",
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
+                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
+                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md"
+                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md"
               }
             }
           }
@@ -225,11 +224,12 @@
       "publish:发布更改": false
     }
   },
-  "active": "b54b704a9805ed69",
+  "active": "84460c78366e27ff",
   "lastOpenFiles": [
-    "1-4. 一元函数积分学/1. 概念/不定积分.md",
     "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
     "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
+    "assets/int-NT.png",
+    "1-4. 一元函数积分学/1. 概念/不定积分.md",
     "assets/favicon/favicon-32x32.png",
     "assets/favicon/favicon.ico",
     "assets/favicon",
@@ -264,7 +264,6 @@
     "assets/boundless.png",
     "assets/readme/feature_link.png",
     "assets/readme/featuer_link.png",
-    "assets/sin1x.jpg",
     "assets/readme",
     "1-7. 微分方程",
     "1-6. 二重积分",
