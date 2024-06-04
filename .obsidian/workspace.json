@@ -61,7 +61,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           },
           {
             "id": "40dc66a18291a84c",
@@ -74,7 +74,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
+                    "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "牛顿",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -141,7 +141,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -161,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
+                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
+                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md"
+                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md"
               }
             }
           }
@@ -224,16 +225,16 @@
       "publish:发布更改": false
     }
   },
-  "active": "b54b704a9805ed69",
+  "active": "c9b16ee1d99c7e6f",
   "lastOpenFiles": [
+    "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
+    "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
     "assets/favicon/favicon-32x32.png",
     "assets/favicon/favicon.ico",
     "assets/favicon",
     "assets/新建文件夹",
     "README.md",
     "欢迎！.md",
-    "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
-    "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
     "0. 杂项/重要题目.md",
     "1-3. 一元函数微分学/3. 应用/1. 几何应用/最值或取值范围.md",
     "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/微分等式.md",
@@ -264,7 +265,6 @@
     "assets/readme/feature_link.png",
     "assets/readme/featuer_link.png",
     "assets/sin1x.jpg",
-    "assets/rolle_func_2.jpg",
     "assets/readme",
     "1-7. 微分方程",
     "1-6. 二重积分",
