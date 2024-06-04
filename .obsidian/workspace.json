@@ -10,7 +10,7 @@
           {
             "id": "623b74e9bdedbb62",
             "type": "tabs",
-            "dimension": 57.634408602150536,
+            "dimension": 70.64516129032258,
             "children": [
               {
                 "id": "84460c78366e27ff",
@@ -19,7 +19,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": true
                   }
                 }
@@ -65,7 +65,7 @@
           {
             "id": "40dc66a18291a84c",
             "type": "tabs",
-            "dimension": 42.365591397849464,
+            "dimension": 29.354838709677416,
             "children": [
               {
                 "id": "77f2cf79a5b740ce",
