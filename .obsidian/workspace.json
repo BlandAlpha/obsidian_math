@@ -49,7 +49,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
             "id": "045beb1da91fac9e",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎！.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎！.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎！.md"
+                "file": "README.md"
               }
             }
           }
@@ -201,8 +201,9 @@
       "publish:发布更改": false
     }
   },
-  "active": "d55076d38c610f0f",
+  "active": "c4bf441392bdda59",
   "lastOpenFiles": [
+    "欢迎！.md",
     "README.md",
     "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
     "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
@@ -213,7 +214,6 @@
     "assets/favicon/favicon.ico",
     "assets/favicon",
     "assets/新建文件夹",
-    "欢迎！.md",
     "0. 杂项/重要题目.md",
     "1-3. 一元函数微分学/3. 应用/1. 几何应用/最值或取值范围.md",
     "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/微分等式.md",
