@@ -4,97 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "4c32c3513c72e74e",
-        "type": "split",
+        "id": "623b74e9bdedbb62",
+        "type": "tabs",
         "children": [
           {
-            "id": "623b74e9bdedbb62",
-            "type": "tabs",
-            "dimension": 70.64516129032258,
-            "children": [
-              {
-                "id": "84460c78366e27ff",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "a2ec7c26a4e4ccfb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "c4bf441392bdda59",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "README.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "d55076d38c610f0f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "欢迎！.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
+            "id": "84460c78366e27ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
+                "mode": "preview",
+                "source": true
               }
-            ]
+            }
           },
           {
-            "id": "40dc66a18291a84c",
-            "type": "tabs",
-            "dimension": 29.354838709677416,
-            "children": [
-              {
-                "id": "77f2cf79a5b740ce",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "3041403b572bf6e1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "0. 杂项/重要题目.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
+            "id": "a2ec7c26a4e4ccfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
+                "mode": "source",
+                "source": true
               }
-            ]
+            }
+          },
+          {
+            "id": "c4bf441392bdda59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d55076d38c610f0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "欢迎！.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,9 +186,10 @@
   },
   "active": "84460c78366e27ff",
   "lastOpenFiles": [
+    "1-4. 一元函数积分学/1. 概念/反常积分.md",
+    "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
     "README.md",
     "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
-    "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
     "assets/int-NT.png",
     "1-4. 一元函数积分学/1. 概念/不定积分.md",
     "assets/favicon/favicon-32x32.png",
