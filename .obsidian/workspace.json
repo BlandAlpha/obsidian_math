@@ -48,8 +48,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "045beb1da91fac9e",
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md"
               }
             }
           }
@@ -201,10 +200,10 @@
       "publish:发布更改": false
     }
   },
-  "active": "c4bf441392bdda59",
+  "active": "84460c78366e27ff",
   "lastOpenFiles": [
-    "欢迎！.md",
     "README.md",
+    "欢迎！.md",
     "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
     "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
     "1-4. 一元函数积分学/1. 概念/反常积分.md",

@@ -182,6 +182,7 @@ WW
 WX
 WZ
 WJ
+Wallis
 Github
 Git
 GS
