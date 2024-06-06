@@ -10,7 +10,7 @@
           {
             "id": "623b74e9bdedbb62",
             "type": "tabs",
-            "dimension": 58.924731182795696,
+            "dimension": 70.3225806451613,
             "children": [
               {
                 "id": "84460c78366e27ff",
@@ -18,8 +18,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
-                    "mode": "source",
+                    "file": "1-4. 一元函数积分学/1. 概念/不定积分.md",
+                    "mode": "preview",
                     "source": true
                   }
                 }
@@ -53,7 +53,7 @@
           {
             "id": "045beb1da91fac9e",
             "type": "tabs",
-            "dimension": 41.075268817204304,
+            "dimension": 29.677419354838708,
             "children": [
               {
                 "id": "a2ec7c26a4e4ccfb",
@@ -120,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1a1fad4125d04c6e",
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
+                "file": "1-4. 一元函数积分学/1. 概念/不定积分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
+                "file": "1-4. 一元函数积分学/1. 概念/不定积分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md"
+                "file": "1-4. 一元函数积分学/1. 概念/不定积分.md"
               }
             }
           }
@@ -202,13 +201,15 @@
   },
   "active": "84460c78366e27ff",
   "lastOpenFiles": [
-    "README.md",
-    "欢迎！.md",
+    "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
     "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
     "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
+    "1-4. 一元函数积分学/2. 计算/4-2. 计算.md",
+    "1-4. 一元函数积分学/1. 概念/不定积分.md",
+    "README.md",
+    "欢迎！.md",
     "1-4. 一元函数积分学/1. 概念/反常积分.md",
     "assets/int-NT.png",
-    "1-4. 一元函数积分学/1. 概念/不定积分.md",
     "assets/favicon/favicon-32x32.png",
     "assets/favicon/favicon.ico",
     "assets/favicon",
@@ -233,8 +234,6 @@
     "1-3. 一元函数微分学/3. 应用/1. 几何应用/凹凸性与拐点的判别.md",
     "1-3. 一元函数微分学/3. 应用/1. 几何应用/凹凸性与拐点的概念.md",
     "assets/important_1.jpg",
-    "1-1. 函数的极限与连续/两个重要极限.md",
-    "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
     "assets/basic_int_1.png",
     "assets/basic_int_2.png",
     "assets/liansan.png",
