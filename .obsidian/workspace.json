@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
+                    "file": "1-4. 一元函数积分学/2. 计算/变限积分的计算.md",
                     "mode": "source",
                     "source": true
                   }
@@ -73,7 +73,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
+                    "file": "1-4. 一元函数积分学/2. 计算/变限积分的计算.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1a1fad4125d04c6e",
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
+                "file": "1-4. 一元函数积分学/2. 计算/变限积分的计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
+                "file": "1-4. 一元函数积分学/2. 计算/变限积分的计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md"
+                "file": "1-4. 一元函数积分学/2. 计算/变限积分的计算.md"
               }
             }
           }
@@ -223,15 +224,15 @@
       "publish:发布更改": false
     }
   },
-  "active": "84460c78366e27ff",
+  "active": "a2ec7c26a4e4ccfb",
   "lastOpenFiles": [
+    "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
+    "1-4. 一元函数积分学/2. 计算/变限积分的计算.md",
     "0. 杂项/重要题目.md",
     "欢迎！.md",
-    "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
     "README.md",
     "1-4. 一元函数积分学/1. 概念/定积分.md",
     "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
-    "1-4. 一元函数积分学/2. 计算/变限积分的计算.md",
     "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
     "1-4. 一元函数积分学/1. 概念/不定积分.md",
     "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
