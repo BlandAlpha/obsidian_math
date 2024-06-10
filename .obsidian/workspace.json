@@ -144,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1a1fad4125d04c6e",
@@ -224,7 +223,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "a2ec7c26a4e4ccfb",
+  "active": "84460c78366e27ff",
   "lastOpenFiles": [
     "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
     "1-4. 一元函数积分学/2. 计算/变限积分的计算.md",
