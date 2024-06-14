@@ -47,8 +47,21 @@
                     "source": true
                   }
                 }
+              },
+              {
+                "id": "2547697c698f03a8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0. 杂项/常用公式.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
             "id": "045beb1da91fac9e",
@@ -132,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1a1fad4125d04c6e",
@@ -149,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/反常积分的计算.md",
+                "file": "0. 杂项/常用公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/反常积分的计算.md",
+                "file": "0. 杂项/常用公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/反常积分的计算.md"
+                "file": "0. 杂项/常用公式.md"
               }
             }
           }
@@ -212,12 +224,12 @@
       "publish:发布更改": false
     }
   },
-  "active": "b54b704a9805ed69",
+  "active": "2547697c698f03a8",
   "lastOpenFiles": [
     "0. 杂项/重要题目.md",
     "1-4. 一元函数积分学/1. 概念/反常积分.md",
-    "README.md",
     "1-4. 一元函数积分学/2. 计算/反常积分的计算.md",
+    "README.md",
     "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
     "1-4. 一元函数积分学/2. 计算/变限积分的计算.md",
     "1-4. 一元函数积分学/2. 计算/4-2. 计算.md",
