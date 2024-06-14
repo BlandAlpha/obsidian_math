@@ -60,8 +60,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           },
           {
             "id": "045beb1da91fac9e",
@@ -145,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1a1fad4125d04c6e",
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 杂项/常用公式.md",
+                "file": "1-4. 一元函数积分学/2. 计算/反常积分的计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. 杂项/常用公式.md",
+                "file": "1-4. 一元函数积分学/2. 计算/反常积分的计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. 杂项/常用公式.md"
+                "file": "1-4. 一元函数积分学/2. 计算/反常积分的计算.md"
               }
             }
           }
@@ -224,9 +224,10 @@
       "publish:发布更改": false
     }
   },
-  "active": "2547697c698f03a8",
+  "active": "84460c78366e27ff",
   "lastOpenFiles": [
     "0. 杂项/重要题目.md",
+    "0. 杂项/常用公式.md",
     "1-4. 一元函数积分学/1. 概念/反常积分.md",
     "1-4. 一元函数积分学/2. 计算/反常积分的计算.md",
     "README.md",
@@ -257,7 +258,6 @@
     "assets/fenbu_exp.png",
     "1-1. 函数的极限与连续/等价无穷小.md",
     "1-2. 数列极限/海涅定理（归结原则）.md",
-    "1-3. 一元函数微分学/1. 概念/导数.md",
     "assets/important_1.jpg",
     "assets/basic_int_1.png",
     "assets/basic_int_2.png",
