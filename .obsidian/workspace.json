@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "凑微分",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -212,7 +212,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "84460c78366e27ff",
+  "active": "b54b704a9805ed69",
   "lastOpenFiles": [
     "0. 杂项/重要题目.md",
     "1-4. 一元函数积分学/1. 概念/反常积分.md",
