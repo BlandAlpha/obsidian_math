@@ -39,6 +39,18 @@ $$\Rightarrow \Gamma (n+1) = n!$$
 
 $$\Gamma \left(\frac{1}{2}\right) = \sqrt{\pi}$$
 
-$$123$$
+可用下方 [[#高斯曲线]] 面积证明。
+
+---
 
 ## 高斯曲线
+
+$$y = e^{t^{2}}$$
+
+曲线下围成的面积为 $\sqrt{\pi}$ ，一半为 $\frac{\sqrt{\pi}}{2}$ 。
+
+![gaussian curve](assets/gaussian_curve.png)
+
+> [!note] 
+> 
+> 证明详见 [[二重积分]] #待完善 
