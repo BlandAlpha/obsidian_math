@@ -39,7 +39,17 @@ $$\Rightarrow \Gamma (n+1) = n!$$
 
 $$\Gamma \left(\frac{1}{2}\right) = \sqrt{\pi}$$
 
-可用下方 [[#高斯曲线]] 面积证明。
+> [!info] 
+> 可用下方 [[#高斯曲线]] 面积证明。
+
+$$\Rightarrow \Gamma \left(\frac{5}{2}\right)= \frac{3}{2} \cdot \frac{1}{2} \cdot \Gamma \left(\frac{1}{2}\right)= \frac{3}{4} \sqrt{\pi}$$
+
+## 定义域
+
+> [!question] 
+> $\Gamma$ 函数的定义域？
+>
+> 让 $\Gamma$ 函数**收敛**的 $x$ 的取值
 
 ---
 
