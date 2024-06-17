@@ -526,6 +526,7 @@ goi
 gÜ
 gHn
 gb
+gaussian
 jpg
 json
 jBgX
@@ -989,6 +990,7 @@ cqf
 chI
 cH
 cMzWp
+curve
 using
 use
 ut

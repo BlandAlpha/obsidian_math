@@ -18,19 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-4. 一元函数积分学/2. 计算/反常积分的计算.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "c4bf441392bdda59",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-4. 一元函数积分学/2. 计算/Gamma函数.md",
+                    "file": "1-4. 一元函数积分学/3. 应用/平面图形的面积.md",
                     "mode": "source",
                     "source": true
                   }
@@ -42,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "0. 杂项/重要题目.md",
+                    "file": "1-4. 一元函数积分学/2. 计算/4-2. 计算.md",
                     "mode": "source",
                     "source": true
                   }
@@ -60,8 +48,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "045beb1da91fac9e",
@@ -74,7 +61,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-4. 一元函数积分学/2. 计算/Gamma函数.md",
+                    "file": "1-4. 一元函数积分学/3. 应用/平面图形的面积.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -150,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/Gamma函数.md",
+                "file": "1-4. 一元函数积分学/3. 应用/平面图形的面积.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/Gamma函数.md",
+                "file": "1-4. 一元函数积分学/3. 应用/平面图形的面积.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/Gamma函数.md"
+                "file": "1-4. 一元函数积分学/3. 应用/平面图形的面积.md"
               }
             }
           }
@@ -213,18 +200,24 @@
       "publish:发布更改": false
     }
   },
-  "active": "c4bf441392bdda59",
+  "active": "65f95128303dd0df",
   "lastOpenFiles": [
-    "assets/gaussian_curve.png",
-    "1-4. 一元函数积分学/2. 计算/反常积分的计算.md",
-    "1-4. 一元函数积分学/2. 计算/变限积分的计算.md",
-    "1-4. 一元函数积分学/2. 计算/Gamma函数.md",
-    "1-4. 一元函数积分学/1. 概念/反常积分.md",
+    "1-4. 一元函数积分学/3. 应用/函数的平均值.md",
+    "1-4. 一元函数积分学/3. 应用/旋转体的体积.md",
+    "1-4. 一元函数积分学/3. 应用/其他几何应用.md",
+    "1-4. 一元函数积分学/3. 应用/平面图形的面积.md",
+    "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
+    "1-4. 一元函数积分学/4. 一元函数积分学.md",
+    "1-4. 一元函数积分学/3. 应用/4-3. 应用.md",
+    "1-4. 一元函数积分学/2. 计算/4-2. 计算.md",
     "0. 杂项/重要题目.md",
+    "1-4. 一元函数积分学/2. 计算/Gamma函数.md",
+    "1-4. 一元函数积分学/2. 计算/反常积分的计算.md",
+    "assets/gaussian_curve.png",
+    "1-4. 一元函数积分学/2. 计算/变限积分的计算.md",
+    "1-4. 一元函数积分学/1. 概念/反常积分.md",
     "0. 杂项/常用公式.md",
     "README.md",
-    "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
-    "1-4. 一元函数积分学/2. 计算/4-2. 计算.md",
     "1-4. 一元函数积分学/1. 概念/瑕点.md",
     "1-4. 一元函数积分学/1. 概念/不定积分.md",
     "1-4. 一元函数积分学/1. 概念/定积分.md",
@@ -233,7 +226,6 @@
     "欢迎！.md",
     "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
     "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
-    "1-4. 一元函数积分学/4. 一元函数积分学.md",
     "assets/int-NT.png",
     "assets/favicon/favicon-32x32.png",
     "assets/favicon/favicon.ico",
@@ -242,18 +234,13 @@
     "1-3. 一元函数微分学/3. 应用/1. 几何应用/最值或取值范围.md",
     "1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/微分等式.md",
     "1-3. 一元函数微分学/2. 计算/基本求导公式.md",
-    "1-1. 函数的极限与连续/函数的连续与间断.md",
-    "1-3. 一元函数微分学/2. 计算/高阶导数求导.md",
-    "1-3. 一元函数微分学/2. 计算/常用高阶导数.md",
     "assets/fenbu_exp.png",
-    "1-1. 函数的极限与连续/等价无穷小.md",
     "assets/important_1.jpg",
     "assets/basic_int_1.png",
     "assets/basic_int_2.png",
     "assets/liansan.png",
     "assets/boundless.png",
     "assets/readme/feature_link.png",
-    "assets/readme/featuer_link.png",
     "assets/readme",
     "1-7. 微分方程",
     "1-6. 二重积分",
