@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-4. 一元函数积分学/3. 应用/平面图形的面积.md",
+                    "file": "1-4. 一元函数积分学/3. 应用/旋转体的体积.md",
                     "mode": "source",
                     "source": true
                   }
@@ -47,7 +47,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-4. 一元函数积分学/3. 应用/平面图形的面积.md",
+                    "file": "1-4. 一元函数积分学/3. 应用/旋转体的体积.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/3. 应用/平面图形的面积.md",
+                "file": "1-4. 一元函数积分学/3. 应用/旋转体的体积.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/3. 应用/平面图形的面积.md",
+                "file": "1-4. 一元函数积分学/3. 应用/旋转体的体积.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-4. 一元函数积分学/3. 应用/平面图形的面积.md"
+                "file": "1-4. 一元函数积分学/3. 应用/旋转体的体积.md"
               }
             }
           }
@@ -185,10 +185,11 @@
       "publish:发布更改": false
     }
   },
-  "active": "3b99bec9ab6e68b2",
+  "active": "6b9570556faf34bf",
   "lastOpenFiles": [
-    "1-4. 一元函数积分学/3. 应用/4-3. 应用.md",
     "1-4. 一元函数积分学/3. 应用/平面图形的面积.md",
+    "1-4. 一元函数积分学/3. 应用/旋转体的体积.md",
+    "1-4. 一元函数积分学/3. 应用/4-3. 应用.md",
     "README.md"
   ]
 }
