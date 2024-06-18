@@ -67,6 +67,18 @@
                     "source": true
                   }
                 }
+              },
+              {
+                "id": "7a4e29655822e205",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
               }
             ]
           }
@@ -100,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "换元",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -117,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,10 +217,10 @@
   "lastOpenFiles": [
     "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
     "1-4. 一元函数积分学/3. 应用/平面图形的面积.md",
+    "README.md",
     "assets/int_area_3.png",
     "1-4. 一元函数积分学/3. 应用/4-3. 应用.md",
     "1-4. 一元函数积分学/2. 计算/4-2. 计算.md",
-    "README.md",
     "assets/int_area_2.png",
     "assets/int_area_1.png",
     "1-4. 一元函数积分学/3. 应用/函数的平均值.md",
