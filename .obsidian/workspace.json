@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d7472a4391b2c7bd",
@@ -184,7 +185,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "dcb32790da0f9d2c",
+  "active": "6b9570556faf34bf",
   "lastOpenFiles": [
     "assets/int_volume_2.png",
     "assets/int_volume.png",
