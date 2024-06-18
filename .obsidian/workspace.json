@@ -4,18 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "26400559065691dd",
-        "type": "tabs",
+        "id": "ea9598ca72af134c",
+        "type": "split",
         "children": [
           {
-            "id": "6b9570556faf34bf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
+            "id": "26400559065691dd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6b9570556faf34bf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1-4. 一元函数积分学/3. 应用/平面图形的面积.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "7e0ea81b25947ba3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "d24c9aeb2073ae48",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3b99bec9ab6e68b2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1-4. 一元函数积分学/3. 应用/平面图形的面积.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -65,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d7472a4391b2c7bd",
@@ -81,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1-4. 一元函数积分学/3. 应用/平面图形的面积.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1-4. 一元函数积分学/3. 应用/平面图形的面积.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1-4. 一元函数积分学/3. 应用/平面图形的面积.md"
+              }
             }
           }
         ]
@@ -139,6 +185,10 @@
       "publish:发布更改": false
     }
   },
-  "active": "6b9570556faf34bf",
-  "lastOpenFiles": []
+  "active": "3b99bec9ab6e68b2",
+  "lastOpenFiles": [
+    "1-4. 一元函数积分学/3. 应用/4-3. 应用.md",
+    "1-4. 一元函数积分学/3. 应用/平面图形的面积.md",
+    "README.md"
+  ]
 }
