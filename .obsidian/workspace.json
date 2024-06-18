@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d7472a4391b2c7bd",
@@ -185,8 +184,9 @@
       "publish:发布更改": false
     }
   },
-  "active": "6b9570556faf34bf",
+  "active": "dcb32790da0f9d2c",
   "lastOpenFiles": [
+    "assets/int_volume_2.png",
     "assets/int_volume.png",
     "1-4. 一元函数积分学/3. 应用/平面图形的面积.md",
     "1-4. 一元函数积分学/3. 应用/旋转体的体积.md",
