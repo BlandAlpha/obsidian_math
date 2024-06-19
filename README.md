@@ -93,8 +93,8 @@
 
 如果你喜欢我的笔记，或者在线观看对你有帮助，欢迎随意打赏。
 
-
+![Support QRCode](/assets/readme/Support.png)
 
 > [!quote] 
 > 
-> 有朋自远方来，不亦乐乎？
+> *有朋自远方来，不亦乐乎？*

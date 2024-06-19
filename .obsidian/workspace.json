@@ -10,7 +10,7 @@
           {
             "id": "26400559065691dd",
             "type": "tabs",
-            "dimension": 64.19354838709678,
+            "dimension": 78.49462365591397,
             "children": [
               {
                 "id": "6b9570556faf34bf",
@@ -20,7 +20,7 @@
                   "state": {
                     "file": "README.md",
                     "mode": "source",
-                    "source": true
+                    "source": false
                   }
                 }
               },
@@ -41,7 +41,7 @@
           {
             "id": "d24c9aeb2073ae48",
             "type": "tabs",
-            "dimension": 35.80645161290323,
+            "dimension": 21.50537634408602,
             "children": [
               {
                 "id": "3b99bec9ab6e68b2",
@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d7472a4391b2c7bd",
@@ -189,6 +188,7 @@
   },
   "active": "6b9570556faf34bf",
   "lastOpenFiles": [
+    "assets/readme/Support.png",
     "1-4. 一元函数积分学/3. 应用/旋转体的体积.md",
     "assets/int_volume_2.png",
     "assets/int_volume.png",
