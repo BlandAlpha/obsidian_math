@@ -1,5 +1,9 @@
 ## 考研数学2 Obsidian 笔记本
 
+> [!info]
+>  
+> 本项目基于 `GPL-3.0` 协议进行开源。
+
 参考资料：2025张宇基础30讲。**持续更新中。**
 
 相关仓库：[Obsidian C语言考研复习笔记](https://github.com/BlandAlpha/obsidian_c)
