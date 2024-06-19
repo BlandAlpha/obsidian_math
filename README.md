@@ -1,6 +1,6 @@
 ## 考研数学2 Obsidian 笔记本
 
-> [!info]
+> [!NOTE]
 > 本项目基于 `GPL-3.0` 协议进行开源。
 
 参考资料：2025张宇基础30讲。**持续更新中。**
@@ -91,7 +91,6 @@
 
 ![Support QRCode](/assets/readme/Support.png)
 
-> [!quote] 
 > *有朋自远方来，不亦乐乎？*
 
 ### 鸣谢
