@@ -36,7 +36,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "d24c9aeb2073ae48",
@@ -108,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d7472a4391b2c7bd",
@@ -124,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1-4. 一元函数积分学/3. 应用/旋转体的体积.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1-4. 一元函数积分学/3. 应用/旋转体的体积.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1-4. 一元函数积分学/3. 应用/旋转体的体积.md"
               }
             }
           }
@@ -186,11 +188,11 @@
       "publish:发布更改": false
     }
   },
-  "active": "7e0ea81b25947ba3",
+  "active": "a4cb7bbfb25414b0",
   "lastOpenFiles": [
+    "README.md",
     "LICENSE",
     "1-4. 一元函数积分学/3. 应用/旋转体的体积.md",
-    "README.md",
     "assets/readme/Support.png",
     "assets/int_volume_2.png",
     "assets/int_volume.png",
