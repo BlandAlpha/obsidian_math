@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-4. 一元函数积分学/3. 应用/函数的平均值.md",
+                    "file": "1-4. 一元函数积分学/3. 应用/其他几何应用.md",
                     "mode": "source",
                     "source": true
                   }
@@ -74,7 +74,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-4. 一元函数积分学/3. 应用/函数的平均值.md",
+                    "file": "1-4. 一元函数积分学/3. 应用/其他几何应用.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/3. 应用/函数的平均值.md",
+                "file": "1-4. 一元函数积分学/3. 应用/其他几何应用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/3. 应用/函数的平均值.md",
+                "file": "1-4. 一元函数积分学/3. 应用/其他几何应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-4. 一元函数积分学/3. 应用/函数的平均值.md"
+                "file": "1-4. 一元函数积分学/3. 应用/其他几何应用.md"
               }
             }
           }
@@ -212,11 +212,13 @@
       "publish:发布更改": false
     }
   },
-  "active": "a4cb7bbfb25414b0",
+  "active": "dcb32790da0f9d2c",
   "lastOpenFiles": [
+    "assets/curve_center.png",
+    "1-4. 一元函数积分学/3. 应用/函数的平均值.md",
+    "1-4. 一元函数积分学/3. 应用/其他几何应用.md",
     "0. 杂项/重要题目.md",
     "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
-    "1-4. 一元函数积分学/3. 应用/函数的平均值.md",
     "1-4. 一元函数积分学/2. 计算/变限积分的计算.md",
     "1-4. 一元函数积分学/3. 应用/旋转体的体积.md",
     "README.md",
