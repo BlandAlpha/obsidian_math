@@ -31,7 +31,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "1-4. 一元函数积分学/3. 应用/其他几何应用.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": true
                   }
                 }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/3. 应用/其他几何应用.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/3. 应用/其他几何应用.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-4. 一元函数积分学/3. 应用/其他几何应用.md"
+                "file": "README.md"
               }
             }
           }
@@ -212,8 +212,9 @@
       "publish:发布更改": false
     }
   },
-  "active": "a4cb7bbfb25414b0",
+  "active": "dcb32790da0f9d2c",
   "lastOpenFiles": [
+    "assets/volume_4.png",
     "assets/curve_center.png",
     "1-4. 一元函数积分学/3. 应用/函数的平均值.md",
     "1-4. 一元函数积分学/3. 应用/其他几何应用.md",
