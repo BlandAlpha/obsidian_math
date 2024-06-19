@@ -10,6 +10,7 @@
           {
             "id": "26400559065691dd",
             "type": "tabs",
+            "dimension": 64.19354838709678,
             "children": [
               {
                 "id": "6b9570556faf34bf",
@@ -17,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-4. 一元函数积分学/3. 应用/旋转体的体积.md",
+                    "file": "README.md",
                     "mode": "source",
                     "source": true
                   }
@@ -40,6 +41,7 @@
           {
             "id": "d24c9aeb2073ae48",
             "type": "tabs",
+            "dimension": 35.80645161290323,
             "children": [
               {
                 "id": "3b99bec9ab6e68b2",
@@ -106,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d7472a4391b2c7bd",
@@ -122,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/3. 应用/旋转体的体积.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/3. 应用/旋转体的体积.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-4. 一元函数积分学/3. 应用/旋转体的体积.md"
+                "file": "README.md"
               }
             }
           }
@@ -186,10 +189,10 @@
   },
   "active": "6b9570556faf34bf",
   "lastOpenFiles": [
+    "1-4. 一元函数积分学/3. 应用/旋转体的体积.md",
     "assets/int_volume_2.png",
     "assets/int_volume.png",
     "1-4. 一元函数积分学/3. 应用/平面图形的面积.md",
-    "1-4. 一元函数积分学/3. 应用/旋转体的体积.md",
     "1-4. 一元函数积分学/3. 应用/4-3. 应用.md",
     "README.md"
   ]
