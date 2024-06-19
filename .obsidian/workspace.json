@@ -31,7 +31,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "1-4. 一元函数积分学/3. 应用/其他几何应用.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": true
                   }
                 }
@@ -212,7 +212,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "dcb32790da0f9d2c",
+  "active": "a4cb7bbfb25414b0",
   "lastOpenFiles": [
     "assets/curve_center.png",
     "1-4. 一元函数积分学/3. 应用/函数的平均值.md",
