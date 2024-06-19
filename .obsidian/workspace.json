@@ -60,8 +60,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "d24c9aeb2073ae48",
@@ -212,7 +211,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "dcb32790da0f9d2c",
+  "active": "7e0ea81b25947ba3",
   "lastOpenFiles": [
     "assets/volume_4.png",
     "assets/curve_center.png",
