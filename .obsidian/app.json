@@ -8,5 +8,7 @@
     "downscalePercent": 100
   },
   "livePreview": false,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "assets"
 }
