@@ -49,30 +49,6 @@
                 }
               },
               {
-                "id": "42449031f35a1cd7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "0. 杂项/重要题目.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "3dfb288557df2859",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              },
-              {
                 "id": "2dd9de00d91ed27c",
                 "type": "leaf",
                 "state": {
@@ -236,7 +212,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "dcb32790da0f9d2c",
+  "active": "ebed86e1efd917ea",
   "lastOpenFiles": [
     "1-4. 一元函数积分学/1. 概念/不定积分.md",
     "1-4. 一元函数积分学/1. 概念/定积分.md",
