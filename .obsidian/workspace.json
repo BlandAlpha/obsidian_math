@@ -65,7 +65,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           },
           {
             "id": "d24c9aeb2073ae48",
@@ -138,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 261.5,
     "collapsed": true
   },
   "right": {
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-5. 多元函数微分学/基本概念.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-5. 多元函数微分学/基本概念.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-5. 多元函数微分学/基本概念.md"
+                "file": "README.md"
               }
             }
           }
@@ -217,10 +217,10 @@
       "publish:发布更改": false
     }
   },
-  "active": "1fce3d507f20b354",
+  "active": "bbf21470fc6e7727",
   "lastOpenFiles": [
-    "1-1. 函数的极限与连续/洛必达法则.md",
     "1-5. 多元函数微分学/基本概念.md",
+    "1-1. 函数的极限与连续/洛必达法则.md",
     "1-4. 一元函数积分学/3. 应用/3. 物理应用/物理应用.md",
     "README.md",
     "0. 杂项/重要题目.md",
