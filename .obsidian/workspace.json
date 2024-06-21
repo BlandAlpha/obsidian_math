@@ -37,14 +37,6 @@
                 }
               },
               {
-                "id": "1350ea3cd9ee2902",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
                 "id": "195c376eb2a082fb",
                 "type": "leaf",
                 "state": {
@@ -65,7 +57,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "d24c9aeb2073ae48",
@@ -155,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1-5. 多元函数微分学/基本概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1-5. 多元函数微分学/基本概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1-5. 多元函数微分学/基本概念.md"
               }
             }
           }
@@ -217,12 +209,12 @@
       "publish:发布更改": false
     }
   },
-  "active": "bbf21470fc6e7727",
+  "active": "195c376eb2a082fb",
   "lastOpenFiles": [
+    "README.md",
     "1-5. 多元函数微分学/基本概念.md",
     "1-1. 函数的极限与连续/洛必达法则.md",
     "1-4. 一元函数积分学/3. 应用/3. 物理应用/物理应用.md",
-    "README.md",
     "0. 杂项/重要题目.md",
     "1-4. 一元函数积分学/2. 计算/Gamma函数.md",
     "assets/multi_neighbor.png",
