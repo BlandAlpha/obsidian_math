@@ -10,7 +10,7 @@
           {
             "id": "26400559065691dd",
             "type": "tabs",
-            "dimension": 52.58064516129032,
+            "dimension": 68.27956989247312,
             "children": [
               {
                 "id": "a4cb7bbfb25414b0",
@@ -55,14 +55,26 @@
                   "type": "graph",
                   "state": {}
                 }
+              },
+              {
+                "id": "63f3c85a38e40432",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "欢迎！.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 4
           },
           {
             "id": "d24c9aeb2073ae48",
             "type": "tabs",
-            "dimension": 47.41935483870968,
+            "dimension": 31.72043010752688,
             "children": [
               {
                 "id": "3b99bec9ab6e68b2",
@@ -129,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "d7472a4391b2c7bd",
@@ -146,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-5. 多元函数微分学/基本概念.md",
+                "file": "欢迎！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-5. 多元函数微分学/基本概念.md",
+                "file": "欢迎！.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-5. 多元函数微分学/基本概念.md"
+                "file": "欢迎！.md"
               }
             }
           }
@@ -208,15 +219,16 @@
       "publish:发布更改": false
     }
   },
-  "active": "195c376eb2a082fb",
+  "active": "63f3c85a38e40432",
   "lastOpenFiles": [
+    "README.md",
+    "欢迎！.md",
+    "0. 杂项/重要题目.md",
+    "1-5. 多元函数微分学/基本概念.md",
     "assets/Pasted image 20240621174043.png",
     "assets/deriv_hill.png",
-    "README.md",
-    "1-5. 多元函数微分学/基本概念.md",
     "1-1. 函数的极限与连续/洛必达法则.md",
     "1-4. 一元函数积分学/3. 应用/3. 物理应用/物理应用.md",
-    "0. 杂项/重要题目.md",
     "1-4. 一元函数积分学/2. 计算/Gamma函数.md",
     "assets/multi_neighbor.png",
     "1-1. 函数的极限与连续/邻域.md",
@@ -224,7 +236,6 @@
     "1-5. 多元函数微分学/多元函数微分法则.md",
     "1-5. 多元函数微分学/5. 多元函数微分学.md",
     "1-4. 一元函数积分学/3. 应用/4-3. 应用.md",
-    "欢迎！.md",
     "assets/int_pressure.png",
     "assets/int_water.png",
     "1-4. 一元函数积分学/3. 应用/1. 几何应用/其他几何应用.md",
@@ -248,7 +259,6 @@
     "1-4. 一元函数积分学/2. 计算/变限积分的计算.md",
     "LICENSE",
     "assets/readme/Support.png",
-    "assets/int_volume_2.png",
-    "assets/int_volume.png"
+    "assets/int_volume_2.png"
   ]
 }
