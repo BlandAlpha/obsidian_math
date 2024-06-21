@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "脱帽",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,8 +125,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,6 +210,8 @@
   },
   "active": "195c376eb2a082fb",
   "lastOpenFiles": [
+    "assets/Pasted image 20240621174043.png",
+    "assets/deriv_hill.png",
     "README.md",
     "1-5. 多元函数微分学/基本概念.md",
     "1-1. 函数的极限与连续/洛必达法则.md",
