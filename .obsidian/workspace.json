@@ -45,18 +45,6 @@
                 }
               },
               {
-                "id": "65a0048b460f4f0b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-4. 一元函数积分学/3. 应用/3. 物理应用/物理应用.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
                 "id": "195c376eb2a082fb",
                 "type": "leaf",
                 "state": {
@@ -67,9 +55,17 @@
                     "source": true
                   }
                 }
+              },
+              {
+                "id": "5587e7655e3e185b",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           },
           {
             "id": "d24c9aeb2073ae48",
@@ -120,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "积分中值定理",
+                "query": "脱帽",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +133,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -220,18 +217,20 @@
       "publish:发布更改": false
     }
   },
-  "active": "195c376eb2a082fb",
+  "active": "1fce3d507f20b354",
   "lastOpenFiles": [
-    "assets/multi_neighbor.png",
-    "1-1. 函数的极限与连续/邻域.md",
+    "1-1. 函数的极限与连续/洛必达法则.md",
     "1-5. 多元函数微分学/基本概念.md",
-    "1-5. 多元函数微分学/多元函数的极值与最值.md",
-    "1-5. 多元函数微分学/多元函数微分法则.md",
     "1-4. 一元函数积分学/3. 应用/3. 物理应用/物理应用.md",
-    "1-5. 多元函数微分学/5. 多元函数微分学.md",
-    "1-4. 一元函数积分学/3. 应用/4-3. 应用.md",
     "README.md",
     "0. 杂项/重要题目.md",
+    "1-4. 一元函数积分学/2. 计算/Gamma函数.md",
+    "assets/multi_neighbor.png",
+    "1-1. 函数的极限与连续/邻域.md",
+    "1-5. 多元函数微分学/多元函数的极值与最值.md",
+    "1-5. 多元函数微分学/多元函数微分法则.md",
+    "1-5. 多元函数微分学/5. 多元函数微分学.md",
+    "1-4. 一元函数积分学/3. 应用/4-3. 应用.md",
     "欢迎！.md",
     "assets/int_pressure.png",
     "assets/int_water.png",
