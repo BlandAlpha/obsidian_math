@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "可微",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,12 +137,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "d7472a4391b2c7bd",
@@ -223,9 +223,10 @@
   "active": "63f3c85a38e40432",
   "lastOpenFiles": [
     "欢迎！.md",
+    "1-5. 多元函数微分学/基本概念.md",
+    "1-3. 一元函数微分学/1. 概念/微分的概念.md",
     "README.md",
     "0. 杂项/重要题目.md",
-    "1-5. 多元函数微分学/基本概念.md",
     "assets/Pasted image 20240621174043.png",
     "assets/deriv_hill.png",
     "1-1. 函数的极限与连续/洛必达法则.md",
