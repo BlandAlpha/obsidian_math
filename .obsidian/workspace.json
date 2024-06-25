@@ -62,7 +62,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "欢迎！.md",
+                    "file": "1-5. 多元函数微分学/基本概念.md",
                     "mode": "source",
                     "source": true
                   }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎！.md",
+                "file": "1-5. 多元函数微分学/基本概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎！.md",
+                "file": "1-5. 多元函数微分学/基本概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎！.md"
+                "file": "1-5. 多元函数微分学/基本概念.md"
               }
             }
           }
@@ -221,8 +221,8 @@
   },
   "active": "63f3c85a38e40432",
   "lastOpenFiles": [
-    "README.md",
     "欢迎！.md",
+    "README.md",
     "0. 杂项/重要题目.md",
     "1-5. 多元函数微分学/基本概念.md",
     "assets/Pasted image 20240621174043.png",
