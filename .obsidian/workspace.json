@@ -10,7 +10,7 @@
           {
             "id": "26400559065691dd",
             "type": "tabs",
-            "dimension": 57.096774193548384,
+            "dimension": 59.78494623655914,
             "children": [
               {
                 "id": "a4cb7bbfb25414b0",
@@ -74,7 +74,7 @@
           {
             "id": "d24c9aeb2073ae48",
             "type": "tabs",
-            "dimension": 42.90322580645161,
+            "dimension": 40.215053763440864,
             "children": [
               {
                 "id": "3b99bec9ab6e68b2",
@@ -220,7 +220,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "dcb32790da0f9d2c",
+  "active": "63f3c85a38e40432",
   "lastOpenFiles": [
     "assets/multi_comp.png",
     "assets/partial_deriv.png",
