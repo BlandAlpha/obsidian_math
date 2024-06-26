@@ -10,7 +10,7 @@
           {
             "id": "26400559065691dd",
             "type": "tabs",
-            "dimension": 59.78494623655914,
+            "dimension": 55.26881720430108,
             "children": [
               {
                 "id": "a4cb7bbfb25414b0",
@@ -74,7 +74,7 @@
           {
             "id": "d24c9aeb2073ae48",
             "type": "tabs",
-            "dimension": 40.215053763440864,
+            "dimension": 44.73118279569893,
             "children": [
               {
                 "id": "3b99bec9ab6e68b2",
@@ -220,8 +220,9 @@
       "publish:发布更改": false
     }
   },
-  "active": "dcb32790da0f9d2c",
+  "active": "63f3c85a38e40432",
   "lastOpenFiles": [
+    "assets/multi_comp2.png",
     "assets/multi_chain.png",
     "1-5. 多元函数微分学/多元函数的极值与最值.md",
     "1-5. 多元函数微分学/多元函数微分法则.md",
@@ -259,7 +260,6 @@
     "1-4. 一元函数积分学/1. 概念/不定积分.md",
     "1-4. 一元函数积分学/1. 概念/定积分.md",
     "assets/volume_4.png",
-    "assets/curve_center.png",
     "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
     "LICENSE"
   ]
