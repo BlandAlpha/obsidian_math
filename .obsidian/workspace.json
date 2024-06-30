@@ -67,14 +67,24 @@
                     "source": true
                   }
                 }
+              },
+              {
+                "id": "776e82f1a54c6f59",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.6.5"
+                  }
+                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 5
           },
           {
             "id": "d24c9aeb2073ae48",
             "type": "tabs",
-            "dimension": 44.73118279569893,
+            "dimension": 44.73118279569892,
             "children": [
               {
                 "id": "3b99bec9ab6e68b2",
@@ -219,7 +229,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "bcc3e37a42e2a1ed",
+  "active": "776e82f1a54c6f59",
   "lastOpenFiles": [
     "README.md",
     "1-5. 多元函数微分学/多元函数微分法则.md",
