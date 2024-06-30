@@ -10,6 +10,7 @@
           {
             "id": "26400559065691dd",
             "type": "tabs",
+            "dimension": 56.98924731182796,
             "children": [
               {
                 "id": "a4cb7bbfb25414b0",
@@ -61,6 +62,7 @@
           {
             "id": "0d686f05adf0b241",
             "type": "tabs",
+            "dimension": 43.01075268817204,
             "children": [
               {
                 "id": "4b105adcbd514960",
@@ -206,7 +208,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "4b105adcbd514960",
+  "active": "63f3c85a38e40432",
   "lastOpenFiles": [
     "0. 杂项/重要题目.md",
     "欢迎！.md",
