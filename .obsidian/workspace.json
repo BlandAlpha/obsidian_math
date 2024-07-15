@@ -50,13 +50,14 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-5. 多元函数微分学/5. 多元函数微分学.md",
+                    "file": "欢迎！.md",
                     "mode": "source",
                     "source": true
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
             "id": "0d686f05adf0b241",
@@ -128,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "d7472a4391b2c7bd",
@@ -144,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-6. 二重积分/6. 二重积分.md",
+                "file": "欢迎！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-6. 二重积分/6. 二重积分.md",
+                "file": "欢迎！.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-6. 二重积分/6. 二重积分.md"
+                "file": "欢迎！.md"
               }
             }
           }
@@ -206,18 +208,18 @@
       "publish:发布更改": false
     }
   },
-  "active": "a4cb7bbfb25414b0",
+  "active": "63f3c85a38e40432",
   "lastOpenFiles": [
+    "1-5. 多元函数微分学/5. 多元函数微分学.md",
+    "README.md",
+    "1-6. 二重积分/6. 二重积分.md",
     "1-6. 二重积分/二重积分对称性.md",
     "1-6. 二重积分/二重积分计算.md",
     "1-6. 二重积分/二重积分性质.md",
-    "1-6. 二重积分/6. 二重积分.md",
     "1-6. 二重积分/二重积分概念.md",
-    "1-5. 多元函数微分学/5. 多元函数微分学.md",
     "1-5. 多元函数微分学/多元函数微分法则.md",
     "1-5. 多元函数微分学/多元函数的极值与最值.md",
     "0. 杂项/重要题目.md",
-    "README.md",
     "assets/multi_tangent2.png",
     "assets/multi_tangent.png",
     "assets/multi_mem.png",
