@@ -50,7 +50,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-5. 多元函数微分学/多元函数微分法则.md",
+                    "file": "1-5. 多元函数微分学/多元函数的极值与最值.md",
                     "mode": "source",
                     "source": true
                   }
@@ -70,7 +70,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-5. 多元函数微分学/多元函数微分法则.md",
+                    "file": "1-5. 多元函数微分学/多元函数的极值与最值.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-5. 多元函数微分学/多元函数微分法则.md",
+                "file": "1-5. 多元函数微分学/多元函数的极值与最值.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-5. 多元函数微分学/多元函数微分法则.md",
+                "file": "1-5. 多元函数微分学/多元函数的极值与最值.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-5. 多元函数微分学/多元函数微分法则.md"
+                "file": "1-5. 多元函数微分学/多元函数的极值与最值.md"
               }
             }
           }
@@ -208,15 +208,16 @@
       "publish:发布更改": false
     }
   },
-  "active": "63f3c85a38e40432",
+  "active": "dcb32790da0f9d2c",
   "lastOpenFiles": [
-    "README.md",
+    "assets/multi_intu.png",
     "1-5. 多元函数微分学/多元函数微分法则.md",
+    "1-5. 多元函数微分学/多元函数的极值与最值.md",
+    "README.md",
     "0. 杂项/重要题目.md",
     "欢迎！.md",
     "assets/multi_comp2.png",
     "assets/multi_chain.png",
-    "1-5. 多元函数微分学/多元函数的极值与最值.md",
     "1-5. 多元函数微分学/基本概念.md",
     "assets/multi_comp.png",
     "assets/partial_deriv.png",
