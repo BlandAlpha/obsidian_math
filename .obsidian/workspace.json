@@ -208,8 +208,10 @@
       "publish:发布更改": false
     }
   },
-  "active": "63f3c85a38e40432",
+  "active": "dcb32790da0f9d2c",
   "lastOpenFiles": [
+    "assets/multi_tangent2.png",
+    "assets/multi_tangent.png",
     "0. 杂项/重要题目.md",
     "1-5. 多元函数微分学/多元函数的极值与最值.md",
     "assets/multi_mem.png",
@@ -234,7 +236,6 @@
     "1-1. 函数的极限与连续/邻域.md",
     "1-5. 多元函数微分学/5. 多元函数微分学.md",
     "1-4. 一元函数积分学/3. 应用/4-3. 应用.md",
-    "assets/int_pressure.png",
     "1-4. 一元函数积分学/3. 应用/1. 几何应用/其他几何应用.md",
     "1-4. 一元函数积分学/3. 应用/2. 积分等式与积分不等式/积分不等式.md",
     "1-4. 一元函数积分学/3. 应用/2. 积分等式与积分不等式/积分等式.md",
