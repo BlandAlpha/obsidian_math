@@ -129,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "d7472a4391b2c7bd",
@@ -209,10 +210,10 @@
   },
   "active": "63f3c85a38e40432",
   "lastOpenFiles": [
-    "0. 杂项/重要题目.md",
-    "欢迎！.md",
     "README.md",
     "1-5. 多元函数微分学/多元函数微分法则.md",
+    "0. 杂项/重要题目.md",
+    "欢迎！.md",
     "assets/multi_comp2.png",
     "assets/multi_chain.png",
     "1-5. 多元函数微分学/多元函数的极值与最值.md",
