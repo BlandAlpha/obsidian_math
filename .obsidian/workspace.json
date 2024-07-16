@@ -50,7 +50,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-6. 二重积分/二重积分性质.md",
+                    "file": "1-6. 二重积分/二重积分对称性.md",
                     "mode": "source",
                     "source": true
                   }
@@ -69,7 +69,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           },
           {
             "id": "0d686f05adf0b241",
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-6. 二重积分/二重积分性质.md",
+                "file": "0. 杂项/重要题目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-6. 二重积分/二重积分性质.md",
+                "file": "0. 杂项/重要题目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-6. 二重积分/二重积分性质.md"
+                "file": "0. 杂项/重要题目.md"
               }
             }
           }
@@ -220,10 +220,12 @@
       "publish:发布更改": false
     }
   },
-  "active": "2f55de68de879314",
+  "active": "66e9d3d46d370707",
   "lastOpenFiles": [
-    "0. 杂项/重要题目.md",
+    "欢迎！.md",
+    "1-6. 二重积分/二重积分对称性.md",
     "1-6. 二重积分/二重积分性质.md",
+    "0. 杂项/重要题目.md",
     "0. 杂项/常用公式.md",
     "README.md",
     "1-6. 二重积分/二重积分概念.md",
@@ -234,9 +236,7 @@
     "assets/Pasted image 20240716132408.png",
     "1-6. 二重积分/6. 二重积分.md",
     "1-5. 多元函数微分学/多元函数的极值与最值.md",
-    "欢迎！.md",
     "1-5. 多元函数微分学/5. 多元函数微分学.md",
-    "1-6. 二重积分/二重积分对称性.md",
     "1-6. 二重积分/二重积分计算.md",
     "1-5. 多元函数微分学/多元函数微分法则.md",
     "assets/multi_tangent2.png",
