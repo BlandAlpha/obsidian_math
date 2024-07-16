@@ -57,12 +57,12 @@
                 }
               },
               {
-                "id": "0cd4d5290f4becf3",
+                "id": "66e9d3d46d370707",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "0. 杂项/常用公式.md",
+                    "file": "0. 杂项/重要题目.md",
                     "mode": "source",
                     "source": true
                   }
@@ -222,8 +222,9 @@
   },
   "active": "2f55de68de879314",
   "lastOpenFiles": [
-    "0. 杂项/常用公式.md",
+    "0. 杂项/重要题目.md",
     "1-6. 二重积分/二重积分性质.md",
+    "0. 杂项/常用公式.md",
     "README.md",
     "1-6. 二重积分/二重积分概念.md",
     "Pasted image 20240716132538.png.md",
@@ -238,7 +239,6 @@
     "1-6. 二重积分/二重积分对称性.md",
     "1-6. 二重积分/二重积分计算.md",
     "1-5. 多元函数微分学/多元函数微分法则.md",
-    "0. 杂项/重要题目.md",
     "assets/multi_tangent2.png",
     "assets/multi_tangent.png",
     "assets/multi_mem.png",
