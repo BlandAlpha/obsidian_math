@@ -13,18 +13,6 @@
             "dimension": 56.98924731182796,
             "children": [
               {
-                "id": "a4cb7bbfb25414b0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-6. 二重积分/二重积分性质.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
                 "id": "bbf21470fc6e7727",
                 "type": "leaf",
                 "state": {
@@ -55,8 +43,21 @@
                     "source": true
                   }
                 }
+              },
+              {
+                "id": "2f55de68de879314",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1-6. 二重积分/二重积分性质.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
             "id": "0d686f05adf0b241",
@@ -207,10 +208,11 @@
       "publish:发布更改": false
     }
   },
-  "active": "a4cb7bbfb25414b0",
+  "active": "2f55de68de879314",
   "lastOpenFiles": [
-    "1-6. 二重积分/二重积分概念.md",
+    "README.md",
     "1-6. 二重积分/二重积分性质.md",
+    "1-6. 二重积分/二重积分概念.md",
     "Pasted image 20240716132538.png.md",
     "assets/d_int_2.png",
     "assets/d_int_1.png",
@@ -220,7 +222,6 @@
     "1-5. 多元函数微分学/多元函数的极值与最值.md",
     "欢迎！.md",
     "1-5. 多元函数微分学/5. 多元函数微分学.md",
-    "README.md",
     "1-6. 二重积分/二重积分对称性.md",
     "1-6. 二重积分/二重积分计算.md",
     "1-5. 多元函数微分学/多元函数微分法则.md",
