@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-6. 二重积分/6. 二重积分.md",
+                    "file": "1-6. 二重积分/二重积分概念.md",
                     "mode": "source",
                     "source": true
                   }
@@ -69,7 +69,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-5. 多元函数微分学/多元函数的极值与最值.md",
+                    "file": "1-6. 二重积分/二重积分概念.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-6. 二重积分/6. 二重积分.md",
+                "file": "1-6. 二重积分/二重积分概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-6. 二重积分/6. 二重积分.md",
+                "file": "1-6. 二重积分/二重积分概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-6. 二重积分/6. 二重积分.md"
+                "file": "1-6. 二重积分/二重积分概念.md"
               }
             }
           }
@@ -209,16 +209,19 @@
   },
   "active": "a4cb7bbfb25414b0",
   "lastOpenFiles": [
+    "assets/Pasted image 20240716132613.png",
+    "assets/Pasted image 20240716132538.png",
+    "assets/Pasted image 20240716132408.png",
+    "1-6. 二重积分/6. 二重积分.md",
+    "1-6. 二重积分/二重积分概念.md",
+    "1-5. 多元函数微分学/多元函数的极值与最值.md",
     "欢迎！.md",
     "1-5. 多元函数微分学/5. 多元函数微分学.md",
     "README.md",
-    "1-6. 二重积分/6. 二重积分.md",
     "1-6. 二重积分/二重积分对称性.md",
     "1-6. 二重积分/二重积分计算.md",
     "1-6. 二重积分/二重积分性质.md",
-    "1-6. 二重积分/二重积分概念.md",
     "1-5. 多元函数微分学/多元函数微分法则.md",
-    "1-5. 多元函数微分学/多元函数的极值与最值.md",
     "0. 杂项/重要题目.md",
     "assets/multi_tangent2.png",
     "assets/multi_tangent.png",
@@ -231,9 +234,7 @@
     "1-5. 多元函数微分学/基本概念.md",
     "assets/multi_comp.png",
     "assets/partial_deriv.png",
-    "assets/multi_deriv.png",
     "1-3. 一元函数微分学/1. 概念/微分的概念.md",
-    "assets/deriv_hill.png",
     "1-1. 函数的极限与连续/洛必达法则.md",
     "1-4. 一元函数积分学/3. 应用/3. 物理应用/物理应用.md",
     "1-4. 一元函数积分学/2. 计算/Gamma函数.md",
@@ -244,7 +245,6 @@
     "1-4. 一元函数积分学/3. 应用/2. 积分等式与积分不等式/积分等式.md",
     "1-4. 一元函数积分学/3. 应用/1. 几何应用/旋转体的体积.md",
     "1-4. 一元函数积分学/3. 应用/1. 几何应用/平面图形的面积.md",
-    "1-4. 一元函数积分学/3. 应用/1. 几何应用/函数的平均值.md",
     "1-4. 一元函数积分学/3. 应用/3. 物理应用",
     "1-4. 一元函数积分学/3. 应用/2. 积分等式与积分不等式",
     "1-4. 一元函数积分学/3. 应用/1. 几何应用",
