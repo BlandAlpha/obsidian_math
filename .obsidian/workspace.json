@@ -25,14 +25,6 @@
                 }
               },
               {
-                "id": "5587e7655e3e185b",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              },
-              {
                 "id": "63f3c85a38e40432",
                 "type": "leaf",
                 "state": {
@@ -63,13 +55,13 @@
                   "type": "markdown",
                   "state": {
                     "file": "0. 杂项/重要题目.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": true
                   }
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           },
           {
             "id": "0d686f05adf0b241",
@@ -82,7 +74,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-6. 二重积分/二重积分性质.md",
+                    "file": "1-6. 二重积分/二重积分对称性.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -158,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 杂项/重要题目.md",
+                "file": "1-6. 二重积分/二重积分对称性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. 杂项/重要题目.md",
+                "file": "1-6. 二重积分/二重积分对称性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. 杂项/重要题目.md"
+                "file": "1-6. 二重积分/二重积分对称性.md"
               }
             }
           }
@@ -220,14 +212,15 @@
       "publish:发布更改": false
     }
   },
-  "active": "66e9d3d46d370707",
+  "active": "4b105adcbd514960",
   "lastOpenFiles": [
-    "欢迎！.md",
-    "1-6. 二重积分/二重积分对称性.md",
     "1-6. 二重积分/二重积分性质.md",
+    "1-6. 二重积分/二重积分对称性.md",
+    "README.md",
+    "1-4. 一元函数积分学/2. 计算/Gamma函数.md",
+    "欢迎！.md",
     "0. 杂项/重要题目.md",
     "0. 杂项/常用公式.md",
-    "README.md",
     "1-6. 二重积分/二重积分概念.md",
     "Pasted image 20240716132538.png.md",
     "assets/d_int_2.png",
@@ -251,7 +244,6 @@
     "1-3. 一元函数微分学/1. 概念/微分的概念.md",
     "1-1. 函数的极限与连续/洛必达法则.md",
     "1-4. 一元函数积分学/3. 应用/3. 物理应用/物理应用.md",
-    "1-4. 一元函数积分学/2. 计算/Gamma函数.md",
     "1-1. 函数的极限与连续/邻域.md",
     "1-4. 一元函数积分学/3. 应用/4-3. 应用.md",
     "1-4. 一元函数积分学/3. 应用/1. 几何应用/其他几何应用.md",
