@@ -56,8 +56,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           },
           {
             "id": "0d686f05adf0b241",
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎！.md",
+                "file": "1-6. 二重积分/6. 二重积分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎！.md",
+                "file": "1-6. 二重积分/6. 二重积分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎！.md"
+                "file": "1-6. 二重积分/6. 二重积分.md"
               }
             }
           }
@@ -208,8 +207,9 @@
       "publish:发布更改": false
     }
   },
-  "active": "63f3c85a38e40432",
+  "active": "a4cb7bbfb25414b0",
   "lastOpenFiles": [
+    "欢迎！.md",
     "1-5. 多元函数微分学/5. 多元函数微分学.md",
     "README.md",
     "1-6. 二重积分/6. 二重积分.md",
@@ -226,7 +226,6 @@
     "1-3. 一元函数微分学/3. 应用/3-3. 应用.md",
     "1-3. 一元函数微分学/3. 应用/1. 几何应用/极值的定义.md",
     "assets/multi_intu.png",
-    "欢迎！.md",
     "assets/multi_comp2.png",
     "assets/multi_chain.png",
     "1-5. 多元函数微分学/基本概念.md",
