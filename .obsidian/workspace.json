@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-6. 二重积分/二重积分概念.md",
+                    "file": "1-6. 二重积分/二重积分性质.md",
                     "mode": "source",
                     "source": true
                   }
@@ -69,7 +69,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-6. 二重积分/二重积分概念.md",
+                    "file": "1-6. 二重积分/二重积分性质.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-6. 二重积分/二重积分概念.md",
+                "file": "1-6. 二重积分/二重积分性质.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-6. 二重积分/二重积分概念.md",
+                "file": "1-6. 二重积分/二重积分性质.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-6. 二重积分/二重积分概念.md"
+                "file": "1-6. 二重积分/二重积分性质.md"
               }
             }
           }
@@ -207,10 +207,11 @@
       "publish:发布更改": false
     }
   },
-  "active": "a4cb7bbfb25414b0",
+  "active": "4b105adcbd514960",
   "lastOpenFiles": [
-    "Pasted image 20240716132538.png.md",
     "1-6. 二重积分/二重积分概念.md",
+    "1-6. 二重积分/二重积分性质.md",
+    "Pasted image 20240716132538.png.md",
     "assets/d_int_2.png",
     "assets/d_int_1.png",
     "assets/Pasted image 20240716132538.png",
@@ -222,7 +223,6 @@
     "README.md",
     "1-6. 二重积分/二重积分对称性.md",
     "1-6. 二重积分/二重积分计算.md",
-    "1-6. 二重积分/二重积分性质.md",
     "1-5. 多元函数微分学/多元函数微分法则.md",
     "0. 杂项/重要题目.md",
     "assets/multi_tangent2.png",
