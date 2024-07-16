@@ -6,74 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:\"0. 杂项\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 7781184
-      }
-    },
-    {
-      "query": "path:\"1-1. 函数的极限与连续\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 25086
-      }
-    },
-    {
-      "query": "path:\"1-2. 数列极限\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16738816
-      }
-    },
-    {
-      "query": "path:\"1-3. 一元函数微分学\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 12135773
-      }
-    },
-    {
-      "query": "path:\"1-4. 一元函数积分学\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16116736
-      }
-    },
-    {
-      "query": "path:\"1-5. 多元函数微分学\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:\"1-6. 二重积分\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431454
-      }
-    },
-    {
-      "query": "path:\"1-7. 微分方程\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431387
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.8,
-  "nodeSizeMultiplier": 1.60161290322581,
-  "lineSizeMultiplier": 1.41720430107527,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.456989247311828,
-  "repelStrength": 12.1505376344086,
-  "linkStrength": 0.736559139784946,
-  "linkDistance": 113,
-  "scale": 0.308811095135676,
-  "close": true
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.6965576707846596,
+  "close": false
 }
