@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "README.md",
+                    "file": "1-7. 微分方程/微分方程概念.md",
                     "mode": "source",
                     "source": true
                   }
@@ -60,8 +60,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           },
           {
             "id": "326fc0c37be21a5b",
@@ -129,13 +128,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "d7472a4391b2c7bd",
@@ -151,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-6. 二重积分/二重积分计算.md",
+                "file": "1-7. 微分方程/微分方程概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-6. 二重积分/二重积分计算.md",
+                "file": "1-7. 微分方程/微分方程概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-6. 二重积分/二重积分计算.md"
+                "file": "1-7. 微分方程/微分方程概念.md"
               }
             }
           }
@@ -213,22 +210,27 @@
       "publish:发布更改": false
     }
   },
-  "active": "6eb920b8bb3473cc",
+  "active": "bbf21470fc6e7727",
   "lastOpenFiles": [
+    "1-7. 微分方程/7. 微分方程.md",
+    "1-7. 微分方程/一阶微分方程求解.md",
+    "1-7. 微分方程/微分方程应用.md",
+    "1-7. 微分方程/微分方程概念.md",
+    "1-7. 微分方程/高阶线性微分方程求解.md",
+    "1-6. 二重积分/二重积分对称性.md",
+    "README.md",
+    "欢迎！.md",
+    "1-6. 二重积分/二重积分计算.md",
     "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
     "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
-    "1-6. 二重积分/二重积分计算.md",
-    "欢迎！.md",
     "1-4. 一元函数积分学/2. 计算/Gamma函数.md",
     "1-4. 一元函数积分学/2. 计算/二重积分.md",
     "0. 杂项/重要题目.md",
     "assets/d_int_pol_2.png",
     "assets/d_int_pol_2.png",
     "assets/d_int_pol.png",
-    "README.md",
     "assets/d_int_x.png",
     "assets/d_int_x.png",
-    "1-6. 二重积分/二重积分对称性.md",
     "1-6. 二重积分/二重积分性质.md",
     "0. 杂项/常用公式.md",
     "1-6. 二重积分/二重积分概念.md",
@@ -246,11 +248,6 @@
     "1-3. 一元函数微分学/3. 应用/1. 几何应用/极值的定义.md",
     "1-5. 多元函数微分学/基本概念.md",
     "1-3. 一元函数微分学/1. 概念/微分的概念.md",
-    "1-1. 函数的极限与连续/洛必达法则.md",
-    "1-4. 一元函数积分学/3. 应用/3. 物理应用/物理应用.md",
-    "1-1. 函数的极限与连续/邻域.md",
-    "1-4. 一元函数积分学/3. 应用/4-3. 应用.md",
-    "1-4. 一元函数积分学/3. 应用/1. 几何应用/其他几何应用.md",
     "1-4. 一元函数积分学/3. 应用/3. 物理应用",
     "1-4. 一元函数积分学/3. 应用/2. 积分等式与积分不等式",
     "1-4. 一元函数积分学/3. 应用/1. 几何应用",
