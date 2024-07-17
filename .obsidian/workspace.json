@@ -55,13 +55,13 @@
                   "type": "markdown",
                   "state": {
                     "file": "0. 杂项/重要题目.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": true
                   }
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "0d686f05adf0b241",
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎！.md",
+                "file": "1-6. 二重积分/二重积分计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎！.md",
+                "file": "1-6. 二重积分/二重积分计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎！.md"
+                "file": "1-6. 二重积分/二重积分计算.md"
               }
             }
           }
@@ -212,17 +212,17 @@
       "publish:发布更改": false
     }
   },
-  "active": "63f3c85a38e40432",
+  "active": "2f55de68de879314",
   "lastOpenFiles": [
-    "README.md",
+    "0. 杂项/重要题目.md",
     "1-6. 二重积分/二重积分计算.md",
+    "欢迎！.md",
+    "README.md",
     "assets/d_int_x.png",
     "assets/d_int_x.png",
     "1-6. 二重积分/二重积分对称性.md",
     "1-6. 二重积分/二重积分性质.md",
     "1-4. 一元函数积分学/2. 计算/Gamma函数.md",
-    "欢迎！.md",
-    "0. 杂项/重要题目.md",
     "0. 杂项/常用公式.md",
     "1-6. 二重积分/二重积分概念.md",
     "Pasted image 20240716132538.png.md",
