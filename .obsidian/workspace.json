@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-7. 微分方程/一阶微分方程求解.md",
+                    "file": "1-7. 微分方程/高阶线性微分方程求解.md",
                     "mode": "source",
                     "source": true
                   }
@@ -85,7 +85,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-7. 微分方程/一阶微分方程求解.md",
+                    "file": "1-7. 微分方程/高阶线性微分方程求解.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-7. 微分方程/一阶微分方程求解.md",
+                "file": "1-7. 微分方程/高阶线性微分方程求解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-7. 微分方程/一阶微分方程求解.md",
+                "file": "1-7. 微分方程/高阶线性微分方程求解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-7. 微分方程/一阶微分方程求解.md"
+                "file": "1-7. 微分方程/高阶线性微分方程求解.md"
               }
             }
           }
@@ -223,11 +223,12 @@
       "publish:发布更改": false
     }
   },
-  "active": "bbf21470fc6e7727",
+  "active": "82f9dc330c293f70",
   "lastOpenFiles": [
+    "1-7. 微分方程/一阶微分方程求解.md",
+    "1-7. 微分方程/高阶线性微分方程求解.md",
     "欢迎！.md",
     "README.md",
-    "1-7. 微分方程/一阶微分方程求解.md",
     "0. 杂项/重要题目.md",
     "1-7. 微分方程/7. 微分方程.md",
     "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
@@ -241,7 +242,6 @@
     "1-5. 多元函数微分学/5. 多元函数微分学.md",
     "1-5. 多元函数微分学/基本概念.md",
     "1-7. 微分方程/微分方程应用.md",
-    "1-7. 微分方程/高阶线性微分方程求解.md",
     "1-6. 二重积分/二重积分对称性.md",
     "1-4. 一元函数积分学/2. 计算/不定积分的积分法.md",
     "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
