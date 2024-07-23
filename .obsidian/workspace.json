@@ -24,6 +24,18 @@
                 }
               },
               {
+                "id": "a2637e89dbae585b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2-1. 行列式/重要行列式.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
                 "id": "bc2e5543c528b386",
                 "type": "leaf",
                 "state": {
@@ -35,7 +47,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "4811c74fa416c273",
@@ -47,7 +60,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-1. 行列式/行列式的定义与性质.md",
+                    "file": "2-1. 行列式/重要行列式.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-1. 行列式/行列式的定义与性质.md",
+                "file": "2-1. 行列式/重要行列式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-1. 行列式/行列式的定义与性质.md",
+                "file": "2-1. 行列式/重要行列式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-1. 行列式/行列式的定义与性质.md"
+                "file": "2-1. 行列式/重要行列式.md"
               }
             }
           }
@@ -185,16 +198,17 @@
       "publish:发布更改": false
     }
   },
-  "active": "73290466a61062ad",
+  "active": "a2637e89dbae585b",
   "lastOpenFiles": [
-    "README.md",
     "2-1. 行列式/行列式的定义与性质.md",
+    "2-1. 行列式/重要行列式.md",
+    "2-1. 行列式/余子式与代数余子式的计算.md",
+    "2-1. 行列式/行列式的计算.md",
+    "2-1. 行列式/克拉默法则.md",
+    "README.md",
     "assets/det_cal_d3.png",
     "assets/det_cal.png",
     "assets/Pasted image 20240720211027.png",
-    "2-1. 行列式/行列式的计算.md",
-    "2-1. 行列式/余子式与代数余子式的计算.md",
-    "2-1. 行列式/克拉默法则.md",
     "1-7. 微分方程/高阶线性微分方程求解.md",
     "2-1. 行列式/1. 行列式.md",
     "线性代数主目录.md",
