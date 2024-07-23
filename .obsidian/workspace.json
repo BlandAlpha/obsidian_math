@@ -47,8 +47,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "4811c74fa416c273",
@@ -60,7 +59,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-1. 行列式/重要行列式.md",
+                    "file": "2-1. 行列式/行列式的定义与性质.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-1. 行列式/重要行列式.md",
+                "file": "2-1. 行列式/行列式的定义与性质.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-1. 行列式/重要行列式.md",
+                "file": "2-1. 行列式/行列式的定义与性质.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-1. 行列式/重要行列式.md"
+                "file": "2-1. 行列式/行列式的定义与性质.md"
               }
             }
           }
@@ -198,10 +197,10 @@
       "publish:发布更改": false
     }
   },
-  "active": "a2637e89dbae585b",
+  "active": "3d1a64abf98f903e",
   "lastOpenFiles": [
-    "2-1. 行列式/行列式的定义与性质.md",
     "2-1. 行列式/重要行列式.md",
+    "2-1. 行列式/行列式的定义与性质.md",
     "2-1. 行列式/余子式与代数余子式的计算.md",
     "2-1. 行列式/行列式的计算.md",
     "2-1. 行列式/克拉默法则.md",
