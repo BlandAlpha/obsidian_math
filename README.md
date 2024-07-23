@@ -5,15 +5,13 @@
 
 参考资料：2025张宇基础30讲。**持续更新中。**
 
-相关仓库：[Obsidian C语言考研复习笔记](https://github.com/BlandAlpha/obsidian_c)
-
 在线浏览：[Canis的考研数学2笔记](https://publish.obsidian.md/gee-math-2)
 
 ![overall](assets/readme/overall.png)
 
 ### 复习进度
 
-- [x] 本周目标：高等数学部分
+- [ ] 本周目标：线性代数 / 第一讲：行列式 / 
 
 ```
 当前章节：线性代数
