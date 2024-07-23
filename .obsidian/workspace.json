@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "26400559065691dd",
-        "type": "tabs",
+        "id": "6031d05e07d784b6",
+        "type": "split",
         "children": [
           {
-            "id": "63f3c85a38e40432",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-1. 行列式/1. 行列式.md",
-                "mode": "source",
-                "source": true
+            "id": "26400559065691dd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "63f3c85a38e40432",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2-1. 行列式/行列式的定义与性质.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "999f3a0a811d8f59",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3d1a64abf98f903e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2-1. 行列式/行列式的定义与性质.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-1. 行列式/1. 行列式.md",
+                "file": "2-1. 行列式/行列式的定义与性质.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-1. 行列式/1. 行列式.md",
+                "file": "2-1. 行列式/行列式的定义与性质.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-1. 行列式/1. 行列式.md"
+                "file": "2-1. 行列式/行列式的定义与性质.md"
               }
             }
           }
@@ -148,14 +173,15 @@
       "publish:发布更改": false
     }
   },
-  "active": "63f3c85a38e40432",
+  "active": "3d1a64abf98f903e",
   "lastOpenFiles": [
-    "线性代数主目录.md",
-    "2-1. 行列式/克拉默法则.md",
-    "2-1. 行列式/1. 行列式.md",
-    "2-1. 行列式/余子式与代数余子式的计算.md",
-    "2-1. 行列式/行列式的计算.md",
     "2-1. 行列式/行列式的定义与性质.md",
+    "2-1. 行列式/行列式的计算.md",
+    "2-1. 行列式/余子式与代数余子式的计算.md",
+    "2-1. 行列式/克拉默法则.md",
+    "1-7. 微分方程/高阶线性微分方程求解.md",
+    "2-1. 行列式/1. 行列式.md",
+    "线性代数主目录.md",
     "2-6. 二次型/6. 二次型.md",
     "2-5. 特征值与特征向量/5. 特征值与特征向量.md",
     "2-4. 线性方程组/4. 线性方程组.md",
@@ -175,7 +201,6 @@
     "0. 杂项/重要题目.md",
     "assets/Pasted image 20240720211027.png",
     "assets/diff_eq_cycle.png",
-    "1-7. 微分方程/高阶线性微分方程求解.md",
     "assets/diff_eq_special_2.png",
     "assets/diff_eq_special_1.png",
     "1-7. 微分方程/一阶微分方程求解.md",
