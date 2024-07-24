@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-1. 行列式/克拉默法则.md",
+                    "file": "2-2. 矩阵/矩阵的定义及基本运算.md",
                     "mode": "source",
                     "source": true
                   }
@@ -85,7 +85,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-1. 行列式/克拉默法则.md",
+                    "file": "2-2. 矩阵/矩阵的定义及基本运算.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-1. 行列式/克拉默法则.md",
+                "file": "2-2. 矩阵/矩阵的定义及基本运算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-1. 行列式/克拉默法则.md",
+                "file": "2-2. 矩阵/矩阵的定义及基本运算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-1. 行列式/克拉默法则.md"
+                "file": "2-2. 矩阵/矩阵的定义及基本运算.md"
               }
             }
           }
@@ -225,8 +225,15 @@
   },
   "active": "3d1a64abf98f903e",
   "lastOpenFiles": [
-    "2-1. 行列式/余子式与代数余子式的计算.md",
     "2-1. 行列式/克拉默法则.md",
+    "2-2. 矩阵/矩阵的定义及基本运算.md",
+    "2-2. 矩阵/2. 矩阵.md",
+    "2-2. 矩阵/等价矩阵和矩阵的秩.md",
+    "2-2. 矩阵/矩阵方程.md",
+    "2-2. 矩阵/初等变换和初等矩阵.md",
+    "2-2. 矩阵/伴随矩阵.md",
+    "2-2. 矩阵/矩阵的逆.md",
+    "2-1. 行列式/余子式与代数余子式的计算.md",
     "2-1. 行列式/行列式的定义与性质.md",
     "2-1. 行列式/行列式的计算.md",
     "0. 杂项/重要题目.md",
@@ -244,7 +251,6 @@
     "2-5. 特征值与特征向量/5. 特征值与特征向量.md",
     "2-4. 线性方程组/4. 线性方程组.md",
     "2-3. 向量组/3. 向量组.md",
-    "2-2. 矩阵/2. 矩阵.md",
     "1-7. 微分方程/7. 微分方程.md",
     "2-6. 二次型",
     "2-5. 特征值与特征向量",
@@ -257,12 +263,6 @@
     "assets/diff_eq_special_2.png",
     "assets/diff_eq_special_1.png",
     "1-7. 微分方程/一阶微分方程求解.md",
-    "1-4. 一元函数积分学/2. 计算/基本积分公式.md",
-    "0. 杂项/常用公式.md",
-    "0. 杂项/均值不等式.md",
-    "0. 杂项/灵光乍现.md",
-    "0. 杂项/应试技巧.md",
-    "1-6. 二重积分/二重积分计算.md",
     "assets/d_int_pol_2.png",
     "assets/d_int_pol_2.png",
     "assets/d_int_pol.png",
