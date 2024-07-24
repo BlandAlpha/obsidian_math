@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-1. 行列式/余子式与代数余子式的计算.md",
+                    "file": "2-1. 行列式/克拉默法则.md",
                     "mode": "source",
                     "source": true
                   }
@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "d7472a4391b2c7bd",
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-1. 行列式/余子式与代数余子式的计算.md",
+                "file": "2-1. 行列式/克拉默法则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-1. 行列式/余子式与代数余子式的计算.md",
+                "file": "2-1. 行列式/克拉默法则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-1. 行列式/余子式与代数余子式的计算.md"
+                "file": "2-1. 行列式/克拉默法则.md"
               }
             }
           }
@@ -222,10 +223,10 @@
       "publish:发布更改": false
     }
   },
-  "active": "3d1a64abf98f903e",
+  "active": "73290466a61062ad",
   "lastOpenFiles": [
-    "2-1. 行列式/行列式的定义与性质.md",
     "2-1. 行列式/余子式与代数余子式的计算.md",
+    "2-1. 行列式/行列式的定义与性质.md",
     "2-1. 行列式/行列式的计算.md",
     "0. 杂项/重要题目.md",
     "2-1. 行列式/重要行列式.md",
