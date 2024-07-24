@@ -72,8 +72,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           },
           {
             "id": "4811c74fa416c273",
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 杂项/重要题目.md",
+                "file": "2-1. 行列式/行列式的定义与性质.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. 杂项/重要题目.md",
+                "file": "2-1. 行列式/行列式的定义与性质.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. 杂项/重要题目.md"
+                "file": "2-1. 行列式/行列式的定义与性质.md"
               }
             }
           }
@@ -224,8 +223,9 @@
       "publish:发布更改": false
     }
   },
-  "active": "df7d993cda12d50d",
+  "active": "73290466a61062ad",
   "lastOpenFiles": [
+    "0. 杂项/重要题目.md",
     "2-1. 行列式/行列式的定义与性质.md",
     "2-1. 行列式/重要行列式.md",
     "README.md",
@@ -253,7 +253,6 @@
     "2-2. 矩阵",
     "2-1. 行列式",
     "1-7. 微分方程/微分方程应用.md",
-    "0. 杂项/重要题目.md",
     "assets/diff_eq_cycle.png",
     "assets/diff_eq_special_2.png",
     "assets/diff_eq_special_1.png",
