@@ -59,8 +59,21 @@
                     "source": true
                   }
                 }
+              },
+              {
+                "id": "df7d993cda12d50d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0. 杂项/重要题目.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 4
           },
           {
             "id": "4811c74fa416c273",
@@ -149,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-1. 行列式/行列式的定义与性质.md",
+                "file": "0. 杂项/重要题目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-1. 行列式/行列式的定义与性质.md",
+                "file": "0. 杂项/重要题目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-1. 行列式/行列式的定义与性质.md"
+                "file": "0. 杂项/重要题目.md"
               }
             }
           }
@@ -211,10 +224,10 @@
       "publish:发布更改": false
     }
   },
-  "active": "3d1a64abf98f903e",
+  "active": "df7d993cda12d50d",
   "lastOpenFiles": [
-    "2-1. 行列式/重要行列式.md",
     "2-1. 行列式/行列式的定义与性质.md",
+    "2-1. 行列式/重要行列式.md",
     "README.md",
     "欢迎！.md",
     "高等数学主目录.md",
