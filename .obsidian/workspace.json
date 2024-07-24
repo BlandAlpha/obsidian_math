@@ -85,7 +85,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-1. 行列式/余子式与代数余子式的计算.md",
+                    "file": "2-1. 行列式/克拉默法则.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -223,9 +223,10 @@
       "publish:发布更改": false
     }
   },
-  "active": "73290466a61062ad",
+  "active": "3d1a64abf98f903e",
   "lastOpenFiles": [
     "2-1. 行列式/余子式与代数余子式的计算.md",
+    "2-1. 行列式/克拉默法则.md",
     "2-1. 行列式/行列式的定义与性质.md",
     "2-1. 行列式/行列式的计算.md",
     "0. 杂项/重要题目.md",
@@ -233,7 +234,6 @@
     "README.md",
     "欢迎！.md",
     "高等数学主目录.md",
-    "2-1. 行列式/克拉默法则.md",
     "assets/det_cal_d3.png",
     "assets/det_cal.png",
     "assets/Pasted image 20240720211027.png",
