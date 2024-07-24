@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-1. 行列式/行列式的定义与性质.md",
+                    "file": "2-1. 行列式/余子式与代数余子式的计算.md",
                     "mode": "source",
                     "source": true
                   }
@@ -85,7 +85,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-1. 行列式/行列式的定义与性质.md",
+                    "file": "2-1. 行列式/余子式与代数余子式的计算.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -144,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "d7472a4391b2c7bd",
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-1. 行列式/行列式的定义与性质.md",
+                "file": "2-1. 行列式/余子式与代数余子式的计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-1. 行列式/行列式的定义与性质.md",
+                "file": "2-1. 行列式/余子式与代数余子式的计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-1. 行列式/行列式的定义与性质.md"
+                "file": "2-1. 行列式/余子式与代数余子式的计算.md"
               }
             }
           }
@@ -223,16 +222,16 @@
       "publish:发布更改": false
     }
   },
-  "active": "73290466a61062ad",
+  "active": "3d1a64abf98f903e",
   "lastOpenFiles": [
-    "0. 杂项/重要题目.md",
     "2-1. 行列式/行列式的定义与性质.md",
+    "2-1. 行列式/余子式与代数余子式的计算.md",
+    "2-1. 行列式/行列式的计算.md",
+    "0. 杂项/重要题目.md",
     "2-1. 行列式/重要行列式.md",
     "README.md",
     "欢迎！.md",
     "高等数学主目录.md",
-    "2-1. 行列式/余子式与代数余子式的计算.md",
-    "2-1. 行列式/行列式的计算.md",
     "2-1. 行列式/克拉默法则.md",
     "assets/det_cal_d3.png",
     "assets/det_cal.png",
