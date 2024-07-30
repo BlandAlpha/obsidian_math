@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-2. 矩阵/矩阵的迹.md",
+                    "file": "2-2. 矩阵/矩阵的定义及基本运算.md",
                     "mode": "source",
                     "source": true
                   }
@@ -145,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "d7472a4391b2c7bd",
@@ -161,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-2. 矩阵/矩阵的迹.md",
+                "file": "2-2. 矩阵/矩阵的定义及基本运算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-2. 矩阵/矩阵的迹.md",
+                "file": "2-2. 矩阵/矩阵的定义及基本运算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-2. 矩阵/矩阵的迹.md"
+                "file": "2-2. 矩阵/矩阵的定义及基本运算.md"
               }
             }
           }
@@ -225,8 +226,8 @@
   },
   "active": "ba4fd93f7756de57",
   "lastOpenFiles": [
-    "2-2. 矩阵/矩阵的定义及基本运算.md",
     "2-2. 矩阵/矩阵的迹.md",
+    "2-2. 矩阵/矩阵的定义及基本运算.md",
     "README.md",
     "assets/matrix_multi.png",
     "2-1. 行列式/克拉默法则.md",
