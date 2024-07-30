@@ -25,6 +25,18 @@
                 }
               },
               {
+                "id": "ba4fd93f7756de57",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2-2. 矩阵/矩阵的迹.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
                 "id": "eebe4bc2924c770a",
                 "type": "leaf",
                 "state": {
@@ -60,7 +72,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "5bd1948384d74983",
@@ -132,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "d7472a4391b2c7bd",
@@ -149,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-2. 矩阵/矩阵的定义及基本运算.md",
+                "file": "2-2. 矩阵/矩阵的迹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-2. 矩阵/矩阵的定义及基本运算.md",
+                "file": "2-2. 矩阵/矩阵的迹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-2. 矩阵/矩阵的定义及基本运算.md"
+                "file": "2-2. 矩阵/矩阵的迹.md"
               }
             }
           }
@@ -211,10 +223,11 @@
       "publish:发布更改": false
     }
   },
-  "active": "73290466a61062ad",
+  "active": "ba4fd93f7756de57",
   "lastOpenFiles": [
-    "README.md",
     "2-2. 矩阵/矩阵的定义及基本运算.md",
+    "2-2. 矩阵/矩阵的迹.md",
+    "README.md",
     "assets/matrix_multi.png",
     "2-1. 行列式/克拉默法则.md",
     "2-2. 矩阵/2. 矩阵.md",
