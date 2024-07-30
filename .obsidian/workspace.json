@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a7dae5962ef0f812",
+        "id": "26491e04d89fbacd",
         "type": "split",
         "children": [
           {
             "id": "999f3a0a811d8f59",
             "type": "tabs",
-            "dimension": 60,
+            "dimension": 56.666666666666664,
             "children": [
               {
                 "id": "73290466a61062ad",
@@ -25,19 +25,7 @@
                 }
               },
               {
-                "id": "a2637e89dbae585b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2-1. 行列式/重要行列式.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "bc2e5543c528b386",
+                "id": "eebe4bc2924c770a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -75,12 +63,12 @@
             ]
           },
           {
-            "id": "4811c74fa416c273",
+            "id": "5bd1948384d74983",
             "type": "tabs",
-            "dimension": 40,
+            "dimension": 43.333333333333336,
             "children": [
               {
-                "id": "3d1a64abf98f903e",
+                "id": "e9d3fcd07cb124ad",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -225,8 +213,9 @@
   },
   "active": "73290466a61062ad",
   "lastOpenFiles": [
-    "assets/matrix_multi.png",
+    "README.md",
     "2-2. 矩阵/矩阵的定义及基本运算.md",
+    "assets/matrix_multi.png",
     "2-1. 行列式/克拉默法则.md",
     "2-2. 矩阵/2. 矩阵.md",
     "2-2. 矩阵/等价矩阵和矩阵的秩.md",
@@ -239,7 +228,6 @@
     "2-1. 行列式/行列式的计算.md",
     "0. 杂项/重要题目.md",
     "2-1. 行列式/重要行列式.md",
-    "README.md",
     "欢迎！.md",
     "高等数学主目录.md",
     "assets/det_cal_d3.png",
