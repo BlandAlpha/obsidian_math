@@ -72,8 +72,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
             "id": "5bd1948384d74983",
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎！.md",
+                "file": "2-2. 矩阵/初等变换和初等矩阵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎！.md",
+                "file": "2-2. 矩阵/初等变换和初等矩阵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎！.md"
+                "file": "2-2. 矩阵/初等变换和初等矩阵.md"
               }
             }
           }
@@ -224,8 +223,9 @@
       "publish:发布更改": false
     }
   },
-  "active": "07bc54f5db1217cb",
+  "active": "73290466a61062ad",
   "lastOpenFiles": [
+    "欢迎！.md",
     "README.md",
     "2-2. 矩阵/初等变换和初等矩阵.md",
     "assets/stair_mat_simp.png",
@@ -235,7 +235,6 @@
     "2-2. 矩阵/伴随矩阵.md",
     "2-2. 矩阵/矩阵的定义及基本运算.md",
     "2-2. 矩阵/矩阵的逆.md",
-    "欢迎！.md",
     "2-2. 矩阵/矩阵的迹.md",
     "assets/matrix_multi.png",
     "2-1. 行列式/克拉默法则.md",
