@@ -72,7 +72,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "5bd1948384d74983",
@@ -161,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-2. 矩阵/初等变换和初等矩阵.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-2. 矩阵/初等变换和初等矩阵.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-2. 矩阵/初等变换和初等矩阵.md"
+                "file": "README.md"
               }
             }
           }
@@ -223,10 +224,10 @@
       "publish:发布更改": false
     }
   },
-  "active": "73290466a61062ad",
+  "active": "eebe4bc2924c770a",
   "lastOpenFiles": [
-    "assets/stair_mat_simp.png",
     "2-2. 矩阵/初等变换和初等矩阵.md",
+    "assets/stair_mat_simp.png",
     "assets/bicycle.png",
     "assets/stair_mat.png",
     "0. 杂项/重要题目.md",
