@@ -1629,6 +1629,9 @@ bry
 bNo
 bpn
 bv
+begin
+bmatrix
+boldsymbol
 This
 TZ
 TToO
@@ -2186,6 +2189,7 @@ Aq
 AZa
 AOPU
 Aiqj
+AB
 strongly
 simple
 sep
@@ -2581,6 +2585,7 @@ euq
 eRZV
 eGQQQ
 eI
+end
 png
 pHYs
 pF

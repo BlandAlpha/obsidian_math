@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-2. 矩阵/伴随矩阵.md",
+                    "file": "2-2. 矩阵/初等变换和初等矩阵.md",
                     "mode": "source",
                     "source": true
                   }
@@ -73,7 +73,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-2. 矩阵/伴随矩阵.md",
+                    "file": "2-2. 矩阵/初等变换和初等矩阵.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -128,8 +128,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-2. 矩阵/伴随矩阵.md",
+                "file": "2-2. 矩阵/初等变换和初等矩阵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-2. 矩阵/伴随矩阵.md",
+                "file": "2-2. 矩阵/初等变换和初等矩阵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-2. 矩阵/伴随矩阵.md"
+                "file": "2-2. 矩阵/初等变换和初等矩阵.md"
               }
             }
           }
@@ -212,10 +211,11 @@
       "publish:发布更改": false
     }
   },
-  "active": "73290466a61062ad",
+  "active": "e9d3fcd07cb124ad",
   "lastOpenFiles": [
-    "2-2. 矩阵/矩阵的逆.md",
     "2-2. 矩阵/伴随矩阵.md",
+    "2-2. 矩阵/初等变换和初等矩阵.md",
+    "2-2. 矩阵/矩阵的逆.md",
     "2-2. 矩阵/矩阵的定义及基本运算.md",
     "欢迎！.md",
     "README.md",
@@ -225,7 +225,6 @@
     "2-2. 矩阵/2. 矩阵.md",
     "2-2. 矩阵/等价矩阵和矩阵的秩.md",
     "2-2. 矩阵/矩阵方程.md",
-    "2-2. 矩阵/初等变换和初等矩阵.md",
     "2-1. 行列式/余子式与代数余子式的计算.md",
     "2-1. 行列式/行列式的定义与性质.md",
     "2-1. 行列式/行列式的计算.md",
