@@ -59,6 +59,18 @@
                     "source": true
                   }
                 }
+              },
+              {
+                "id": "483bd6d9c76b9215",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2-2. 矩阵/伴随矩阵.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
             ]
           },
@@ -211,12 +223,12 @@
       "publish:发布更改": false
     }
   },
-  "active": "e9d3fcd07cb124ad",
+  "active": "73290466a61062ad",
   "lastOpenFiles": [
     "2-2. 矩阵/伴随矩阵.md",
+    "2-2. 矩阵/矩阵的定义及基本运算.md",
     "2-2. 矩阵/初等变换和初等矩阵.md",
     "2-2. 矩阵/矩阵的逆.md",
-    "2-2. 矩阵/矩阵的定义及基本运算.md",
     "欢迎！.md",
     "README.md",
     "2-2. 矩阵/矩阵的迹.md",
