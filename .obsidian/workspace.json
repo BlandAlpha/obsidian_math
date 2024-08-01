@@ -78,7 +78,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-2. 矩阵/矩阵的秩.md",
+                    "file": "2-3. 向量组/3. 向量组.md",
                     "mode": "source",
                     "source": true
                   }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-2. 矩阵/矩阵的秩.md",
+                "file": "2-3. 向量组/3. 向量组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-2. 矩阵/矩阵的秩.md",
+                "file": "2-3. 向量组/3. 向量组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-2. 矩阵/矩阵的秩.md"
+                "file": "2-3. 向量组/3. 向量组.md"
               }
             }
           }
@@ -236,10 +236,10 @@
       "publish:发布更改": false
     }
   },
-  "active": "e9d3fcd07cb124ad",
+  "active": "a98c1fcf823cdc41",
   "lastOpenFiles": [
-    "2-2. 矩阵/等价矩阵和矩阵的等价标准型.md",
     "2-2. 矩阵/矩阵的秩.md",
+    "2-2. 矩阵/等价矩阵和矩阵的等价标准型.md",
     "2-2. 矩阵/矩阵的逆.md",
     "2-2. 矩阵/2. 矩阵.md",
     "assets/0b5d0e1e4e18dda711b1d12e6650801b_720.png",
