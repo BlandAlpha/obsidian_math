@@ -72,7 +72,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "5bd1948384d74983",
@@ -161,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "欢迎！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "欢迎！.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "欢迎！.md"
               }
             }
           }
@@ -223,8 +224,10 @@
       "publish:发布更改": false
     }
   },
-  "active": "eebe4bc2924c770a",
+  "active": "07bc54f5db1217cb",
   "lastOpenFiles": [
+    "README.md",
+    "欢迎！.md",
     "2-3. 向量组/向量与向量组的线性相关性.md",
     "2-2. 矩阵/矩阵的秩.md",
     "2-3. 向量组/3. 向量组.md",
@@ -235,8 +238,6 @@
     "assets/0b5d0e1e4e18dda711b1d12e6650801b_720.png",
     "2-2. 矩阵/伴随矩阵.md",
     "2-2. 矩阵/矩阵方程.md",
-    "欢迎！.md",
-    "README.md",
     "assets/stair_mat_simp.png",
     "assets/bicycle.png",
     "assets/stair_mat.png",
