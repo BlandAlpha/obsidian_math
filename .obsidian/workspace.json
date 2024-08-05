@@ -66,7 +66,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-4. 线性方程组/齐次线性方程组.md",
+                    "file": "2-4. 线性方程组/非齐次线性方程组.md",
                     "mode": "source",
                     "source": true
                   }
@@ -86,7 +86,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-4. 线性方程组/齐次线性方程组.md",
+                    "file": "2-4. 线性方程组/非齐次线性方程组.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-4. 线性方程组/齐次线性方程组.md",
+                "file": "2-4. 线性方程组/非齐次线性方程组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-4. 线性方程组/齐次线性方程组.md",
+                "file": "2-4. 线性方程组/非齐次线性方程组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-4. 线性方程组/齐次线性方程组.md"
+                "file": "2-4. 线性方程组/非齐次线性方程组.md"
               }
             }
           }
@@ -226,20 +226,20 @@
   },
   "active": "e9d3fcd07cb124ad",
   "lastOpenFiles": [
-    "2-3. 向量组/向量组的秩.md",
     "2-4. 线性方程组/齐次线性方程组.md",
+    "2-4. 线性方程组/非齐次线性方程组.md",
+    "README.md",
+    "欢迎！.md",
+    "2-3. 向量组/向量组的秩.md",
     "2-4. 线性方程组/4. 线性方程组.md",
     "2-4. 线性方程组/同解方程组.md",
     "2-4. 线性方程组/两个方程组的公共解.md",
-    "2-4. 线性方程组/非齐次线性方程组.md",
     "2-3. 向量组/等价向量组.md",
     "2-3. 向量组/3. 向量组.md",
     "2-3. 向量组/等价矩阵.md",
-    "欢迎！.md",
     "0. 杂项/重要题目.md",
     "2-3. 向量组/极大线性无关组.md",
     "2-3. 向量组/向量与向量组的线性相关性.md",
-    "README.md",
     "2-2. 矩阵/矩阵的秩.md",
     "2-2. 矩阵/初等变换和初等矩阵.md",
     "2-2. 矩阵/等价矩阵和矩阵的等价标准型.md",
