@@ -54,7 +54,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-3. 向量组/3. 向量组.md",
+                    "file": "2-3. 向量组/极大线性无关组.md",
                     "mode": "source",
                     "source": true
                   }
@@ -66,14 +66,14 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-3. 向量组/向量与向量组的线性相关性.md",
+                    "file": "2-3. 向量组/等价向量组.md",
                     "mode": "source",
                     "source": true
                   }
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 4
           },
           {
             "id": "5bd1948384d74983",
@@ -86,7 +86,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-3. 向量组/向量与向量组的线性相关性.md",
+                    "file": "2-3. 向量组/等价向量组.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎！.md",
+                "file": "2-3. 向量组/等价向量组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎！.md",
+                "file": "2-3. 向量组/等价向量组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎！.md"
+                "file": "2-3. 向量组/等价向量组.md"
               }
             }
           }
@@ -224,13 +224,15 @@
       "publish:发布更改": false
     }
   },
-  "active": "07bc54f5db1217cb",
+  "active": "e9d3fcd07cb124ad",
   "lastOpenFiles": [
-    "README.md",
-    "2-3. 向量组/向量与向量组的线性相关性.md",
+    "2-3. 向量组/极大线性无关组.md",
+    "2-3. 向量组/等价向量组.md",
     "2-3. 向量组/3. 向量组.md",
+    "2-3. 向量组/向量与向量组的线性相关性.md",
     "0. 杂项/重要题目.md",
     "欢迎！.md",
+    "README.md",
     "2-2. 矩阵/矩阵的秩.md",
     "2-2. 矩阵/初等变换和初等矩阵.md",
     "2-2. 矩阵/等价矩阵和矩阵的等价标准型.md",
@@ -257,8 +259,6 @@
     "2-1. 行列式/1. 行列式.md",
     "线性代数主目录.md",
     "2-6. 二次型/6. 二次型.md",
-    "2-5. 特征值与特征向量/5. 特征值与特征向量.md",
-    "2-4. 线性方程组/4. 线性方程组.md",
     "2-6. 二次型",
     "2-5. 特征值与特征向量",
     "2-4. 线性方程组",
