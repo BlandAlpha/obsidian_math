@@ -66,7 +66,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-3. 向量组/等价矩阵.md",
+                    "file": "2-4. 线性方程组/齐次线性方程组.md",
                     "mode": "source",
                     "source": true
                   }
@@ -86,7 +86,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-3. 向量组/向量组的秩.md",
+                    "file": "2-4. 线性方程组/齐次线性方程组.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-3. 向量组/等价矩阵.md",
+                "file": "2-4. 线性方程组/齐次线性方程组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-3. 向量组/等价矩阵.md",
+                "file": "2-4. 线性方程组/齐次线性方程组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-3. 向量组/等价矩阵.md"
+                "file": "2-4. 线性方程组/齐次线性方程组.md"
               }
             }
           }
@@ -224,12 +224,17 @@
       "publish:发布更改": false
     }
   },
-  "active": "a98c1fcf823cdc41",
+  "active": "e9d3fcd07cb124ad",
   "lastOpenFiles": [
-    "2-3. 向量组/等价向量组.md",
-    "2-3. 向量组/等价矩阵.md",
-    "2-3. 向量组/3. 向量组.md",
     "2-3. 向量组/向量组的秩.md",
+    "2-4. 线性方程组/齐次线性方程组.md",
+    "2-4. 线性方程组/4. 线性方程组.md",
+    "2-4. 线性方程组/同解方程组.md",
+    "2-4. 线性方程组/两个方程组的公共解.md",
+    "2-4. 线性方程组/非齐次线性方程组.md",
+    "2-3. 向量组/等价向量组.md",
+    "2-3. 向量组/3. 向量组.md",
+    "2-3. 向量组/等价矩阵.md",
     "欢迎！.md",
     "0. 杂项/重要题目.md",
     "2-3. 向量组/极大线性无关组.md",
@@ -252,13 +257,8 @@
     "2-1. 行列式/克拉默法则.md",
     "2-1. 行列式/余子式与代数余子式的计算.md",
     "2-1. 行列式/行列式的定义与性质.md",
-    "2-1. 行列式/行列式的计算.md",
-    "2-1. 行列式/重要行列式.md",
-    "高等数学主目录.md",
     "assets/det_cal_d3.png",
     "assets/det_cal.png",
-    "1-7. 微分方程/高阶线性微分方程求解.md",
-    "2-1. 行列式/1. 行列式.md",
     "2-6. 二次型",
     "2-5. 特征值与特征向量",
     "2-4. 线性方程组",
