@@ -54,7 +54,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-3. 向量组/极大线性无关组.md",
+                    "file": "2-3. 向量组/向量组的秩.md",
                     "mode": "source",
                     "source": true
                   }
@@ -73,7 +73,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           },
           {
             "id": "5bd1948384d74983",
@@ -86,7 +86,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-3. 向量组/等价向量组.md",
+                    "file": "2-3. 向量组/向量组的秩.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-3. 向量组/等价向量组.md",
+                "file": "2-3. 向量组/向量组的秩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-3. 向量组/等价向量组.md",
+                "file": "2-3. 向量组/向量组的秩.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-3. 向量组/等价向量组.md"
+                "file": "2-3. 向量组/向量组的秩.md"
               }
             }
           }
@@ -226,12 +226,13 @@
   },
   "active": "e9d3fcd07cb124ad",
   "lastOpenFiles": [
-    "2-3. 向量组/极大线性无关组.md",
     "2-3. 向量组/等价向量组.md",
+    "2-3. 向量组/向量组的秩.md",
     "2-3. 向量组/3. 向量组.md",
-    "2-3. 向量组/向量与向量组的线性相关性.md",
-    "0. 杂项/重要题目.md",
     "欢迎！.md",
+    "0. 杂项/重要题目.md",
+    "2-3. 向量组/极大线性无关组.md",
+    "2-3. 向量组/向量与向量组的线性相关性.md",
     "README.md",
     "2-2. 矩阵/矩阵的秩.md",
     "2-2. 矩阵/初等变换和初等矩阵.md",
@@ -258,7 +259,6 @@
     "1-7. 微分方程/高阶线性微分方程求解.md",
     "2-1. 行列式/1. 行列式.md",
     "线性代数主目录.md",
-    "2-6. 二次型/6. 二次型.md",
     "2-6. 二次型",
     "2-5. 特征值与特征向量",
     "2-4. 线性方程组",
