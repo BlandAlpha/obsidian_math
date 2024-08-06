@@ -73,7 +73,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           },
           {
             "id": "5bd1948384d74983",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-4. 线性方程组/齐次线性方程组.md",
+                "file": "2-4. 线性方程组/非齐次线性方程组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-4. 线性方程组/齐次线性方程组.md",
+                "file": "2-4. 线性方程组/非齐次线性方程组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-4. 线性方程组/齐次线性方程组.md"
+                "file": "2-4. 线性方程组/非齐次线性方程组.md"
               }
             }
           }
@@ -224,10 +224,10 @@
       "publish:发布更改": false
     }
   },
-  "active": "483bd6d9c76b9215",
+  "active": "a98c1fcf823cdc41",
   "lastOpenFiles": [
-    "2-4. 线性方程组/非齐次线性方程组.md",
     "2-4. 线性方程组/齐次线性方程组.md",
+    "2-4. 线性方程组/非齐次线性方程组.md",
     "2-3. 向量组/向量组的秩.md",
     "README.md",
     "欢迎！.md",
