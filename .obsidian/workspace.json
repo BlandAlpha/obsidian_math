@@ -10,7 +10,7 @@
           {
             "id": "999f3a0a811d8f59",
             "type": "tabs",
-            "dimension": 56.66666666666666,
+            "dimension": 52.35507246376812,
             "children": [
               {
                 "id": "eebe4bc2924c770a",
@@ -49,36 +49,24 @@
                 }
               },
               {
-                "id": "483bd6d9c76b9215",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2-4. 线性方程组/齐次线性方程组.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
                 "id": "a98c1fcf823cdc41",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-4. 线性方程组/非齐次线性方程组.md",
+                    "file": "2-5. 特征值与特征向量/特征值与特征向量.md",
                     "mode": "source",
                     "source": true
                   }
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           },
           {
             "id": "5bd1948384d74983",
             "type": "tabs",
-            "dimension": 43.33333333333334,
+            "dimension": 47.64492753623188,
             "children": [
               {
                 "id": "e9d3fcd07cb124ad",
@@ -86,7 +74,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-4. 线性方程组/非齐次线性方程组.md",
+                    "file": "2-5. 特征值与特征向量/特征值与特征向量.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -124,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "余子式",
+                "query": "齐次",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-4. 线性方程组/非齐次线性方程组.md",
+                "file": "2-5. 特征值与特征向量/特征值与特征向量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-4. 线性方程组/非齐次线性方程组.md",
+                "file": "2-5. 特征值与特征向量/特征值与特征向量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-4. 线性方程组/非齐次线性方程组.md"
+                "file": "2-5. 特征值与特征向量/特征值与特征向量.md"
               }
             }
           }
@@ -226,18 +214,20 @@
   },
   "active": "a98c1fcf823cdc41",
   "lastOpenFiles": [
-    "README.md",
-    "2-4. 线性方程组/非齐次线性方程组.md",
+    "2-5. 特征值与特征向量/5. 特征值与特征向量.md",
     "2-4. 线性方程组/齐次线性方程组.md",
-    "2-3. 向量组/向量组的秩.md",
+    "2-5. 特征值与特征向量/特征值与特征向量.md",
     "欢迎！.md",
+    "0. 杂项/重要题目.md",
     "2-4. 线性方程组/4. 线性方程组.md",
     "2-4. 线性方程组/同解方程组.md",
     "2-4. 线性方程组/两个方程组的公共解.md",
+    "2-4. 线性方程组/非齐次线性方程组.md",
+    "README.md",
+    "2-3. 向量组/向量组的秩.md",
     "2-3. 向量组/等价向量组.md",
     "2-3. 向量组/3. 向量组.md",
     "2-3. 向量组/等价矩阵.md",
-    "0. 杂项/重要题目.md",
     "2-3. 向量组/极大线性无关组.md",
     "2-3. 向量组/向量与向量组的线性相关性.md",
     "2-2. 矩阵/矩阵的秩.md",
@@ -255,8 +245,6 @@
     "2-2. 矩阵/矩阵的迹.md",
     "assets/matrix_multi.png",
     "2-1. 行列式/克拉默法则.md",
-    "2-1. 行列式/余子式与代数余子式的计算.md",
-    "2-1. 行列式/行列式的定义与性质.md",
     "assets/det_cal_d3.png",
     "assets/det_cal.png",
     "2-6. 二次型",
