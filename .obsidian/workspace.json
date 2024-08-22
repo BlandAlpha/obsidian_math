@@ -61,7 +61,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           },
           {
             "id": "5bd1948384d74983",
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-5. 特征值与特征向量/特征值与特征向量.md",
+                "file": "欢迎！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-5. 特征值与特征向量/特征值与特征向量.md",
+                "file": "欢迎！.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-5. 特征值与特征向量/特征值与特征向量.md"
+                "file": "欢迎！.md"
               }
             }
           }
@@ -212,11 +212,11 @@
       "publish:发布更改": false
     }
   },
-  "active": "a98c1fcf823cdc41",
+  "active": "07bc54f5db1217cb",
   "lastOpenFiles": [
-    "欢迎！.md",
     "README.md",
     "2-5. 特征值与特征向量/特征值与特征向量.md",
+    "欢迎！.md",
     "2-5. 特征值与特征向量/5. 特征值与特征向量.md",
     "2-4. 线性方程组/齐次线性方程组.md",
     "0. 杂项/重要题目.md",
