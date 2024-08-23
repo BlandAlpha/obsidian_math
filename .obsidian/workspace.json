@@ -54,14 +54,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-5. 特征值与特征向量/特征值与特征向量.md",
+                    "file": "2-5. 特征值与特征向量/常用矩阵的特征值与特征向量.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "ed7849cae68591ba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2-5. 特征值与特征向量/矩阵的相似.md",
                     "mode": "source",
                     "source": true
                   }
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 4
           },
           {
             "id": "5bd1948384d74983",
@@ -74,7 +86,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-5. 特征值与特征向量/特征值与特征向量.md",
+                    "file": "2-5. 特征值与特征向量/矩阵的相似.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎！.md",
+                "file": "2-5. 特征值与特征向量/矩阵的相似.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎！.md",
+                "file": "2-5. 特征值与特征向量/矩阵的相似.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎！.md"
+                "file": "2-5. 特征值与特征向量/矩阵的相似.md"
               }
             }
           }
@@ -212,14 +224,18 @@
       "publish:发布更改": false
     }
   },
-  "active": "07bc54f5db1217cb",
+  "active": "e9d3fcd07cb124ad",
   "lastOpenFiles": [
-    "README.md",
-    "2-5. 特征值与特征向量/特征值与特征向量.md",
-    "欢迎！.md",
+    "2-5. 特征值与特征向量/常用矩阵的特征值与特征向量.md",
+    "2-5. 特征值与特征向量/矩阵的相似.md",
     "2-5. 特征值与特征向量/5. 特征值与特征向量.md",
-    "2-4. 线性方程组/齐次线性方程组.md",
+    "2-5. 特征值与特征向量/特征值与特征向量.md",
     "0. 杂项/重要题目.md",
+    "assets/eigen_form.png",
+    "assets/Pasted image 20240621140426.png",
+    "欢迎！.md",
+    "README.md",
+    "2-4. 线性方程组/齐次线性方程组.md",
     "2-4. 线性方程组/4. 线性方程组.md",
     "2-4. 线性方程组/同解方程组.md",
     "2-4. 线性方程组/两个方程组的公共解.md",
@@ -242,9 +258,7 @@
     "assets/bicycle.png",
     "assets/stair_mat.png",
     "2-2. 矩阵/矩阵的定义及基本运算.md",
-    "2-2. 矩阵/矩阵的迹.md",
     "assets/matrix_multi.png",
-    "2-1. 行列式/克拉默法则.md",
     "assets/det_cal_d3.png",
     "assets/det_cal.png",
     "2-6. 二次型",
@@ -254,8 +268,6 @@
     "2-2. 矩阵",
     "2-1. 行列式",
     "assets/diff_eq_cycle.png",
-    "assets/diff_eq_special_2.png",
-    "assets/diff_eq_special_1.png",
     "1-4. 一元函数积分学/3. 应用/3. 物理应用",
     "1-4. 一元函数积分学/3. 应用/2. 积分等式与积分不等式",
     "1-4. 一元函数积分学/3. 应用/1. 几何应用",
