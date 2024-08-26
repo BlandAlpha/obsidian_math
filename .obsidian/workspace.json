@@ -90,7 +90,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-3. 向量组/向量与向量组的线性相关性.md",
+                    "file": "2-3. 向量组/等价向量组.md",
                     "mode": "source",
                     "source": true
                   }
@@ -169,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d7472a4391b2c7bd",
@@ -186,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-3. 向量组/向量与向量组的线性相关性.md",
+                "file": "2-3. 向量组/等价向量组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-3. 向量组/向量与向量组的线性相关性.md",
+                "file": "2-3. 向量组/等价向量组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-3. 向量组/向量与向量组的线性相关性.md"
+                "file": "2-3. 向量组/等价向量组.md"
               }
             }
           }
@@ -248,10 +247,10 @@
       "publish:发布更改": false
     }
   },
-  "active": "dcb32790da0f9d2c",
+  "active": "471e7fc536eeccac",
   "lastOpenFiles": [
-    "2-4. 线性方程组/齐次线性方程组.md",
     "2-3. 向量组/向量与向量组的线性相关性.md",
+    "2-4. 线性方程组/齐次线性方程组.md",
     "2-3. 向量组/极大线性无关组.md",
     "assets/qici4.png",
     "assets/qici3.png",
