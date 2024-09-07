@@ -10,7 +10,7 @@
           {
             "id": "999f3a0a811d8f59",
             "type": "tabs",
-            "dimension": 52.35507246376812,
+            "dimension": 55.2536231884058,
             "children": [
               {
                 "id": "eebe4bc2924c770a",
@@ -54,55 +54,31 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-5. 特征值与特征向量/常用矩阵的特征值与特征向量.md",
+                    "file": "2-5. 特征值与特征向量/矩阵的相似对角化.md",
                     "mode": "source",
                     "source": true
                   }
                 }
               },
               {
-                "id": "ed7849cae68591ba",
+                "id": "3df2ff29ea635898",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-5. 特征值与特征向量/矩阵的相似.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "ac3c41cb4435bb5a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2-3. 向量组/极大线性无关组.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "471e7fc536eeccac",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2-3. 向量组/等价向量组.md",
+                    "file": "2-5. 特征值与特征向量/矩阵的相似对角化.md",
                     "mode": "source",
                     "source": true
                   }
                 }
               }
             ],
-            "currentTab": 6
+            "currentTab": 3
           },
           {
             "id": "5bd1948384d74983",
             "type": "tabs",
-            "dimension": 47.64492753623188,
+            "dimension": 44.7463768115942,
             "children": [
               {
                 "id": "e9d3fcd07cb124ad",
@@ -110,7 +86,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-3. 向量组/向量与向量组的线性相关性.md",
+                    "file": "2-5. 特征值与特征向量/矩阵的相似对角化.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -148,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "极大线性无关组",
+                "query": "迹",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d7472a4391b2c7bd",
@@ -185,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-3. 向量组/等价向量组.md",
+                "file": "2-5. 特征值与特征向量/矩阵的相似对角化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-3. 向量组/等价向量组.md",
+                "file": "2-5. 特征值与特征向量/矩阵的相似对角化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-3. 向量组/等价向量组.md"
+                "file": "2-5. 特征值与特征向量/矩阵的相似对角化.md"
               }
             }
           }
@@ -247,11 +224,22 @@
       "publish:发布更改": false
     }
   },
-  "active": "471e7fc536eeccac",
+  "active": "e9d3fcd07cb124ad",
   "lastOpenFiles": [
+    "2-5. 特征值与特征向量/矩阵的相似.md",
+    "2-5. 特征值与特征向量/矩阵的相似对角化.md",
+    "2-5. 特征值与特征向量/5. 特征值与特征向量.md",
+    "2-4. 线性方程组/两个方程组的公共解.md",
+    "1-1. 函数的极限与连续/1. 函数的极限与连续.md",
+    "2-5. 特征值与特征向量/常用矩阵的特征值与特征向量.md",
+    "0. 杂项/重要题目.md",
+    "README.md",
+    "1-7. 微分方程/高阶线性微分方程求解.md",
+    "1-1. 函数的极限与连续/泰勒公式.md",
     "2-3. 向量组/向量与向量组的线性相关性.md",
-    "2-4. 线性方程组/齐次线性方程组.md",
     "2-3. 向量组/极大线性无关组.md",
+    "2-3. 向量组/等价向量组.md",
+    "2-4. 线性方程组/齐次线性方程组.md",
     "assets/qici4.png",
     "assets/qici3.png",
     "assets/qici3.png",
@@ -259,29 +247,19 @@
     "assets/qici1.png",
     "2-4. 线性方程组/非齐次线性方程组.md",
     "2-4. 线性方程组/同解方程组.md",
-    "2-4. 线性方程组/两个方程组的公共解.md",
-    "2-5. 特征值与特征向量/矩阵的相似.md",
-    "2-5. 特征值与特征向量/常用矩阵的特征值与特征向量.md",
-    "2-5. 特征值与特征向量/5. 特征值与特征向量.md",
     "2-5. 特征值与特征向量/特征值与特征向量.md",
-    "0. 杂项/重要题目.md",
     "assets/eigen_form.png",
     "assets/Pasted image 20240621140426.png",
     "欢迎！.md",
-    "README.md",
     "2-4. 线性方程组/4. 线性方程组.md",
     "2-3. 向量组/向量组的秩.md",
-    "2-3. 向量组/等价向量组.md",
     "2-3. 向量组/3. 向量组.md",
     "2-3. 向量组/等价矩阵.md",
     "2-2. 矩阵/矩阵的秩.md",
     "2-2. 矩阵/初等变换和初等矩阵.md",
     "2-2. 矩阵/等价矩阵和矩阵的等价标准型.md",
     "2-2. 矩阵/矩阵的逆.md",
-    "2-2. 矩阵/2. 矩阵.md",
     "assets/0b5d0e1e4e18dda711b1d12e6650801b_720.png",
-    "2-2. 矩阵/伴随矩阵.md",
-    "2-2. 矩阵/矩阵方程.md",
     "assets/stair_mat_simp.png",
     "assets/bicycle.png",
     "2-6. 二次型",
