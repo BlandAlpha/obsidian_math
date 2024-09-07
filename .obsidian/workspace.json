@@ -73,7 +73,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           },
           {
             "id": "5bd1948384d74983",
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "迹",
+                "query": "实对称",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +141,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -224,10 +225,10 @@
       "publish:发布更改": false
     }
   },
-  "active": "dcb32790da0f9d2c",
+  "active": "3df2ff29ea635898",
   "lastOpenFiles": [
-    "2-5. 特征值与特征向量/矩阵的相似.md",
     "2-5. 特征值与特征向量/矩阵的相似对角化.md",
+    "2-5. 特征值与特征向量/矩阵的相似.md",
     "2-5. 特征值与特征向量/5. 特征值与特征向量.md",
     "2-4. 线性方程组/两个方程组的公共解.md",
     "1-1. 函数的极限与连续/1. 函数的极限与连续.md",
