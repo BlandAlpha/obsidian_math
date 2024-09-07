@@ -72,8 +72,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           },
           {
             "id": "5bd1948384d74983",
@@ -163,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-5. 特征值与特征向量/矩阵的相似对角化.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-5. 特征值与特征向量/矩阵的相似对角化.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-5. 特征值与特征向量/矩阵的相似对角化.md"
+                "file": "README.md"
               }
             }
           }
@@ -225,15 +224,16 @@
       "publish:发布更改": false
     }
   },
-  "active": "3df2ff29ea635898",
+  "active": "eebe4bc2924c770a",
   "lastOpenFiles": [
+    "0. 杂项/重要题目.md",
+    "欢迎！.md",
     "2-5. 特征值与特征向量/矩阵的相似对角化.md",
     "2-5. 特征值与特征向量/矩阵的相似.md",
     "2-5. 特征值与特征向量/5. 特征值与特征向量.md",
     "2-4. 线性方程组/两个方程组的公共解.md",
     "1-1. 函数的极限与连续/1. 函数的极限与连续.md",
     "2-5. 特征值与特征向量/常用矩阵的特征值与特征向量.md",
-    "0. 杂项/重要题目.md",
     "README.md",
     "1-7. 微分方程/高阶线性微分方程求解.md",
     "1-1. 函数的极限与连续/泰勒公式.md",
@@ -251,7 +251,6 @@
     "2-5. 特征值与特征向量/特征值与特征向量.md",
     "assets/eigen_form.png",
     "assets/Pasted image 20240621140426.png",
-    "欢迎！.md",
     "2-4. 线性方程组/4. 线性方程组.md",
     "2-3. 向量组/向量组的秩.md",
     "2-3. 向量组/3. 向量组.md",
