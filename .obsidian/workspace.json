@@ -37,19 +37,7 @@
                 }
               },
               {
-                "id": "df7d993cda12d50d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "0. 杂项/重要题目.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "a98c1fcf823cdc41",
+                "id": "d216c8c5f3acb5ce",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -61,18 +49,19 @@
                 }
               },
               {
-                "id": "3df2ff29ea635898",
+                "id": "0ba05aebfe00f934",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-5. 特征值与特征向量/矩阵的相似对角化.md",
+                    "file": "2-6. 二次型/6. 二次型.md",
                     "mode": "source",
                     "source": true
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "5bd1948384d74983",
@@ -85,7 +74,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-5. 特征值与特征向量/矩阵的相似对角化.md",
+                    "file": "2-5. 特征值与特征向量/实对称矩阵的相似对角化.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -123,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "实对称",
+                "query": "对称矩阵",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "欢迎！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "欢迎！.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "欢迎！.md"
               }
             }
           }
@@ -224,17 +212,20 @@
       "publish:发布更改": false
     }
   },
-  "active": "eebe4bc2924c770a",
+  "active": "07bc54f5db1217cb",
   "lastOpenFiles": [
+    "README.md",
+    "2-5. 特征值与特征向量/矩阵的相似对角化.md",
+    "2-6. 二次型/6. 二次型.md",
+    "2-5. 特征值与特征向量/实对称矩阵的相似对角化.md",
+    "2-2. 矩阵/矩阵的定义及基本运算.md",
+    "2-5. 特征值与特征向量/5. 特征值与特征向量.md",
     "0. 杂项/重要题目.md",
     "欢迎！.md",
-    "2-5. 特征值与特征向量/矩阵的相似对角化.md",
     "2-5. 特征值与特征向量/矩阵的相似.md",
-    "2-5. 特征值与特征向量/5. 特征值与特征向量.md",
     "2-4. 线性方程组/两个方程组的公共解.md",
     "1-1. 函数的极限与连续/1. 函数的极限与连续.md",
     "2-5. 特征值与特征向量/常用矩阵的特征值与特征向量.md",
-    "README.md",
     "1-7. 微分方程/高阶线性微分方程求解.md",
     "1-1. 函数的极限与连续/泰勒公式.md",
     "2-3. 向量组/向量与向量组的线性相关性.md",
@@ -256,9 +247,6 @@
     "2-3. 向量组/3. 向量组.md",
     "2-3. 向量组/等价矩阵.md",
     "2-2. 矩阵/矩阵的秩.md",
-    "2-2. 矩阵/初等变换和初等矩阵.md",
-    "2-2. 矩阵/等价矩阵和矩阵的等价标准型.md",
-    "2-2. 矩阵/矩阵的逆.md",
     "assets/0b5d0e1e4e18dda711b1d12e6650801b_720.png",
     "assets/stair_mat_simp.png",
     "assets/bicycle.png",
