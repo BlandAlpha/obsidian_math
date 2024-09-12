@@ -72,8 +72,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
             "id": "5bd1948384d74983",
@@ -163,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-6. 二次型/化二次型为标准形与规范形.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-6. 二次型/化二次型为标准形与规范形.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-6. 二次型/化二次型为标准形与规范形.md"
+                "file": "README.md"
               }
             }
           }
@@ -225,11 +224,12 @@
       "publish:发布更改": false
     }
   },
-  "active": "1fce3d507f20b354",
+  "active": "eebe4bc2924c770a",
   "lastOpenFiles": [
+    "欢迎！.md",
+    "2-6. 二次型/化二次型为标准形与规范形.md",
     "assets/linear_trans_def.png",
     "2-6. 二次型/二次型的定义与矩阵表示.md",
-    "2-6. 二次型/化二次型为标准形与规范形.md",
     "2-6. 二次型/正定二次型.md",
     "assets/quad_visual.png",
     "2-4. 线性方程组/齐次线性方程组.md",
@@ -245,7 +245,6 @@
     "2-5. 特征值与特征向量/实对称矩阵的相似对角化.md",
     "2-5. 特征值与特征向量/常用矩阵的特征值与特征向量.md",
     "2-6. 二次型/6. 二次型.md",
-    "欢迎！.md",
     "README.md",
     "2-2. 矩阵/矩阵的定义及基本运算.md",
     "2-5. 特征值与特征向量/5. 特征值与特征向量.md",
@@ -260,7 +259,6 @@
     "assets/qici3.png",
     "assets/qici3.png",
     "assets/qici2.png",
-    "assets/qici1.png",
     "2-4. 线性方程组/同解方程组.md",
     "2-5. 特征值与特征向量/特征值与特征向量.md",
     "2-6. 二次型",
