@@ -4,62 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "26491e04d89fbacd",
-        "type": "split",
+        "id": "999f3a0a811d8f59",
+        "type": "tabs",
         "children": [
           {
-            "id": "999f3a0a811d8f59",
-            "type": "tabs",
-            "dimension": 55.2536231884058,
-            "children": [
-              {
-                "id": "eebe4bc2924c770a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "README.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "823528fcdfc9a05a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2-6. 二次型/正定二次型.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
+            "id": "eebe4bc2924c770a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
               }
-            ],
-            "currentTab": 1
+            }
           },
           {
-            "id": "5bd1948384d74983",
-            "type": "tabs",
-            "dimension": 44.7463768115942,
-            "children": [
-              {
-                "id": "e9d3fcd07cb124ad",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2-6. 二次型/正定二次型.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
+            "id": "823528fcdfc9a05a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-6. 二次型/正定二次型.md",
+                "mode": "source",
+                "source": true
               }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-6. 二次型/正定二次型.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-6. 二次型/正定二次型.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-6. 二次型/正定二次型.md"
+                "file": "README.md"
               }
             }
           }
@@ -188,13 +160,13 @@
       "publish:发布更改": false
     }
   },
-  "active": "dcb32790da0f9d2c",
+  "active": "eebe4bc2924c770a",
   "lastOpenFiles": [
+    "README.md",
+    "2-6. 二次型/正定二次型.md",
     "assets/sxzss.png",
     "2-6. 二次型/化二次型为标准形与规范形.md",
-    "2-6. 二次型/正定二次型.md",
     "2-6. 二次型/二次型的定义与矩阵表示.md",
-    "README.md",
     "欢迎！.md",
     "2-5. 特征值与特征向量/常用矩阵的特征值与特征向量.md",
     "2-6. 二次型/6. 二次型.md",
@@ -223,7 +195,6 @@
     "assets/qici4.png",
     "assets/qici3.png",
     "assets/qici3.png",
-    "assets/qici2.png",
     "2-4. 线性方程组/同解方程组.md",
     "2-5. 特征值与特征向量/特征值与特征向量.md",
     "2-6. 二次型",
