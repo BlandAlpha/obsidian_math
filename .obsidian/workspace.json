@@ -25,55 +25,19 @@
                 }
               },
               {
-                "id": "d216c8c5f3acb5ce",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2-6. 二次型/化二次型为标准形与规范形.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "7260e35e10ce73d9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "欢迎！.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
                 "id": "823528fcdfc9a05a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-6. 二次型/化二次型为标准形与规范形.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "a23a01bbac2c7023",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2-6. 二次型/二次型的定义与矩阵表示.md",
+                    "file": "2-6. 二次型/正定二次型.md",
                     "mode": "source",
                     "source": true
                   }
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           },
           {
             "id": "5bd1948384d74983",
@@ -86,7 +50,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-6. 二次型/化二次型为标准形与规范形.md",
+                    "file": "2-6. 二次型/正定二次型.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -124,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "正交",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-6. 二次型/化二次型为标准形与规范形.md",
+                "file": "2-6. 二次型/正定二次型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-6. 二次型/化二次型为标准形与规范形.md",
+                "file": "2-6. 二次型/正定二次型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-6. 二次型/化二次型为标准形与规范形.md"
+                "file": "2-6. 二次型/正定二次型.md"
               }
             }
           }
@@ -224,16 +188,17 @@
       "publish:发布更改": false
     }
   },
-  "active": "823528fcdfc9a05a",
+  "active": "dcb32790da0f9d2c",
   "lastOpenFiles": [
-    "2-6. 二次型/二次型的定义与矩阵表示.md",
-    "2-5. 特征值与特征向量/常用矩阵的特征值与特征向量.md",
+    "assets/sxzss.png",
     "2-6. 二次型/化二次型为标准形与规范形.md",
-    "2-6. 二次型/6. 二次型.md",
-    "欢迎！.md",
-    "README.md",
-    "assets/linear_trans_def.png",
     "2-6. 二次型/正定二次型.md",
+    "2-6. 二次型/二次型的定义与矩阵表示.md",
+    "README.md",
+    "欢迎！.md",
+    "2-5. 特征值与特征向量/常用矩阵的特征值与特征向量.md",
+    "2-6. 二次型/6. 二次型.md",
+    "assets/linear_trans_def.png",
     "assets/quad_visual.png",
     "2-4. 线性方程组/齐次线性方程组.md",
     "2-4. 线性方程组/两个方程组的公共解.md",
