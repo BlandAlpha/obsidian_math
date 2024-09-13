@@ -25,18 +25,6 @@
                 }
               },
               {
-                "id": "07bc54f5db1217cb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "欢迎！.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
                 "id": "d216c8c5f3acb5ce",
                 "type": "leaf",
                 "state": {
@@ -49,12 +37,24 @@
                 }
               },
               {
+                "id": "7260e35e10ce73d9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "欢迎！.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
                 "id": "823528fcdfc9a05a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-6. 二次型/二次型的定义与矩阵表示.md",
+                    "file": "2-6. 二次型/化二次型为标准形与规范形.md",
                     "mode": "source",
                     "source": true
                   }
@@ -66,13 +66,14 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-5. 特征值与特征向量/常用矩阵的特征值与特征向量.md",
+                    "file": "2-6. 二次型/二次型的定义与矩阵表示.md",
                     "mode": "source",
                     "source": true
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
             "id": "5bd1948384d74983",
@@ -140,8 +141,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2-6. 二次型/化二次型为标准形与规范形.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2-6. 二次型/化二次型为标准形与规范形.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "2-6. 二次型/化二次型为标准形与规范形.md"
               }
             }
           }
@@ -224,12 +224,15 @@
       "publish:发布更改": false
     }
   },
-  "active": "eebe4bc2924c770a",
+  "active": "823528fcdfc9a05a",
   "lastOpenFiles": [
-    "欢迎！.md",
-    "2-6. 二次型/化二次型为标准形与规范形.md",
-    "assets/linear_trans_def.png",
     "2-6. 二次型/二次型的定义与矩阵表示.md",
+    "2-5. 特征值与特征向量/常用矩阵的特征值与特征向量.md",
+    "2-6. 二次型/化二次型为标准形与规范形.md",
+    "2-6. 二次型/6. 二次型.md",
+    "欢迎！.md",
+    "README.md",
+    "assets/linear_trans_def.png",
     "2-6. 二次型/正定二次型.md",
     "assets/quad_visual.png",
     "2-4. 线性方程组/齐次线性方程组.md",
@@ -243,9 +246,6 @@
     "assets/quad_form_def.png",
     "assets/quad_form_def.png",
     "2-5. 特征值与特征向量/实对称矩阵的相似对角化.md",
-    "2-5. 特征值与特征向量/常用矩阵的特征值与特征向量.md",
-    "2-6. 二次型/6. 二次型.md",
-    "README.md",
     "2-2. 矩阵/矩阵的定义及基本运算.md",
     "2-5. 特征值与特征向量/5. 特征值与特征向量.md",
     "0. 杂项/重要题目.md",
