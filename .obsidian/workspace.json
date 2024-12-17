@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
+                "file": "欢迎！.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "定积分的计算"
-            }
-          },
-          {
-            "id": "823528fcdfc9a05a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-6. 二次型/正定二次型.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "正定二次型"
+              "title": "欢迎！"
             }
           }
         ]
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
+                "file": "欢迎！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "定积分的计算 的反向链接列表"
+              "title": "欢迎！ 的反向链接列表"
             }
           },
           {
@@ -127,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
+                "file": "欢迎！.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "定积分的计算 的出链列表"
+              "title": "欢迎！ 的出链列表"
             }
           },
           {
@@ -154,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md"
+                "file": "欢迎！.md"
               },
               "icon": "lucide-list",
-              "title": "定积分的计算 的大纲"
+              "title": "欢迎！ 的大纲"
             }
           }
         ]
@@ -180,6 +166,7 @@
   },
   "active": "eebe4bc2924c770a",
   "lastOpenFiles": [
+    "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
     "1-4. 一元函数积分学/1. 概念/定积分.md",
     "1-4. 一元函数积分学/3. 应用/1. 几何应用/平面图形的面积.md",
     "README.md",
@@ -215,7 +202,6 @@
     "assets/qici4.png",
     "assets/qici3.png",
     "assets/qici3.png",
-    "2-4. 线性方程组/同解方程组.md",
     "2-6. 二次型",
     "2-5. 特征值与特征向量",
     "2-4. 线性方程组",
