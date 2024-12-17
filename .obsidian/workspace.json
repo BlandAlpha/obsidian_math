@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-4. 一元函数积分学/3. 应用/1. 几何应用/平面图形的面积.md",
-                "mode": "preview",
+                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
+                "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "定积分的计算"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "2-6. 二次型/正定二次型.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "正定二次型"
             }
           }
         ]
@@ -51,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -66,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -74,14 +82,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d7472a4391b2c7bd",
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-4. 一元函数积分学/3. 应用/1. 几何应用/平面图形的面积.md",
+                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "定积分的计算 的反向链接列表"
             }
           },
           {
@@ -114,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-4. 一元函数积分学/3. 应用/1. 几何应用/平面图形的面积.md",
+                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "定积分的计算 的出链列表"
             }
           },
           {
@@ -128,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -137,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-4. 一元函数积分学/3. 应用/1. 几何应用/平面图形的面积.md"
-              }
+                "file": "1-4. 一元函数积分学/2. 计算/定积分的计算.md"
+              },
+              "icon": "lucide-list",
+              "title": "定积分的计算 的大纲"
             }
           }
         ]
@@ -161,6 +180,8 @@
   },
   "active": "eebe4bc2924c770a",
   "lastOpenFiles": [
+    "1-4. 一元函数积分学/1. 概念/定积分.md",
+    "1-4. 一元函数积分学/3. 应用/1. 几何应用/平面图形的面积.md",
     "README.md",
     "2-6. 二次型/正定二次型.md",
     "assets/sxzss.png",
@@ -195,7 +216,6 @@
     "assets/qici3.png",
     "assets/qici3.png",
     "2-4. 线性方程组/同解方程组.md",
-    "2-5. 特征值与特征向量/特征值与特征向量.md",
     "2-6. 二次型",
     "2-5. 特征值与特征向量",
     "2-4. 线性方程组",
