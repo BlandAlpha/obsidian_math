@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-1. 函数的极限与连续/泰勒公式.md",
+                "file": "1-3. 一元函数微分学/3. 应用/1. 几何应用/单调性与极值的判别.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "泰勒公式"
+              "title": "单调性与极值的判别"
             }
           },
           {
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "泰勒",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,13 +87,11 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d7472a4391b2c7bd",
@@ -179,10 +177,11 @@
       "publish:发布更改": false
     }
   },
-  "active": "eebe4bc2924c770a",
+  "active": "dcb32790da0f9d2c",
   "lastOpenFiles": [
-    "1-3. 一元函数微分学/2. 计算/高阶导数求导.md",
+    "1-3. 一元函数微分学/3. 应用/1. 几何应用/凹凸性与拐点的判别.md",
     "1-1. 函数的极限与连续/泰勒公式.md",
+    "1-3. 一元函数微分学/2. 计算/高阶导数求导.md",
     "1-1. 函数的极限与连续/洛必达法则.md",
     "欢迎！.md",
     "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
@@ -213,7 +212,6 @@
     "0. 杂项/重要题目.md",
     "1-1. 函数的极限与连续/1. 函数的极限与连续.md",
     "1-7. 微分方程/高阶线性微分方程求解.md",
-    "2-3. 向量组/向量与向量组的线性相关性.md",
     "assets/qici4.png",
     "assets/qici3.png",
     "assets/qici3.png",
