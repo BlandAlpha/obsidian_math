@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-3. 一元函数微分学/3. 应用/1. 几何应用/单调性与极值的判别.md",
-                "mode": "preview",
+                "file": "欢迎！.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "单调性与极值的判别"
+              "title": "欢迎！"
             }
           },
           {
@@ -54,7 +54,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -141,7 +142,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -153,7 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎！.md"
+                "file": "欢迎！.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "欢迎！ 的大纲"
@@ -177,8 +183,9 @@
       "publish:发布更改": false
     }
   },
-  "active": "dcb32790da0f9d2c",
+  "active": "eebe4bc2924c770a",
   "lastOpenFiles": [
+    "1-3. 一元函数微分学/3. 应用/1. 几何应用/单调性与极值的判别.md",
     "1-3. 一元函数微分学/3. 应用/1. 几何应用/凹凸性与拐点的判别.md",
     "1-1. 函数的极限与连续/泰勒公式.md",
     "1-3. 一元函数微分学/2. 计算/高阶导数求导.md",
@@ -211,7 +218,6 @@
     "2-5. 特征值与特征向量/5. 特征值与特征向量.md",
     "0. 杂项/重要题目.md",
     "1-1. 函数的极限与连续/1. 函数的极限与连续.md",
-    "1-7. 微分方程/高阶线性微分方程求解.md",
     "assets/qici4.png",
     "assets/qici3.png",
     "assets/qici3.png",
