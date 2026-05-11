@@ -1,5 +1,7 @@
 ## 考研数学2 Obsidian 笔记本
 
+[![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/f7633047-d1bd-401d-80f5-778f6e9ba6b8.svg)](https://oosmetrics.com/repo/BlandAlpha/obsidian_math)
+
 > [!NOTE]
 > 本项目遵循 `GPL-3.0` 协议开源。任何衍生项目**必须**遵守相同协议进行开源。
 
