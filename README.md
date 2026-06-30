@@ -1,7 +1,5 @@
 ## 考研数学2 Obsidian 笔记本
 
-[![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/f7633047-d1bd-401d-80f5-778f6e9ba6b8.svg)](https://oosmetrics.com/repo/BlandAlpha/obsidian_math)
-
 > [!NOTE]
 > 本项目遵循 `GPL-3.0` 协议开源。任何衍生项目**必须**遵守相同协议进行开源。
 
@@ -20,8 +18,7 @@
 
 ### 更新说明
 
-- **在线浏览请前往 [网页版](https://publish.obsidian.md/gee-math-2) **。本网站将在 `2026年06月26日` 到期。
-- 由于个人原因，编写平台将从iPad更改为**Windows**，并将引入**更多插件**以加速工作流。
+- **在线浏览请前往 [网页版](https://publish.obsidian.md/gee-math-2) **。本网站将在 `2027年06月30日` 到期。
 
 ---
 

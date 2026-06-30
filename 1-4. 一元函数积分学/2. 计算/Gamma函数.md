@@ -23,7 +23,7 @@ $$\Gamma (\alpha) = 2 \int^{+\infty}_{0} t^{2\alpha-1} e^{-t^{2}} \mathrm{d}t ~ 
 
 $$\Gamma (\alpha) = \int^{+\infty}_{0} x^{\alpha-1} e^{-x} \mathrm{d}x$$
 
-$$\Gamma (\alpha - 1) = \int^{+\infty}_{0} x^{\alpha} e^{-x} \mathrm{d}x = \alpha \Gamma(\alpha)$$
+$$\Gamma (\alpha + 1) = \int^{+\infty}_{0} x^{\alpha} e^{-x} \mathrm{d}x = \alpha \Gamma(\alpha)$$
 
 ### 若 $x$ 为整数
 
